@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-08T00:13:46.465700",
+    "jsonfiledate": "2025-08-08T00:28:03.130722",
     "chargerCount": 72,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -3495,7 +3495,7 @@
       ]
     },
     {
-      "filedate": "2025-08-08T00:12:29.916897",
+      "filedate": "2025-08-08T00:23:14.148095",
       "name": "Urmond, Netherlands",
       "address": "Mauritslaan 65, 6129 EL Urmond, NL",
       "gps": {
