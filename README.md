@@ -1,4 +1,4 @@
-# Tesla Supercharger Netherlands JSON
+# Tesla Supercharger Europe JSON
 
 This repository contains up-to-date data of all known Tesla Supercharger locations in the Netherlands, including address, GPS coordinates, pricing details, number of stalls, and additional metadata.
 
