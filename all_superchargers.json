@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-08T12:42:34.179444",
-    "chargerCount": 165,
+    "jsonfiledate": "2025-08-08T12:44:45.258276",
+    "chargerCount": 166,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 165,
+    "successCount": 166,
     "errorCount": 0
   },
   "locations": [
@@ -6032,6 +6032,57 @@
             {
               "label": "Base Rate",
               "rate": "€0.58/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-08T12:43:48.034752",
+      "name": "Hasselt, Belgium",
+      "address": "Kempische Steenweg 293/16, 3500 Hasselt, BE",
+      "gps": {
+        "lat": 50.951661,
+        "lon": 5.353111
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (up to)",
+          "pricingDetails": [
+            {
+              "label": "12:00 AM - 4:00 AM",
+              "rate": "€0.19/kWh"
+            },
+            {
+              "label": "4:00 AM - 8:00 AM",
+              "rate": "€0.19/kWh"
+            },
+            {
+              "label": "8:00 AM - 12:00 AM",
+              "rate": "€0.37/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (up to)",
+          "pricingDetails": [
+            {
+              "label": "12:00 AM - 4:00 AM",
+              "rate": "€0.26/kWh"
+            },
+            {
+              "label": "4:00 AM - 8:00 AM",
+              "rate": "€0.26/kWh"
+            },
+            {
+              "label": "8:00 AM - 12:00 AM",
+              "rate": "€0.51/kWh"
             }
           ]
         }
