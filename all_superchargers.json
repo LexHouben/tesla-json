@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-08T14:27:01.671367",
+    "jsonfiledate": "2025-08-08T15:00:25.129368",
     "chargerCount": 166,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -477,7 +477,39 @@
       ]
     },
     {
-      "filedate": "2025-08-02T23:40:34.142629"
+      "filedate": "2025-08-08T14:56:32.260692",
+      "name": "Achim-Ost, Germany",
+      "address": "Margarete-Steiff-Allee 8, 28832 Achim, DE",
+      "gps": {
+        "lat": 53.018526,
+        "lon": 9.070237
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.60/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
       "filedate": "2025-08-03T06:25:37.520869",
