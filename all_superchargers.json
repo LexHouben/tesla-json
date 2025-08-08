@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-08T19:00:27.815323",
-    "chargerCount": 181,
+    "jsonfiledate": "2025-08-08T20:00:27.160993",
+    "chargerCount": 185,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 181,
+    "successCount": 185,
     "errorCount": 0
   },
   "locations": [
@@ -1081,6 +1081,57 @@
             {
               "label": "Base Rate",
               "rate": "€0.58/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-08T19:51:25.462501",
+      "name": "Kaiserslautern, Germany - Merkurstraße",
+      "address": "Merkurstraße 57, 67663 Kaiserslautern, DE",
+      "gps": {
+        "lat": 49.4417947,
+        "lon": 7.7077549
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,39/kWh"
+            },
+            {
+              "label": "04:00 - 23:00",
+              "rate": "€ 0,44/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,39/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,54/kWh"
+            },
+            {
+              "label": "04:00 - 23:00",
+              "rate": "€ 0,62/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,54/kWh"
             }
           ]
         }
@@ -7107,6 +7158,159 @@
             {
               "label": "16:00 - 20:00",
               "rate": "€ 0,70/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,64/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-08T19:05:04.587940",
+      "name": "Irschenberg, Germany",
+      "address": "Wendling 14, 83737 Irschenberg, DE",
+      "gps": {
+        "lat": 47.827159,
+        "lon": 11.898139
+      },
+      "stalls": 9,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,46/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,50/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,46/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,64/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,70/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,64/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-08T19:20:40.479393",
+      "name": "Irxleben, Germany",
+      "address": "Gewerbestraße 25, 39167 Hohe Börde, DE",
+      "gps": {
+        "lat": 52.170995,
+        "lon": 11.485704
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,46/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,50/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,46/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,64/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,70/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,64/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-08T19:34:24.360184",
+      "name": "Jettingen, Germany",
+      "address": "Robert-Bosch Straße 10, 89343 Jettingen-Scheppach, DE",
+      "gps": {
+        "lat": 48.411111,
+        "lon": 10.440637
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,46/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,51/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,46/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,64/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,71/kWh"
             },
             {
               "label": "20:00 - 00:00",
