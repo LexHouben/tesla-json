@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-08T12:57:12.879021",
+    "jsonfiledate": "2025-08-08T13:00:27.656993",
     "chargerCount": 166,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -2992,15 +2992,15 @@
           "idleLabel": "Idle fees (up to)",
           "pricingDetails": [
             {
-              "label": "12:00 AM - 4:00 AM",
+              "label": "00:00 - 4:00",
               "rate": "€0.20/kWh"
             },
             {
-              "label": "4:00 AM - 9:00 AM",
+              "label": "4:00 - 9:00",
               "rate": "€0.20/kWh"
             },
             {
-              "label": "9:00 AM - 12:00 AM",
+              "label": "9:00 - 00:00",
               "rate": "€0.41/kWh"
             }
           ]
@@ -3011,15 +3011,15 @@
           "idleLabel": "Idle fees (up to)",
           "pricingDetails": [
             {
-              "label": "12:00 AM - 4:00 AM",
+              "label": "00:00 - 4:00",
               "rate": "€0.28/kWh"
             },
             {
-              "label": "4:00 AM - 9:00 AM",
+              "label": "4:00 - 9:00",
               "rate": "€0.28/kWh"
             },
             {
-              "label": "9:00 AM - 12:00 AM",
+              "label": "9:00 - 00:00",
               "rate": "€0.57/kWh"
             }
           ]
@@ -3196,19 +3196,19 @@
           "idleLabel": "Idle fees (up to)",
           "pricingDetails": [
             {
-              "label": "12:00 AM - 4:00 AM",
+              "label": "00:00 - 4:00",
               "rate": "€0.25/kWh"
             },
             {
-              "label": "4:00 AM - 9:00 AM",
+              "label": "4:00 - 9:00",
               "rate": "€0.25/kWh"
             },
             {
-              "label": "9:00 AM - 11:00 PM",
+              "label": "9:00 - 23:00",
               "rate": "€0.38/kWh"
             },
             {
-              "label": "11:00 PM - 12:00 AM",
+              "label": "23:00 - 00:00",
               "rate": "€0.25/kWh"
             }
           ]
@@ -3219,19 +3219,19 @@
           "idleLabel": "Idle fees (up to)",
           "pricingDetails": [
             {
-              "label": "12:00 AM - 4:00 AM",
+              "label": "00:00 - 4:00",
               "rate": "€0.35/kWh"
             },
             {
-              "label": "4:00 AM - 9:00 AM",
+              "label": "4:00 - 9:00",
               "rate": "€0.35/kWh"
             },
             {
-              "label": "9:00 AM - 11:00 PM",
+              "label": "9:00 - 23:00",
               "rate": "€0.54/kWh"
             },
             {
-              "label": "11:00 PM - 12:00 AM",
+              "label": "23:00 - 00:00",
               "rate": "€0.35/kWh"
             }
           ]
@@ -3365,15 +3365,15 @@
           "idleLabel": "Idle fees (up to)",
           "pricingDetails": [
             {
-              "label": "12:00 AM - 4:00 PM",
+              "label": "00:00 - 16:00",
               "rate": "€0.37/kWh"
             },
             {
-              "label": "4:00 PM - 8:00 PM",
+              "label": "16:00 - 20:00",
               "rate": "€0.40/kWh"
             },
             {
-              "label": "8:00 PM - 12:00 AM",
+              "label": "20:00 - 00:00",
               "rate": "€0.37/kWh"
             }
           ]
@@ -3384,15 +3384,15 @@
           "idleLabel": "Idle fees (up to)",
           "pricingDetails": [
             {
-              "label": "12:00 AM - 4:00 PM",
+              "label": "00:00 - 16:00",
               "rate": "€0.51/kWh"
             },
             {
-              "label": "4:00 PM - 8:00 PM",
+              "label": "16:00 - 20:00",
               "rate": "€0.57/kWh"
             },
             {
-              "label": "8:00 PM - 12:00 AM",
+              "label": "20:00 - 00:00",
               "rate": "€0.51/kWh"
             }
           ]
@@ -4242,19 +4242,19 @@
           "idleLabel": "Idle fees (up to)",
           "pricingDetails": [
             {
-              "label": "12:00 AM - 4:00 AM",
+              "label": "00:00 - 4:00",
               "rate": "€0.19/kWh"
             },
             {
-              "label": "4:00 AM - 8:00 AM",
+              "label": "4:00 - 8:00",
               "rate": "€0.19/kWh"
             },
             {
-              "label": "8:00 AM - 8:00 PM",
+              "label": "8:00 - 20:00",
               "rate": "€0.42/kWh"
             },
             {
-              "label": "8:00 PM - 12:00 AM",
+              "label": "20:00 - 00:00",
               "rate": "€0.36/kWh"
             }
           ]
@@ -4265,19 +4265,19 @@
           "idleLabel": "Idle fees (up to)",
           "pricingDetails": [
             {
-              "label": "12:00 AM - 4:00 AM",
+              "label": "00:00 - 4:00",
               "rate": "€0.27/kWh"
             },
             {
-              "label": "4:00 AM - 8:00 AM",
+              "label": "4:00 - 8:00",
               "rate": "€0.27/kWh"
             },
             {
-              "label": "8:00 AM - 8:00 PM",
+              "label": "8:00 - 20:00",
               "rate": "€0.58/kWh"
             },
             {
-              "label": "8:00 PM - 12:00 AM",
+              "label": "20:00 - 00:00",
               "rate": "€0.51/kWh"
             }
           ]
@@ -4352,15 +4352,15 @@
           "idleLabel": "Idle fees (up to)",
           "pricingDetails": [
             {
-              "label": "12:00 AM - 4:00 AM",
+              "label": "00:00 - 4:00",
               "rate": "€0.21/kWh"
             },
             {
-              "label": "4:00 AM - 10:00 AM",
+              "label": "4:00 - 10:00",
               "rate": "€0.21/kWh"
             },
             {
-              "label": "10:00 AM - 12:00 AM",
+              "label": "10:00 - 00:00",
               "rate": "€0.42/kWh"
             }
           ]
@@ -6054,15 +6054,15 @@
           "idleLabel": "Idle fees (up to)",
           "pricingDetails": [
             {
-              "label": "12:00 AM - 4:00 AM",
+              "label": "00:00 - 4:00",
               "rate": "€0.19/kWh"
             },
             {
-              "label": "4:00 AM - 8:00 AM",
+              "label": "4:00 - 8:00",
               "rate": "€0.19/kWh"
             },
             {
-              "label": "8:00 AM - 12:00 AM",
+              "label": "8:00 - 00:00",
               "rate": "€0.37/kWh"
             }
           ]
@@ -6073,15 +6073,15 @@
           "idleLabel": "Idle fees (up to)",
           "pricingDetails": [
             {
-              "label": "12:00 AM - 4:00 AM",
+              "label": "00:00 - 4:00",
               "rate": "€0.26/kWh"
             },
             {
-              "label": "4:00 AM - 8:00 AM",
+              "label": "4:00 - 8:00",
               "rate": "€0.26/kWh"
             },
             {
-              "label": "8:00 AM - 12:00 AM",
+              "label": "8:00 - 00:00",
               "rate": "€0.51/kWh"
             }
           ]
@@ -6408,19 +6408,19 @@
           "idleLabel": "Idle fees (up to)",
           "pricingDetails": [
             {
-              "label": "12:00 AM - 4:00 AM",
+              "label": "00:00 - 4:00",
               "rate": "€0.19/kWh"
             },
             {
-              "label": "4:00 AM - 9:00 AM",
+              "label": "4:00 - 9:00",
               "rate": "€0.32/kWh"
             },
             {
-              "label": "9:00 AM - 8:00 PM",
+              "label": "9:00 - 20:00",
               "rate": "€0.41/kWh"
             },
             {
-              "label": "8:00 PM - 12:00 AM",
+              "label": "20:00 - 00:00",
               "rate": "€0.32/kWh"
             }
           ]
@@ -6431,19 +6431,19 @@
           "idleLabel": "Idle fees (up to)",
           "pricingDetails": [
             {
-              "label": "12:00 AM - 4:00 AM",
+              "label": "00:00 - 4:00",
               "rate": "€0.27/kWh"
             },
             {
-              "label": "4:00 AM - 9:00 AM",
+              "label": "4:00 - 9:00",
               "rate": "€0.45/kWh"
             },
             {
-              "label": "9:00 AM - 8:00 PM",
+              "label": "9:00 - 20:00",
               "rate": "€0.57/kWh"
             },
             {
-              "label": "8:00 PM - 12:00 AM",
+              "label": "20:00 - 00:00",
               "rate": "€0.45/kWh"
             }
           ]
@@ -6585,15 +6585,15 @@
           "idleLabel": "Idle fees (up to)",
           "pricingDetails": [
             {
-              "label": "12:00 AM - 4:00 AM",
+              "label": "00:00 - 4:00",
               "rate": "€0.23/kWh"
             },
             {
-              "label": "4:00 AM - 9:00 AM",
+              "label": "4:00 - 9:00",
               "rate": "€0.23/kWh"
             },
             {
-              "label": "9:00 AM - 12:00 AM",
+              "label": "9:00 - 00:00",
               "rate": "€0.35/kWh"
             }
           ]
@@ -6604,15 +6604,15 @@
           "idleLabel": "Idle fees (up to)",
           "pricingDetails": [
             {
-              "label": "12:00 AM - 4:00 AM",
+              "label": "00:00 - 4:00",
               "rate": "€0.33/kWh"
             },
             {
-              "label": "4:00 AM - 9:00 AM",
+              "label": "4:00 - 9:00",
               "rate": "€0.33/kWh"
             },
             {
-              "label": "9:00 AM - 12:00 AM",
+              "label": "9:00 - 00:00",
               "rate": "€0.49/kWh"
             }
           ]
@@ -6636,19 +6636,19 @@
           "idleLabel": "Idle fees (up to)",
           "pricingDetails": [
             {
-              "label": "12:00 AM - 4:00 AM",
+              "label": "00:00 - 4:00",
               "rate": "€0.22/kWh"
             },
             {
-              "label": "4:00 AM - 9:00 AM",
+              "label": "4:00 - 9:00",
               "rate": "€0.22/kWh"
             },
             {
-              "label": "9:00 AM - 8:00 PM",
+              "label": "9:00 - 20:00",
               "rate": "€0.42/kWh"
             },
             {
-              "label": "8:00 PM - 12:00 AM",
+              "label": "20:00 - 00:00",
               "rate": "€0.34/kWh"
             }
           ]
@@ -6659,19 +6659,19 @@
           "idleLabel": "Idle fees (up to)",
           "pricingDetails": [
             {
-              "label": "12:00 AM - 4:00 AM",
+              "label": "00:00 - 4:00",
               "rate": "€0.30/kWh"
             },
             {
-              "label": "4:00 AM - 9:00 AM",
+              "label": "4:00 - 9:00",
               "rate": "€0.30/kWh"
             },
             {
-              "label": "9:00 AM - 8:00 PM",
+              "label": "9:00 - 20:00",
               "rate": "€0.58/kWh"
             },
             {
-              "label": "8:00 PM - 12:00 AM",
+              "label": "20:00 - 00:00",
               "rate": "€0.48/kWh"
             }
           ]
@@ -6695,19 +6695,19 @@
           "idleLabel": "Idle fees (up to)",
           "pricingDetails": [
             {
-              "label": "12:00 AM - 4:00 AM",
+              "label": "00:00 - 4:00",
               "rate": "€0.20/kWh"
             },
             {
-              "label": "4:00 AM - 9:00 AM",
+              "label": "4:00 - 9:00",
               "rate": "€0.20/kWh"
             },
             {
-              "label": "9:00 AM - 8:00 PM",
+              "label": "9:00 - 20:00",
               "rate": "€0.42/kWh"
             },
             {
-              "label": "8:00 PM - 12:00 AM",
+              "label": "20:00 - 00:00",
               "rate": "€0.36/kWh"
             }
           ]
@@ -6718,19 +6718,19 @@
           "idleLabel": "Idle fees (up to)",
           "pricingDetails": [
             {
-              "label": "12:00 AM - 4:00 AM",
+              "label": "00:00 - 4:00",
               "rate": "€0.28/kWh"
             },
             {
-              "label": "4:00 AM - 9:00 AM",
+              "label": "4:00 - 9:00",
               "rate": "€0.28/kWh"
             },
             {
-              "label": "9:00 AM - 8:00 PM",
+              "label": "9:00 - 20:00",
               "rate": "€0.58/kWh"
             },
             {
-              "label": "8:00 PM - 12:00 AM",
+              "label": "20:00 - 00:00",
               "rate": "€0.51/kWh"
             }
           ]
@@ -6982,19 +6982,19 @@
           "idleLabel": "Idle fees (up to)",
           "pricingDetails": [
             {
-              "label": "12:00 AM - 4:00 AM",
+              "label": "00:00 - 4:00",
               "rate": "€0.20/kWh"
             },
             {
-              "label": "4:00 AM - 8:00 AM",
+              "label": "4:00 - 8:00",
               "rate": "€0.20/kWh"
             },
             {
-              "label": "8:00 AM - 8:00 PM",
+              "label": "8:00 - 20:00",
               "rate": "€0.41/kWh"
             },
             {
-              "label": "8:00 PM - 12:00 AM",
+              "label": "20:00 - 00:00",
               "rate": "€0.32/kWh"
             }
           ]
@@ -7005,19 +7005,19 @@
           "idleLabel": "Idle fees (up to)",
           "pricingDetails": [
             {
-              "label": "12:00 AM - 4:00 AM",
+              "label": "00:00 - 4:00",
               "rate": "€0.28/kWh"
             },
             {
-              "label": "4:00 AM - 8:00 AM",
+              "label": "4:00 - 8:00",
               "rate": "€0.28/kWh"
             },
             {
-              "label": "8:00 AM - 8:00 PM",
+              "label": "8:00 - 20:00",
               "rate": "€0.57/kWh"
             },
             {
-              "label": "8:00 PM - 12:00 AM",
+              "label": "20:00 - 00:00",
               "rate": "€0.45/kWh"
             }
           ]
@@ -7041,19 +7041,19 @@
           "idleLabel": "Idle fees (up to)",
           "pricingDetails": [
             {
-              "label": "12:00 AM - 4:00 AM",
+              "label": "00:00 - 4:00",
               "rate": "€0.19/kWh"
             },
             {
-              "label": "4:00 AM - 8:00 AM",
+              "label": "4:00 - 8:00",
               "rate": "€0.19/kWh"
             },
             {
-              "label": "8:00 AM - 8:00 PM",
+              "label": "8:00 - 20:00",
               "rate": "€0.42/kWh"
             },
             {
-              "label": "8:00 PM - 12:00 AM",
+              "label": "20:00 - 00:00",
               "rate": "€0.35/kWh"
             }
           ]
@@ -7064,19 +7064,19 @@
           "idleLabel": "Idle fees (up to)",
           "pricingDetails": [
             {
-              "label": "12:00 AM - 4:00 AM",
+              "label": "00:00 - 4:00",
               "rate": "€0.27/kWh"
             },
             {
-              "label": "4:00 AM - 8:00 AM",
+              "label": "4:00 - 8:00",
               "rate": "€0.27/kWh"
             },
             {
-              "label": "8:00 AM - 8:00 PM",
+              "label": "8:00 - 20:00",
               "rate": "€0.58/kWh"
             },
             {
-              "label": "8:00 PM - 12:00 AM",
+              "label": "20:00 - 00:00",
               "rate": "€0.48/kWh"
             }
           ]
@@ -7685,19 +7685,19 @@
           "idleLabel": "Idle fees (up to)",
           "pricingDetails": [
             {
-              "label": "12:00 AM - 4:00 AM",
+              "label": "00:00 - 4:00",
               "rate": "€0.27/kWh"
             },
             {
-              "label": "4:00 AM - 10:00 AM",
+              "label": "4:00 - 10:00",
               "rate": "€0.27/kWh"
             },
             {
-              "label": "10:00 AM - 9:00 PM",
+              "label": "10:00 - 21:00",
               "rate": "€0.32/kWh"
             },
             {
-              "label": "9:00 PM - 12:00 AM",
+              "label": "21:00 - 00:00",
               "rate": "€0.27/kWh"
             }
           ]
@@ -7708,19 +7708,19 @@
           "idleLabel": "Idle fees (up to)",
           "pricingDetails": [
             {
-              "label": "12:00 AM - 4:00 AM",
+              "label": "00:00 - 4:00",
               "rate": "€0.37/kWh"
             },
             {
-              "label": "4:00 AM - 10:00 AM",
+              "label": "4:00 - 10:00",
               "rate": "€0.37/kWh"
             },
             {
-              "label": "10:00 AM - 9:00 PM",
+              "label": "10:00 - 21:00",
               "rate": "€0.45/kWh"
             },
             {
-              "label": "9:00 PM - 12:00 AM",
+              "label": "21:00 - 00:00",
               "rate": "€0.37/kWh"
             }
           ]
@@ -7779,19 +7779,19 @@
           "idleLabel": "Idle fees (up to)",
           "pricingDetails": [
             {
-              "label": "12:00 AM - 4:00 AM",
+              "label": "00:00 - 4:00",
               "rate": "€0.29/kWh"
             },
             {
-              "label": "4:00 AM - 9:00 AM",
+              "label": "4:00 - 9:00",
               "rate": "€0.29/kWh"
             },
             {
-              "label": "9:00 AM - 10:00 PM",
+              "label": "9:00 - 22:00",
               "rate": "€0.38/kWh"
             },
             {
-              "label": "10:00 PM - 12:00 AM",
+              "label": "22:00 - 00:00",
               "rate": "€0.29/kWh"
             }
           ]
@@ -7802,19 +7802,19 @@
           "idleLabel": "Idle fees (up to)",
           "pricingDetails": [
             {
-              "label": "12:00 AM - 4:00 AM",
+              "label": "00:00 - 4:00",
               "rate": "€0.40/kWh"
             },
             {
-              "label": "4:00 AM - 9:00 AM",
+              "label": "4:00 - 9:00",
               "rate": "€0.40/kWh"
             },
             {
-              "label": "9:00 AM - 10:00 PM",
+              "label": "9:00 - 22:00",
               "rate": "€0.54/kWh"
             },
             {
-              "label": "10:00 PM - 12:00 AM",
+              "label": "22:00 - 00:00",
               "rate": "€0.40/kWh"
             }
           ]
