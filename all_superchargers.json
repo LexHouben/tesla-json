@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-08T12:45:50.692091",
+    "jsonfiledate": "2025-08-08T12:48:50.789356",
     "chargerCount": 166,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -6207,7 +6207,7 @@
       ]
     },
     {
-      "filedate": "2025-08-01T14:10:51.312616",
+      "filedate": "2025-08-08T12:48:36.487242",
       "name": "Heusden-Zolder, Belgium",
       "address": "Industrieweg 15, 3550 Heusden-Zolder, BE",
       "gps": {
@@ -6224,15 +6224,15 @@
           "pricingDetails": [
             {
               "label": "00:00 - 04:00",
-              "rate": "€ 0,22/kWh"
+              "rate": "€ 0,19/kWh"
             },
             {
               "label": "04:00 - 09:00",
-              "rate": "€ 0,22/kWh"
+              "rate": "€ 0,19/kWh"
             },
             {
               "label": "09:00 - 00:00",
-              "rate": "€ 0,40/kWh"
+              "rate": "€ 0,39/kWh"
             }
           ]
         },
@@ -6243,11 +6243,11 @@
           "pricingDetails": [
             {
               "label": "00:00 - 04:00",
-              "rate": "€ 0,30/kWh"
+              "rate": "€ 0,26/kWh"
             },
             {
               "label": "04:00 - 09:00",
-              "rate": "€ 0,30/kWh"
+              "rate": "€ 0,26/kWh"
             },
             {
               "label": "09:00 - 00:00",
