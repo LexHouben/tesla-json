@@ -5,7 +5,7 @@ This repository contains up-to-date data of all known Tesla Supercharger locatio
 ## 📂 File Structure
 
 - `all_superchargers.json`: Main data file containing all supercharger locations and their attributes.
-- `parse_all_superchargers.py`: Python script used to generate and update the JSON file from raw data.
+
 
 ## ☕ Buy Me a Coffee
 
