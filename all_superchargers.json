@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-08T21:00:27.793903",
-    "chargerCount": 189,
+    "jsonfiledate": "2025-08-08T22:00:27.877045",
+    "chargerCount": 193,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 189,
+    "successCount": 193,
     "errorCount": 0
   },
   "locations": [
@@ -1138,6 +1138,65 @@
       ]
     },
     {
+      "filedate": "2025-08-08T21:24:59.104789",
+      "name": "Karlsruhe, Germany - Carl-Metz-Straße",
+      "address": "Carl-Metz-Straße 7, 76185 Karlsruhe, DE",
+      "gps": {
+        "lat": 49.0095,
+        "lon": 8.353957
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,58/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,42/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "filedate": "2025-08-04T14:40:43.249998",
       "name": "Eislingen/Fils, Germany",
       "address": "Steinbeisstr. 6, 73054 Eislingen/Fils, DE",
@@ -2032,6 +2091,57 @@
             {
               "label": "23:00 - 00:00",
               "rate": "€ 0,43/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-08T21:41:57.085686",
+      "name": "Kassel, Germany",
+      "address": "Göttinger Str. 33, 34123 Kassel, DE",
+      "gps": {
+        "lat": 51.3083955,
+        "lon": 9.5460775
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,45/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,52/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,45/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,64/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,72/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,64/kWh"
             }
           ]
         }
@@ -7476,6 +7586,100 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,64/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-08T21:09:39.157927",
+      "name": "Karlsruhe, Germany",
+      "address": "Wolfartsweierer Str. 48, 76137 Karlsruhe, DE",
+      "gps": {
+        "lat": 48.999005,
+        "lon": 8.428497
+      },
+      "stalls": 11,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,26/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,26/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,43/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,26/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,37/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,37/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,60/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,37/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-08T21:58:24.997602",
+      "name": "Kassel, Germany - GALERIA",
+      "address": "Neue Fahrt 9, 34117 Kassel, DE",
+      "gps": {
+        "lat": 51.313806,
+        "lon": 9.492705
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.60/kWh"
             }
           ]
         }
