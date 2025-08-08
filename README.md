@@ -1,6 +1,6 @@
 # Tesla Supercharger Europe JSON
 
-This repository contains up-to-date data of all known Tesla Supercharger locations in the Netherlands, including address, GPS coordinates, pricing details, number of stalls, and additional metadata.
+This repository contains up-to-date data of all known Tesla Supercharger locations in Europe, including address, GPS coordinates, pricing details, number of stalls, and additional metadata.
 
 ## 📂 File Structure
 
@@ -8,7 +8,11 @@ This repository contains up-to-date data of all known Tesla Supercharger locatio
 - `parse_all_superchargers.py`: Python script used to generate and update the JSON file from raw data.
 
 ## ☕ Buy Me a Coffee
-If you appreciate this project and want to support its development, you can buy me a coffee ☕. Cheers!
+
+If you appreciate this project and want to support its development, you can [buy me a coffee](https://www.buymeacoffee.com/lexhhouben) ☕. Cheers!
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-coffee-brown?style=for-the-badge&logo=buymeacoffee)](https://www.buymeacoffee.com/lexhhouben)
+
 
 ## 📦 Data Structure
 
