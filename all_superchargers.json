@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-08T22:00:27.877045",
-    "chargerCount": 193,
+    "jsonfiledate": "2025-08-08T22:45:19.668854",
+    "chargerCount": 195,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 193,
+    "successCount": 195,
     "errorCount": 0
   },
   "locations": [
@@ -1522,6 +1522,57 @@
       ]
     },
     {
+      "filedate": "2025-08-08T22:32:22.530302",
+      "name": "Dietmannsried, Germany",
+      "address": "Glaserstraße 2, 87463 Dietmannsried, DE",
+      "gps": {
+        "lat": 47.8114715,
+        "lon": 10.3031486
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,46/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,50/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,46/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,64/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,70/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,64/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "filedate": "2025-08-03T03:25:53.817609",
       "name": "Bernau am Chiemsee - Felden, Germany",
       "address": "Hochfellnstraße 45, 83233 Bernau am Chiemsee, DE",
@@ -1728,6 +1779,41 @@
             {
               "label": "23:00 - 00:00",
               "rate": "€ 0,49/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-08T22:15:42.215848",
+      "name": "Kaufering, Germany",
+      "address": "Viktor-Frankl-Straße 3A, 86916 Kaufering, DE",
+      "gps": {
+        "lat": 48.080946,
+        "lon": 10.858281
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.60/kWh"
             }
           ]
         }
