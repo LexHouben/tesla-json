@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-08T22:45:19.668854",
-    "chargerCount": 195,
+    "jsonfiledate": "2025-08-08T23:45:22.917135",
+    "chargerCount": 199,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 195,
+    "successCount": 199,
     "errorCount": 0
   },
   "locations": [
@@ -63,6 +63,57 @@
             {
               "label": "23:00 - 00:00",
               "rate": "€ 0,33/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-08T23:38:02.763243",
+      "name": "Wertheim-Almosenberg, Germany",
+      "address": "Fuchsenacker 2, 97877 Wertheim, DE",
+      "gps": {
+        "lat": 49.772654,
+        "lon": 9.584564
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,45/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,51/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,45/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,63/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,72/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,63/kWh"
             }
           ]
         }
@@ -2524,6 +2575,57 @@
       ]
     },
     {
+      "filedate": "2025-08-08T22:49:19.144051",
+      "name": "Füssen, Germany",
+      "address": "Kemptener Strasse 88, 87629 Füssen, DE",
+      "gps": {
+        "lat": 47.568165,
+        "lon": 10.675941
+      },
+      "stalls": 18,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,46/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,50/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,46/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,64/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,70/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,64/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "filedate": "2025-08-03T14:12:45.909284",
       "name": "Frankfurt, Germany - Am Flughafen",
       "address": "Am Flughafen 12, 60549 Frankfurt am Main, DE",
@@ -4143,6 +4245,65 @@
             {
               "label": "Base Rate",
               "rate": "€0.58/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-08T23:06:12.420538",
+      "name": "Kerpen, Germany",
+      "address": "Kerpener strasse 150, 50170 Kerpen, DE",
+      "gps": {
+        "lat": 50.897737,
+        "lon": 6.682515
+      },
+      "stalls": 19,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,32/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,32/kWh"
+            },
+            {
+              "label": "09:00 - 22:00",
+              "rate": "€ 0,43/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,32/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,45/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,45/kWh"
+            },
+            {
+              "label": "09:00 - 22:00",
+              "rate": "€ 0,60/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,45/kWh"
             }
           ]
         }
@@ -7766,6 +7927,57 @@
             {
               "label": "Base Rate",
               "rate": "€0.60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-08T23:22:06.910104",
+      "name": "Kirchheim, Germany",
+      "address": "Hauptstraße 1, 36275 Kirchheim, DE",
+      "gps": {
+        "lat": 50.834604,
+        "lon": 9.573799
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,46/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,50/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,46/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,64/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,70/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,64/kWh"
             }
           ]
         }
