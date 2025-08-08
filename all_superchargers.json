@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-09T00:46:13.066422",
-    "chargerCount": 203,
+    "jsonfiledate": "2025-08-09T01:45:53.855861",
+    "chargerCount": 206,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 203,
+    "successCount": 206,
     "errorCount": 0
   },
   "locations": [
@@ -114,6 +114,41 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,63/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-09T01:18:48.495569",
+      "name": "Kösching, Germany",
+      "address": "Ruppertswies 4, 85092 Kösching, DE",
+      "gps": {
+        "lat": 48.81126,
+        "lon": 11.480086
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.40/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.56/kWh"
             }
           ]
         }
@@ -975,6 +1010,9 @@
           ]
         }
       ]
+    },
+    {
+      "filedate": "2025-08-09T01:34:06.608645"
     },
     {
       "filedate": "2025-08-03T13:39:15.730654",
@@ -2263,6 +2301,41 @@
             {
               "label": "23:00 - 00:00",
               "rate": "€ 0,43/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-09T01:02:53.183523",
+      "name": "Kornwestheim, Germany",
+      "address": "Kimry-Platz 2, 70806 Kornwestheim, DE",
+      "gps": {
+        "lat": 48.860626,
+        "lon": 9.198349
+      },
+      "stalls": 6,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.61/kWh"
             }
           ]
         }
