@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-08T12:29:24.701191",
+    "jsonfiledate": "2025-08-08T12:33:46.341585",
     "chargerCount": 162,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -21,7 +21,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -44,7 +44,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -80,7 +80,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -91,7 +91,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -115,7 +115,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -134,7 +134,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -166,7 +166,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -185,7 +185,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -217,7 +217,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -228,7 +228,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -252,7 +252,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -275,7 +275,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -311,7 +311,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -334,7 +334,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -370,7 +370,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -393,7 +393,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -429,7 +429,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -452,7 +452,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -491,7 +491,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -502,7 +502,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -526,7 +526,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -537,7 +537,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -561,7 +561,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -584,7 +584,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -620,7 +620,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -631,7 +631,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -655,7 +655,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -666,7 +666,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -690,7 +690,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -713,7 +713,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -749,7 +749,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -768,7 +768,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -800,7 +800,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -811,7 +811,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -835,7 +835,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -846,7 +846,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -870,7 +870,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -881,7 +881,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -905,7 +905,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -924,7 +924,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -956,7 +956,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -975,7 +975,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1007,7 +1007,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1026,7 +1026,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1058,7 +1058,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1077,7 +1077,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1109,7 +1109,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1128,7 +1128,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1160,7 +1160,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1179,7 +1179,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1211,7 +1211,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1230,7 +1230,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1262,7 +1262,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1285,7 +1285,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1321,7 +1321,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1332,7 +1332,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1356,7 +1356,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1367,7 +1367,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1391,7 +1391,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1402,7 +1402,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1426,7 +1426,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1437,7 +1437,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1461,7 +1461,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1472,7 +1472,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1496,7 +1496,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1507,7 +1507,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1531,7 +1531,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1554,7 +1554,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1590,7 +1590,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1601,7 +1601,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1625,7 +1625,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1648,7 +1648,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1684,7 +1684,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1703,7 +1703,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1735,7 +1735,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1754,7 +1754,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1786,7 +1786,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1805,7 +1805,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1837,7 +1837,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1856,7 +1856,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1888,7 +1888,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1907,7 +1907,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1939,7 +1939,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1950,7 +1950,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1974,7 +1974,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -1985,7 +1985,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2009,7 +2009,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2020,7 +2020,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2044,7 +2044,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2063,7 +2063,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2095,7 +2095,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2118,7 +2118,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2154,7 +2154,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2173,7 +2173,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2205,7 +2205,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": null,
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2224,7 +2224,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": null,
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2256,7 +2256,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2267,7 +2267,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2291,7 +2291,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2302,7 +2302,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2326,7 +2326,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2337,7 +2337,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2361,7 +2361,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2372,7 +2372,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2396,7 +2396,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2415,7 +2415,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2447,7 +2447,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2458,7 +2458,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2482,7 +2482,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2493,7 +2493,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2517,7 +2517,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2528,7 +2528,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2552,7 +2552,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2575,7 +2575,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2611,7 +2611,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2622,7 +2622,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2646,7 +2646,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2665,7 +2665,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2697,7 +2697,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2708,7 +2708,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2732,7 +2732,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2755,7 +2755,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2791,7 +2791,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2814,7 +2814,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2850,7 +2850,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2869,7 +2869,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2901,7 +2901,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2912,7 +2912,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2936,7 +2936,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -2955,7 +2955,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3038,7 +3038,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3057,7 +3057,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3089,7 +3089,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3108,7 +3108,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3140,7 +3140,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3159,7 +3159,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3250,7 +3250,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3269,7 +3269,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3301,7 +3301,7 @@
       "maxPowerKw": 150,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3324,7 +3324,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3411,7 +3411,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3422,7 +3422,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3446,7 +3446,7 @@
       "maxPowerKw": 150,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": null,
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3469,7 +3469,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": null,
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3505,7 +3505,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3528,7 +3528,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3564,7 +3564,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3575,7 +3575,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3599,7 +3599,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3618,7 +3618,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3650,7 +3650,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3661,7 +3661,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3685,7 +3685,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3721,7 +3721,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3732,7 +3732,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3756,7 +3756,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3775,7 +3775,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3807,7 +3807,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3818,7 +3818,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3842,7 +3842,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3853,7 +3853,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3877,7 +3877,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3896,7 +3896,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3928,7 +3928,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3939,7 +3939,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3963,7 +3963,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -3986,7 +3986,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4022,7 +4022,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4033,7 +4033,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4057,7 +4057,7 @@
       "maxPowerKw": 150,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4080,7 +4080,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4116,7 +4116,7 @@
       "maxPowerKw": 150,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4135,7 +4135,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4167,7 +4167,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4178,7 +4178,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4202,7 +4202,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4213,7 +4213,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4296,7 +4296,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4315,7 +4315,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4379,7 +4379,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4402,7 +4402,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4438,7 +4438,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4449,7 +4449,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4473,7 +4473,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4492,7 +4492,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4524,7 +4524,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4535,7 +4535,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4559,7 +4559,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4578,7 +4578,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4610,7 +4610,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4633,7 +4633,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4669,7 +4669,7 @@
       "maxPowerKw": 150,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4692,7 +4692,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4728,7 +4728,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4751,7 +4751,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4787,7 +4787,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4810,7 +4810,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4846,7 +4846,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4869,7 +4869,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4940,7 +4940,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -4967,7 +4967,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5007,7 +5007,7 @@
       "maxPowerKw": 150,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5026,7 +5026,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5058,7 +5058,7 @@
       "maxPowerKw": 150,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5089,7 +5089,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5133,7 +5133,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5156,7 +5156,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5192,7 +5192,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5203,7 +5203,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5227,7 +5227,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5246,7 +5246,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5278,7 +5278,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5289,7 +5289,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5313,7 +5313,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5324,7 +5324,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5348,7 +5348,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5367,7 +5367,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5399,7 +5399,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5422,7 +5422,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5458,7 +5458,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5469,7 +5469,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5493,7 +5493,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5512,7 +5512,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5544,7 +5544,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5563,7 +5563,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5595,7 +5595,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5606,7 +5606,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5630,7 +5630,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5641,7 +5641,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5665,7 +5665,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5684,7 +5684,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5716,7 +5716,7 @@
       "maxPowerKw": 150,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5739,7 +5739,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5775,7 +5775,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5794,7 +5794,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5826,7 +5826,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5845,7 +5845,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5877,7 +5877,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5904,7 +5904,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5944,7 +5944,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5955,7 +5955,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5979,7 +5979,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -5990,7 +5990,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -6014,7 +6014,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -6025,7 +6025,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -6049,7 +6049,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -6072,7 +6072,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -6108,7 +6108,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -6127,7 +6127,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -6159,7 +6159,7 @@
       "maxPowerKw": 150,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -6186,7 +6186,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -6226,7 +6226,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -6253,7 +6253,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -6352,7 +6352,7 @@
       "maxPowerKw": 150,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -6375,7 +6375,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -6411,7 +6411,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -6434,7 +6434,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -6674,7 +6674,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -6697,7 +6697,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -6733,7 +6733,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -6764,7 +6764,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -6926,7 +6926,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -6949,7 +6949,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -6985,7 +6985,7 @@
       "maxPowerKw": 150,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -7004,7 +7004,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -7071,7 +7071,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -7094,7 +7094,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -7130,7 +7130,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -7153,7 +7153,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -7189,7 +7189,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -7212,7 +7212,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -7248,7 +7248,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -7259,7 +7259,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -7283,7 +7283,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -7314,7 +7314,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -7358,7 +7358,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -7369,7 +7369,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -7393,7 +7393,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -7416,7 +7416,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -7511,7 +7511,7 @@
       "maxPowerKw": 150,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -7522,7 +7522,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -7605,7 +7605,7 @@
       "maxPowerKw": 150,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -7628,7 +7628,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -7664,7 +7664,7 @@
       "maxPowerKw": 150,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -7683,7 +7683,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -7715,7 +7715,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -7738,7 +7738,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -7774,7 +7774,7 @@
       "maxPowerKw": 250,
       "pricing": [
         {
-          "chargingLabel": "Oplaadkosten voor eigenaar van een Tesla",
+          "chargingLabel": "Charging Fees for Tesla Owner",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
@@ -7797,7 +7797,7 @@
           ]
         },
         {
-          "chargingLabel": "Oplaadkosten voor andere elektrische voertuigen",
+          "chargingLabel": "Charging Fees for Other EVs",
           "idleFee": "€1.00/min",
           "idleLabel": "Idle fees (tot)",
           "pricingDetails": [
