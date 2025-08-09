@@ -1,14 +1,73 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-09T19:55:22.834306",
-    "chargerCount": 246,
+    "jsonfiledate": "2025-08-09T20:55:23.093951",
+    "chargerCount": 250,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 246,
+    "successCount": 250,
     "errorCount": 0
   },
   "locations": [
+    {
+      "filedate": "2025-08-09T20:50:12.124133",
+      "name": "Nürburgring, Germany",
+      "address": "Eifel-Ardennen-Straße 0, 53520 Nürburg, DE",
+      "gps": {
+        "lat": 50.331268,
+        "lon": 6.945007
+      },
+      "stalls": 4,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,28/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,37/kWh"
+            },
+            {
+              "label": "09:00 - 23:00",
+              "rate": "€ 0,43/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,28/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,39/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,53/kWh"
+            },
+            {
+              "label": "09:00 - 23:00",
+              "rate": "€ 0,60/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,39/kWh"
+            }
+          ]
+        }
+      ]
+    },
     {
       "filedate": "2025-07-16T19:27:37.633638",
       "name": "Harderwijk, Netherlands",
@@ -3080,6 +3139,41 @@
             {
               "label": "08:00 - 00:00",
               "rate": "€ 0,60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-09T20:03:51.356987",
+      "name": "Norden, Germany",
+      "address": "Zum Bahnkolk 3, 26506 Norden, DE",
+      "gps": {
+        "lat": 53.612948,
+        "lon": 7.167993
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.42/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.58/kWh"
             }
           ]
         }
@@ -10878,6 +10972,92 @@
             {
               "label": "23:00 - 00:00",
               "rate": "€ 0,33/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-09T20:18:50.807507",
+      "name": "Nossen, Germany",
+      "address": "Im Industriegebiet 1, 01683 Starbach, DE",
+      "gps": {
+        "lat": 51.082192,
+        "lon": 13.273573
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,46/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,50/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,46/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,64/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,70/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,64/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-09T20:34:28.047630",
+      "name": "Nottuln, Germany",
+      "address": "Beisenbusch 7, 48301 Nottuln, DE",
+      "gps": {
+        "lat": 51.910951,
+        "lon": 7.399182
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.60/kWh"
             }
           ]
         }
