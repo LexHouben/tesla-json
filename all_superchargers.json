@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-09T18:55:22.413284",
-    "chargerCount": 242,
+    "jsonfiledate": "2025-08-09T19:55:22.834306",
+    "chargerCount": 246,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 242,
+    "successCount": 246,
     "errorCount": 0
   },
   "locations": [
@@ -885,6 +885,57 @@
             {
               "label": "Base Rate",
               "rate": "€0.60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-09T19:34:05.208811",
+      "name": "Neumünster, Germany - Freesen Center",
+      "address": "Wasbeker Straße 330, 24537 Neumünster, DE",
+      "gps": {
+        "lat": 54.069427,
+        "lon": 9.941852
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,46/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,50/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,46/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,64/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,70/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,64/kWh"
             }
           ]
         }
@@ -1998,6 +2049,57 @@
       ]
     },
     {
+      "filedate": "2025-08-09T19:47:33.080647",
+      "name": "Neuss, Germany",
+      "address": "Schanzenstraße 1, 41460 Neuss, DE",
+      "gps": {
+        "lat": 51.200906,
+        "lon": 6.714218
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "08:00 - 00:00",
+              "rate": "€ 0,43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "08:00 - 00:00",
+              "rate": "€ 0,60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "filedate": "2025-08-04T20:14:42.108747",
       "name": "Northeim-Nord, Germany",
       "address": "Westerlange 1, 37154 Northeim, DE",
@@ -2145,6 +2247,41 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,64/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-09T19:20:51.410588",
+      "name": "Neudrossenfeld, Germany",
+      "address": "An d. Autobahn 4, 95512 Neudrossenfeld, DE",
+      "gps": {
+        "lat": 50.03775,
+        "lon": 11.489306
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.60/kWh"
             }
           ]
         }
@@ -10537,6 +10674,41 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,64/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-09T19:06:35.035061",
+      "name": "Neuberg, Germany",
+      "address": "Röntgenstraße 1, 63526 Erlensee, DE",
+      "gps": {
+        "lat": 50.181914,
+        "lon": 9.007649
+      },
+      "stalls": 6,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.60/kWh"
             }
           ]
         }
