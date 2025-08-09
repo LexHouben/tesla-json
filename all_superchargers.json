@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-09T11:55:20.063082",
-    "chargerCount": 215,
+    "jsonfiledate": "2025-08-09T12:55:20.441275",
+    "chargerCount": 219,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 215,
+    "successCount": 219,
     "errorCount": 0
   },
   "locations": [
@@ -372,6 +372,41 @@
             {
               "label": "Base Rate",
               "rate": "€0.58/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-09T12:17:42.361013",
+      "name": "Leonberg, Germany - Glemseck",
+      "address": "Glemseckstraße 66, 71229 Leonberg, DE",
+      "gps": {
+        "lat": 48.784648,
+        "lon": 9.019492
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.60/kWh"
             }
           ]
         }
@@ -802,6 +837,41 @@
         "lon": 9.070237
       },
       "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-09T12:34:46.893367",
+      "name": "Limburg, Germany",
+      "address": "Mundipharmastraße 1, 65549 Limburg an der Lahn, DE",
+      "gps": {
+        "lat": 50.39842425,
+        "lon": 8.07624192
+      },
+      "stalls": 10,
       "maxPowerKw": 250,
       "pricing": [
         {
@@ -8811,6 +8881,41 @@
       ]
     },
     {
+      "filedate": "2025-08-09T12:03:07.349381",
+      "name": "Leonberg, Germany",
+      "address": "Breitwiesenstrasse 4A, 71229 Leonberg, DE",
+      "gps": {
+        "lat": 48.785313,
+        "lon": 9.016815
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "filedate": "2025-08-01T14:11:16.186661",
       "name": "Leusden, Netherlands",
       "address": "Philipsstraat 18, 3833 LC Leusden, NL",
@@ -8974,6 +9079,57 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€0.48/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-09T12:51:17.650245",
+      "name": "Limburg an der Lahn, Germany",
+      "address": "Vinzenz-Pallotti-Straße 1, 65552 Limburg, DE",
+      "gps": {
+        "lat": 50.381182,
+        "lon": 8.089591
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,45/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,50/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,45/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,64/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,69/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,64/kWh"
             }
           ]
         }
