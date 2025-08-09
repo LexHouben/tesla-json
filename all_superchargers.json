@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-09T22:55:23.893533",
-    "chargerCount": 258,
+    "jsonfiledate": "2025-08-09T23:55:24.945444",
+    "chargerCount": 262,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 258,
+    "successCount": 262,
     "errorCount": 0
   },
   "locations": [
@@ -2014,6 +2014,57 @@
       ]
     },
     {
+      "filedate": "2025-08-09T23:13:42.436799",
+      "name": "Eging am See, Germany",
+      "address": "Rannetsreit 4, 94535 Eging am See, DE",
+      "gps": {
+        "lat": 48.689304,
+        "lon": 13.212523
+      },
+      "stalls": 9,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,46/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,52/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,46/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,64/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,73/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,64/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "filedate": "2025-08-08T16:50:22.347397",
       "name": "Herne, Germany",
       "address": "Am Westerfeld 1, 44625 Herne, DE",
@@ -2752,6 +2803,57 @@
             {
               "label": "Base Rate",
               "rate": "€0.60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-09T23:28:58.970191",
+      "name": "Peine, Germany",
+      "address": "Wilhelm-Rausch-Str 12, 31228 Peine, DE",
+      "gps": {
+        "lat": 52.340287,
+        "lon": 10.248001
+      },
+      "stalls": 32,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,46/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,51/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,46/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,64/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,71/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,64/kWh"
             }
           ]
         }
@@ -7655,6 +7757,41 @@
       ]
     },
     {
+      "filedate": "2025-08-09T23:00:39.210868",
+      "name": "Berlin, Germany - Gleisdreieck",
+      "address": "Schöneberger Ufer 3, 10785 Berlin, DE",
+      "gps": {
+        "lat": 52.50292,
+        "lon": 13.373822
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "filedate": "2025-08-04T19:57:48.074367",
       "name": "Nörten-Hardenberg, Germany",
       "address": "Ob. Dorfstraße 32, 37176 Nörten-Hardenberg, DE",
@@ -11477,6 +11614,41 @@
             {
               "label": "23:00 - 00:00",
               "rate": "€ 0,38/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-09T23:46:00.666243",
+      "name": "Pfaffenhofen, Germany",
+      "address": "Siebenecken 1, 85276 Pfaffenhofen an der Ilm, DE",
+      "gps": {
+        "lat": 48.518193,
+        "lon": 11.56249
+      },
+      "stalls": 24,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.36/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.50/kWh"
             }
           ]
         }
