@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-09T09:55:30.973878",
-    "chargerCount": 208,
+    "jsonfiledate": "2025-08-09T10:55:19.614168",
+    "chargerCount": 211,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 208,
+    "successCount": 211,
     "errorCount": 0
   },
   "locations": [
@@ -1063,7 +1063,63 @@
       ]
     },
     {
-      "filedate": "2025-08-09T01:34:06.608645"
+      "filedate": "2025-08-09T10:19:21.790342",
+      "name": "Krefeld, Germany",
+      "address": "Hafelsstraße 200, 47809 Krefeld, DE",
+      "gps": {
+        "lat": 51.321961,
+        "lon": 6.603147
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,32/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,32/kWh"
+            },
+            {
+              "label": "09:00 - 22:00",
+              "rate": "€ 0,43/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,32/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,45/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,45/kWh"
+            },
+            {
+              "label": "09:00 - 22:00",
+              "rate": "€ 0,60/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,45/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
       "filedate": "2025-08-03T13:39:15.730654",
@@ -3765,6 +3821,41 @@
             {
               "label": "08:00 - 00:00",
               "rate": "€ 0,58/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-09T10:04:51.778500",
+      "name": "Köln Bonn Airport",
+      "address": "Nordallee 3, 51147 Kreisfreie Stadt Köln, DE",
+      "gps": {
+        "lat": 50.883137,
+        "lon": 7.111943
+      },
+      "stalls": 4,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.60/kWh"
             }
           ]
         }
@@ -8416,6 +8507,100 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€0.45/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-09T10:32:36.397854",
+      "name": "Hannover, Germany",
+      "address": "Opelstraße 3-5, 30916 Isernhagen, DE",
+      "gps": {
+        "lat": 52.423793,
+        "lon": 9.836123
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "08:00 - 22:00",
+              "rate": "€ 0,43/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "08:00 - 22:00",
+              "rate": "€ 0,60/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-09T10:46:18.522409",
+      "name": "Lauenau, Germany",
+      "address": "Hanomagstraße 2, 31867 Lauenau, DE",
+      "gps": {
+        "lat": 52.278731,
+        "lon": 9.351267
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.44/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.62/kWh"
             }
           ]
         }
