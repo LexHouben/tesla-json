@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-10T05:55:24.675155",
-    "chargerCount": 283,
+    "jsonfiledate": "2025-08-10T06:55:24.849725",
+    "chargerCount": 287,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 283,
+    "successCount": 287,
     "errorCount": 0
   },
   "locations": [
@@ -3999,6 +3999,9 @@
           ]
         }
       ]
+    },
+    {
+      "filedate": "2025-08-10T06:34:19.758803"
     },
     {
       "filedate": "2025-08-03T04:30:00.961472",
@@ -12132,6 +12135,9 @@
       "filedate": "2025-08-10T05:20:35.943311"
     },
     {
+      "filedate": "2025-08-10T05:58:45.758609"
+    },
+    {
       "filedate": "2025-08-02T13:32:25.970872",
       "name": "Sassenheim, Netherlands",
       "address": "Warmonderweg 8, 2171 AH Sassenheim, NL",
@@ -12185,6 +12191,41 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,42/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-10T06:15:23.783264",
+      "name": "Satteldorf, Germany",
+      "address": "Marco-Polo-Straße 1, 74589 Satteldorf, DE",
+      "gps": {
+        "lat": 49.181395,
+        "lon": 10.068888
+      },
+      "stalls": 10,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.60/kWh"
             }
           ]
         }
@@ -12248,6 +12289,9 @@
           ]
         }
       ]
+    },
+    {
+      "filedate": "2025-08-10T06:50:28.603869"
     },
     {
       "filedate": "2025-08-04T22:14:30.441573",
