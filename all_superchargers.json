@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-10T10:55:25.846503",
-    "chargerCount": 302,
+    "jsonfiledate": "2025-08-10T11:55:26.424155",
+    "chargerCount": 306,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 302,
+    "successCount": 306,
     "errorCount": 0
   },
   "locations": [
@@ -2050,6 +2050,41 @@
       ]
     },
     {
+      "filedate": "2025-08-10T11:32:56.206545",
+      "name": "Lübeck, Germany - Dänischburger Landstraße",
+      "address": "Dänischburger Landstraße 81, 23569 Lübeck, DE",
+      "gps": {
+        "lat": 53.91240439,
+        "lon": 10.7326861
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.61/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "filedate": "2025-08-03T06:42:40.493616",
       "name": "Bremen, Germany",
       "address": "Niedersachsendamm 1, 28277 Bremen, DE",
@@ -3367,6 +3402,57 @@
       ]
     },
     {
+      "filedate": "2025-08-10T10:59:00.611998",
+      "name": "Bad Segeberg, Germany",
+      "address": "Ziegelstraße 1, 23795 Bad Segeberg, DE",
+      "gps": {
+        "lat": 53.9374915,
+        "lon": 10.2974028
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,44/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,48/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,44/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,61/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,67/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,61/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "filedate": "2025-08-04T13:39:45.932474",
       "name": "Ebersdorf bei Coburg, Germany",
       "address": "Frankenring 13, 96237 Ebersdorf bei Coburg, DE",
@@ -4404,6 +4490,116 @@
             {
               "label": "08:00 - 00:00",
               "rate": "€ 0,58/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-10T11:16:00.530720",
+      "name": "Lübeck, Germany",
+      "address": "Stockelsdorfer Str. 1, 23554 Lübeck, DE",
+      "gps": {
+        "lat": 53.881299,
+        "lon": 10.660146
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,34/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,34/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,43/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,34/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,48/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,48/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,60/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,48/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-10T11:48:01.923731",
+      "name": "Langenhagen, Germany",
+      "address": "Flughafenstraße 20, 30855 Langenhagen, DE",
+      "gps": {
+        "lat": 52.458296,
+        "lon": 9.716331
+      },
+      "stalls": 7,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,31/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,31/kWh"
+            },
+            {
+              "label": "08:00 - 00:00",
+              "rate": "€ 0,43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,43/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,43/kWh"
+            },
+            {
+              "label": "08:00 - 00:00",
+              "rate": "€ 0,60/kWh"
             }
           ]
         }
