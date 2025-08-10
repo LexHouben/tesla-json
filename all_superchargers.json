@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-10T23:55:27.813701",
+    "jsonfiledate": "2025-08-11T00:55:27.815889",
     "chargerCount": 316,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -351,7 +351,39 @@
       ]
     },
     {
-      "filedate": "2025-08-10T03:00:18.996846"
+      "filedate": "2025-08-11T00:03:57.405756",
+      "name": "Regensburg - Ostenviertel, Germany",
+      "address": "Robert-Bosch-Straße 2, 93055 Regensburg, DE",
+      "gps": {
+        "lat": 48.999708,
+        "lon": 12.147896
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.60/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
       "filedate": "2025-08-04T19:44:04.558372",
@@ -405,7 +437,7 @@
       ]
     },
     {
-      "filedate": "2025-08-10T03:51:21.575745"
+      "filedate": "2025-08-11T00:28:32.790864"
     },
     {
       "filedate": "2025-08-09T17:19:22.811812",
@@ -3044,7 +3076,39 @@
       ]
     },
     {
-      "filedate": "2025-08-10T04:07:52.318562"
+      "filedate": "2025-08-11T00:37:00.364817",
+      "name": "Reiskirchen, Germany",
+      "address": "Bänningerstraße 3, 35447 Reiskirchen, DE",
+      "gps": {
+        "lat": 50.595729,
+        "lon": 8.818522
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.60/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
       "filedate": "2025-08-04T17:10:52.083158",
@@ -13140,10 +13204,42 @@
       "filedate": "2025-08-10T02:45:02.281962"
     },
     {
-      "filedate": "2025-08-10T03:15:33.794728"
+      "filedate": "2025-08-11T00:10:29.730906",
+      "name": "Regensburg-Ost, Germany",
+      "address": "Junkersstraße 3, 93055 Regensburg, DE",
+      "gps": {
+        "lat": 48.994754,
+        "lon": 12.150404
+      },
+      "stalls": 10,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.60/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
-      "filedate": "2025-08-10T03:34:21.665396"
+      "filedate": "2025-08-11T00:20:06.235984"
     },
     {
       "filedate": "2025-08-02T22:18:40.020375",
@@ -13181,7 +13277,7 @@
       ]
     },
     {
-      "filedate": "2025-08-10T04:26:23.163076"
+      "filedate": "2025-08-11T00:47:00.922937"
     },
     {
       "filedate": "2025-08-01T14:12:15.819303",
