@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-10T02:55:24.554237",
-    "chargerCount": 273,
+    "jsonfiledate": "2025-08-10T03:55:40.487876",
+    "chargerCount": 277,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 273,
+    "successCount": 277,
     "errorCount": 0
   },
   "locations": [
@@ -351,6 +351,9 @@
       ]
     },
     {
+      "filedate": "2025-08-10T03:00:18.996846"
+    },
+    {
       "filedate": "2025-08-04T19:44:04.558372",
       "name": "Linstow, Germany",
       "address": "Krakower Ch 1, 18292 Dobbin-Linstow, DE",
@@ -400,6 +403,9 @@
           ]
         }
       ]
+    },
+    {
+      "filedate": "2025-08-10T03:51:21.575745"
     },
     {
       "filedate": "2025-08-09T17:19:22.811812",
@@ -12006,6 +12012,12 @@
     },
     {
       "filedate": "2025-08-10T02:45:02.281962"
+    },
+    {
+      "filedate": "2025-08-10T03:15:33.794728"
+    },
+    {
+      "filedate": "2025-08-10T03:34:21.665396"
     },
     {
       "filedate": "2025-08-02T22:18:40.020375",
