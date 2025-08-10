@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-10T06:55:24.849725",
-    "chargerCount": 287,
+    "jsonfiledate": "2025-08-10T07:55:24.910749",
+    "chargerCount": 290,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 287,
+    "successCount": 290,
     "errorCount": 0
   },
   "locations": [
@@ -1854,6 +1854,9 @@
           ]
         }
       ]
+    },
+    {
+      "filedate": "2025-08-10T07:27:01.374954"
     },
     {
       "filedate": "2025-08-09T18:09:41.031771",
@@ -12292,6 +12295,12 @@
     },
     {
       "filedate": "2025-08-10T06:50:28.603869"
+    },
+    {
+      "filedate": "2025-08-10T07:09:27.567710"
+    },
+    {
+      "filedate": "2025-08-10T07:43:00.103999"
     },
     {
       "filedate": "2025-08-04T22:14:30.441573",
