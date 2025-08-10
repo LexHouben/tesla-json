@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-10T07:55:24.910749",
-    "chargerCount": 290,
+    "jsonfiledate": "2025-08-10T08:55:25.322686",
+    "chargerCount": 294,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 290,
+    "successCount": 294,
     "errorCount": 0
   },
   "locations": [
@@ -1708,6 +1708,41 @@
       ]
     },
     {
+      "filedate": "2025-08-10T07:59:05.250821",
+      "name": "Schwetzingen, Germany",
+      "address": "Zündholzstraße 3, 68723 Schwetzingen, DE",
+      "gps": {
+        "lat": 49.41384826,
+        "lon": 8.54333945
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "filedate": "2025-08-03T01:10:39.887999",
       "name": "Augsburg-Haunstetten",
       "address": "Brahmsstraße 2, 86179 Kreisfreie Stadt Augsburg, DE",
@@ -2951,6 +2986,57 @@
             {
               "label": "16:00 - 20:00",
               "rate": "€ 0,71/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,64/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-10T08:28:19.395101",
+      "name": "Simmern, Germany",
+      "address": "Im Boorstück 14, 55469 Simmern, DE",
+      "gps": {
+        "lat": 49.982764,
+        "lon": 7.547228
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,46/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,50/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,46/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,64/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,70/kWh"
             },
             {
               "label": "20:00 - 00:00",
@@ -4799,6 +4885,57 @@
             {
               "label": "08:00 - 00:00",
               "rate": "€ 0,56/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-10T08:15:15.883120",
+      "name": "Siegen, Germany",
+      "address": "Eiserfelder Str. 170, 57072 Siegen, DE",
+      "gps": {
+        "lat": 50.856177,
+        "lon": 8.011377
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,35/kWh"
+            },
+            {
+              "label": "04:00 - 23:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,35/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,48/kWh"
+            },
+            {
+              "label": "04:00 - 23:00",
+              "rate": "€ 0,58/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,48/kWh"
             }
           ]
         }
@@ -12309,6 +12446,41 @@
       "gps": {
         "lat": 53.4796901,
         "lon": 10.024191
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-10T08:41:30.663444",
+      "name": "Sindelsdorf, Germany",
+      "address": "Urthal 4, 82404 Sindelsdorf, DE",
+      "gps": {
+        "lat": 47.728618,
+        "lon": 11.361782
       },
       "stalls": 12,
       "maxPowerKw": 250,
