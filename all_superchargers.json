@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-10T03:55:40.487876",
-    "chargerCount": 277,
+    "jsonfiledate": "2025-08-10T04:55:24.783417",
+    "chargerCount": 280,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 277,
+    "successCount": 280,
     "errorCount": 0
   },
   "locations": [
@@ -2224,6 +2224,9 @@
       ]
     },
     {
+      "filedate": "2025-08-10T04:43:48.979514"
+    },
+    {
       "filedate": "2025-08-09T19:47:33.080647",
       "name": "Neuss, Germany",
       "address": "Schanzenstraße 1, 41460 Neuss, DE",
@@ -2813,6 +2816,9 @@
           ]
         }
       ]
+    },
+    {
+      "filedate": "2025-08-10T04:07:52.318562"
     },
     {
       "filedate": "2025-08-04T17:10:52.083158",
@@ -12053,6 +12059,9 @@
           ]
         }
       ]
+    },
+    {
+      "filedate": "2025-08-10T04:26:23.163076"
     },
     {
       "filedate": "2025-08-01T14:12:15.819303",
