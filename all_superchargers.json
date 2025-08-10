@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-10T12:55:26.885132",
-    "chargerCount": 310,
+    "jsonfiledate": "2025-08-10T13:55:26.943316",
+    "chargerCount": 313,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 310,
+    "successCount": 313,
     "errorCount": 0
   },
   "locations": [
@@ -13337,6 +13337,100 @@
       ]
     },
     {
+      "filedate": "2025-08-10T13:01:02.021148",
+      "name": "Troisdorf, Germany",
+      "address": "Am Golfpl. 1, 53844 Troisdorf, DE",
+      "gps": {
+        "lat": 50.813625,
+        "lon": 7.108117
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "08:00 - 22:00",
+              "rate": "€ 0,49/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,58/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,58/kWh"
+            },
+            {
+              "label": "08:00 - 22:00",
+              "rate": "€ 0,68/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,58/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-10T13:18:29.598133",
+      "name": "Türkheim, Germany",
+      "address": "Mindelheimer Str. 1, 86842 Türkheim, DE",
+      "gps": {
+        "lat": 48.043212,
+        "lon": 10.619872
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "filedate": "2025-08-02T14:12:37.705939",
       "name": "Uden, Netherlands",
       "address": "Rondweg 2, 5406 NK Uden, NL",
@@ -13366,6 +13460,41 @@
             {
               "label": "Base Rate",
               "rate": "€0.40/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-10T13:32:12.092244",
+      "name": "Ulm, Germany",
+      "address": "Seligweiler 1, 89081 Ulm, DE",
+      "gps": {
+        "lat": 48.457062,
+        "lon": 10.030968
+      },
+      "stalls": 36,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.60/kWh"
             }
           ]
         }
