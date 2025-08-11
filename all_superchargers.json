@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-11T03:55:27.871374",
-    "chargerCount": 326,
+    "jsonfiledate": "2025-08-11T04:55:28.510017",
+    "chargerCount": 333,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 326,
+    "successCount": 333,
     "errorCount": 0
   },
   "locations": [
@@ -438,6 +438,9 @@
     },
     {
       "filedate": "2025-08-11T00:28:32.790864"
+    },
+    {
+      "filedate": "2025-08-11T04:13:47.248492"
     },
     {
       "filedate": "2025-08-09T17:19:22.811812",
@@ -1075,6 +1078,9 @@
           ]
         }
       ]
+    },
+    {
+      "filedate": "2025-08-11T04:32:18.335456"
     },
     {
       "filedate": "2025-08-10T09:57:31.401772",
@@ -2488,6 +2494,57 @@
       "filedate": "2025-08-11T00:57:02.462799"
     },
     {
+      "filedate": "2025-08-11T04:49:09.239582",
+      "name": "Mönchengladbach, Germany",
+      "address": "Reststrauch 211, 41199 Mönchengladbach, DE",
+      "gps": {
+        "lat": 51.1443581,
+        "lon": 6.42581318
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,26/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,26/kWh"
+            },
+            {
+              "label": "08:00 - 00:00",
+              "rate": "€ 0,43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,37/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,37/kWh"
+            },
+            {
+              "label": "08:00 - 00:00",
+              "rate": "€ 0,60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "filedate": "2025-08-09T19:47:33.080647",
       "name": "Neuss, Germany",
       "address": "Schanzenstraße 1, 41460 Neuss, DE",
@@ -3815,6 +3872,65 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,64/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-11T04:22:00.789806",
+      "name": "Wiesbaden - Äppelallee, Germany",
+      "address": "Äppelallee 69, 65203 Wiesbaden, DE",
+      "gps": {
+        "lat": 50.046188,
+        "lon": 8.2198948
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,37/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,37/kWh"
+            },
+            {
+              "label": "08:00 - 22:00",
+              "rate": "€ 0,43/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,37/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,53/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,53/kWh"
+            },
+            {
+              "label": "08:00 - 22:00",
+              "rate": "€ 0,60/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,53/kWh"
             }
           ]
         }
@@ -14209,6 +14325,63 @@
     },
     {
       "filedate": "2025-08-11T03:44:50.998758"
+    },
+    {
+      "filedate": "2025-08-11T03:57:09.584977"
+    },
+    {
+      "filedate": "2025-08-11T04:04:05.723293",
+      "name": "Weyarn, Germany",
+      "address": "Am Weiglfeld 26, 83629 Weyarn, DE",
+      "gps": {
+        "lat": 47.865215,
+        "lon": 11.790828
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,46/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,50/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,46/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,64/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,70/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,64/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-11T04:40:59.884813"
     },
     {
       "filedate": "2025-08-09T11:19:23.107449",
