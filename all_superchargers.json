@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-11T17:55:30.262800",
-    "chargerCount": 345,
+    "jsonfiledate": "2025-08-11T18:55:30.219273",
+    "chargerCount": 349,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 345,
+    "successCount": 349,
     "errorCount": 0
   },
   "locations": [
@@ -564,6 +564,65 @@
       ]
     },
     {
+      "filedate": "2025-08-11T18:25:08.263947",
+      "name": "Rankweil, Austria",
+      "address": "An der Maut None, 6830 Rankweil, AT",
+      "gps": {
+        "lat": 47.273295,
+        "lon": 9.617668
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "0-60 kW",
+              "rate": "€ 0,28/min"
+            },
+            {
+              "label": "60-100 kW",
+              "rate": "€ 0,57/min"
+            },
+            {
+              "label": "100-180 kW",
+              "rate": "€ 0,88/min"
+            },
+            {
+              "label": "180+ kW",
+              "rate": "€ 1,49/min"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "0-60 kW",
+              "rate": "€ 0,39/min"
+            },
+            {
+              "label": "60-100 kW",
+              "rate": "€ 0,80/min"
+            },
+            {
+              "label": "100-180 kW",
+              "rate": "€ 1,24/min"
+            },
+            {
+              "label": "180+ kW",
+              "rate": "€ 2,09/min"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "filedate": "2025-08-09T12:17:42.361013",
       "name": "Leonberg, Germany - Glemseck",
       "address": "Glemseckstraße 66, 71229 Leonberg, DE",
@@ -773,6 +832,57 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,64/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-11T18:51:52.624461",
+      "name": "Croutelle, France",
+      "address": "rue de la Saulaie 6, 86240 Croutelle, FR",
+      "gps": {
+        "lat": 46.548393,
+        "lon": 0.296635
+      },
+      "stalls": 40,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,35/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,30/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,49/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,41/kWh"
             }
           ]
         }
@@ -3815,6 +3925,41 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,61/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-11T18:13:15.591053",
+      "name": "Dinan, France",
+      "address": "Rue de la Coulebar None, 22100 Dinan, FR",
+      "gps": {
+        "lat": 48.4447515,
+        "lon": -2.06830832
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.22/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.31/kWh"
             }
           ]
         }
@@ -14440,6 +14585,65 @@
             {
               "label": "Base Rate",
               "rate": "€0.60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-11T18:39:37.546010",
+      "name": "St. Pölten, Austria",
+      "address": "Völklplatz 1, 3100 St. Pölten, AT",
+      "gps": {
+        "lat": 48.20534,
+        "lon": 15.61925
+      },
+      "stalls": 12,
+      "maxPowerKw": 125,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "0-60 kW",
+              "rate": "€ 0,28/min"
+            },
+            {
+              "label": "60-100 kW",
+              "rate": "€ 0,57/min"
+            },
+            {
+              "label": "100-180 kW",
+              "rate": "€ 0,88/min"
+            },
+            {
+              "label": "180+ kW",
+              "rate": "€ 1,49/min"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "0-60 kW",
+              "rate": "€ 0,39/min"
+            },
+            {
+              "label": "60-100 kW",
+              "rate": "€ 0,80/min"
+            },
+            {
+              "label": "100-180 kW",
+              "rate": "€ 1,24/min"
+            },
+            {
+              "label": "180+ kW",
+              "rate": "€ 2,09/min"
             }
           ]
         }
