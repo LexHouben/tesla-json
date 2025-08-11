@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-11T23:55:32.837449",
-    "chargerCount": 372,
+    "jsonfiledate": "2025-08-12T00:55:33.171418",
+    "chargerCount": 376,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 372,
+    "successCount": 376,
     "errorCount": 0
   },
   "locations": [
@@ -5282,6 +5282,65 @@
       ]
     },
     {
+      "filedate": "2025-08-12T00:15:12.614074",
+      "name": "Wustermark - Karls Erlebnis-Dorf, Germany",
+      "address": "Zur Döbritzer Heide 1, 14641 Wustermark, DE",
+      "gps": {
+        "lat": 52.533583,
+        "lon": 12.996972
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,37/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,37/kWh"
+            },
+            {
+              "label": "08:00 - 21:00",
+              "rate": "€ 0,43/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "€ 0,37/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,51/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,51/kWh"
+            },
+            {
+              "label": "08:00 - 21:00",
+              "rate": "€ 0,60/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "€ 0,51/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "filedate": "2025-08-03T02:42:23.268437",
       "name": "Bergkamen, Germany",
       "address": "Rünther Str. 151 151, 59192 Bergkamen, DE",
@@ -7927,6 +7986,57 @@
       ]
     },
     {
+      "filedate": "2025-08-12T00:41:30.527087",
+      "name": "Beaune, France - Route de Savigny",
+      "address": "Route de Savigny 88-102, 21200 Beaune, FR",
+      "gps": {
+        "lat": 47.0432,
+        "lon": 4.839921
+      },
+      "stalls": 28,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,33/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,30/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,46/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,42/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "filedate": "2025-08-08T23:06:12.420538",
       "name": "Kerpen, Germany",
       "address": "Kerpener strasse 150, 50170 Kerpen, DE",
@@ -10395,6 +10505,41 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,64/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-12T00:28:21.894090",
+      "name": "Bernin, France",
+      "address": "Chemin des Fontaines 134, 38190 Bernin, FR",
+      "gps": {
+        "lat": 45.266076,
+        "lon": 5.87643
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.23/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.32/kWh"
             }
           ]
         }
@@ -14913,6 +15058,57 @@
             {
               "label": "Base Rate",
               "rate": "€0.60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-12T00:03:05.108328",
+      "name": "Pratteln, Switzerland",
+      "address": "Hardstrasse 55, 4133 Pratteln, CH",
+      "gps": {
+        "lat": 47.524843,
+        "lon": 7.682486
+      },
+      "stalls": 18,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "CHF 0,29/kWh"
+            },
+            {
+              "label": "08:00 - 00:00",
+              "rate": "CHF 0,50/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "CHF 0,41/kWh"
+            },
+            {
+              "label": "08:00 - 00:00",
+              "rate": "CHF 0,70/kWh"
             }
           ]
         }
