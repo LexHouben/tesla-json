@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-11T14:55:29.629108",
+    "jsonfiledate": "2025-08-11T15:55:30.605471",
     "chargerCount": 338,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -13561,7 +13561,39 @@
       ]
     },
     {
-      "filedate": "2025-08-10T02:45:02.281962"
+      "filedate": "2025-08-11T15:48:26.111677",
+      "name": "Rauenberg, Germany",
+      "address": "Hohenaspen 40/1, 69231 Rauenberg, DE",
+      "gps": {
+        "lat": 49.273751,
+        "lon": 8.69533
+      },
+      "stalls": 22,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.60/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
       "filedate": "2025-08-11T00:10:29.730906",
@@ -14850,7 +14882,39 @@
       ]
     },
     {
-      "filedate": "2025-08-11T03:57:09.584977"
+      "filedate": "2025-08-11T15:06:39.689707",
+      "name": "Wetzlar, Germany",
+      "address": "Am Leitz-Park 4, 29682 Wetzlar, DE",
+      "gps": {
+        "lat": 50.553184,
+        "lon": 8.532814
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.60/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
       "filedate": "2025-08-11T04:04:05.723293",
