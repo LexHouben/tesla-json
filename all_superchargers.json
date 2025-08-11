@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-11T20:55:31.297229",
-    "chargerCount": 358,
+    "jsonfiledate": "2025-08-11T21:55:33.630493",
+    "chargerCount": 363,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 358,
+    "successCount": 363,
     "errorCount": 0
   },
   "locations": [
@@ -840,6 +840,57 @@
             {
               "label": "Base Rate",
               "rate": "€0.60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-11T21:36:46.392706",
+      "name": "Arbedo-Castione, Switzerland",
+      "address": "Via S. Gottardo 24a, 6532 Arbedo-Castione, CH",
+      "gps": {
+        "lat": 46.232868,
+        "lon": 9.039813
+      },
+      "stalls": 7,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "CHF 0,51/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "CHF 0,60/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "CHF 0,51/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "CHF 0,71/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "CHF 0,84/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "CHF 0,71/kWh"
             }
           ]
         }
@@ -5837,6 +5888,41 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,42/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-11T20:58:11.135840",
+      "name": "Fontaine-lès-Dijon, France",
+      "address": "Rue des Prés Potets None, 21121 Fontaine-lès-Dijon, FR",
+      "gps": {
+        "lat": 47.355744,
+        "lon": 5.032344
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.27/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.38/kWh"
             }
           ]
         }
@@ -11982,6 +12068,65 @@
       ]
     },
     {
+      "filedate": "2025-08-11T21:50:44.993869",
+      "name": "Laßnitzhöhe, Austria",
+      "address": "Liebmannweg 23, 8301 Laßnitzhöhe, AT",
+      "gps": {
+        "lat": 47.071295,
+        "lon": 15.577911
+      },
+      "stalls": 12,
+      "maxPowerKw": 125,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "0-60 kW",
+              "rate": "€ 0,28/min"
+            },
+            {
+              "label": "60-100 kW",
+              "rate": "€ 0,57/min"
+            },
+            {
+              "label": "100-180 kW",
+              "rate": "€ 0,88/min"
+            },
+            {
+              "label": "180+ kW",
+              "rate": "€ 1,49/min"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "0-60 kW",
+              "rate": "€ 0,39/min"
+            },
+            {
+              "label": "60-100 kW",
+              "rate": "€ 0,80/min"
+            },
+            {
+              "label": "100-180 kW",
+              "rate": "€ 1,24/min"
+            },
+            {
+              "label": "180+ kW",
+              "rate": "€ 2,09/min"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "filedate": "2025-08-09T10:46:18.522409",
       "name": "Lauenau, Germany",
       "address": "Hanomagstraße 2, 31867 Lauenau, DE",
@@ -13122,6 +13267,65 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,64/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-11T21:10:05.416284",
+      "name": "Mougins, France",
+      "address": "avenue du Golf 205, 6250 Mougins, FR",
+      "gps": {
+        "lat": 43.603928,
+        "lon": 7.010434
+      },
+      "stalls": 4,
+      "maxPowerKw": 130,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,18/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,18/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "€ 0,39/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,33/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,25/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,25/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "€ 0,55/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,47/kWh"
             }
           ]
         }
@@ -15629,6 +15833,65 @@
             {
               "label": "21:00 - 00:00",
               "rate": "€0.37/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-11T21:22:31.968177",
+      "name": "Villach-Ost, Austria",
+      "address": "Kleinsattelstraße 2, 9500 Villach, AT",
+      "gps": {
+        "lat": 46.601818,
+        "lon": 13.883006
+      },
+      "stalls": 6,
+      "maxPowerKw": 200,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "0-60 kW",
+              "rate": "€ 0,28/min"
+            },
+            {
+              "label": "60-100 kW",
+              "rate": "€ 0,57/min"
+            },
+            {
+              "label": "100-180 kW",
+              "rate": "€ 0,88/min"
+            },
+            {
+              "label": "180+ kW",
+              "rate": "€ 1,49/min"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "0-60 kW",
+              "rate": "€ 0,39/min"
+            },
+            {
+              "label": "60-100 kW",
+              "rate": "€ 0,80/min"
+            },
+            {
+              "label": "100-180 kW",
+              "rate": "€ 1,24/min"
+            },
+            {
+              "label": "180+ kW",
+              "rate": "€ 2,09/min"
             }
           ]
         }
