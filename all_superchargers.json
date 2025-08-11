@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-11T08:55:28.104248",
+    "jsonfiledate": "2025-08-11T09:55:52.105101",
     "chargerCount": 338,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -13447,7 +13447,55 @@
       ]
     },
     {
-      "filedate": "2025-08-11T00:20:06.235984"
+      "filedate": "2025-08-11T09:49:37.487754",
+      "name": "Reichertshofen, Germany",
+      "address": "Am Auer Bach 1, 85084 Reichertshofen, DE",
+      "gps": {
+        "lat": 48.645511,
+        "lon": 11.520378
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,45/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,51/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,45/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,64/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,71/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,64/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
       "filedate": "2025-08-02T22:18:40.020375",
