@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-11T10:55:28.374290",
+    "jsonfiledate": "2025-08-11T11:55:28.695809",
     "chargerCount": 338,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -3988,7 +3988,63 @@
       ]
     },
     {
-      "filedate": "2025-08-11T01:22:40.239521"
+      "filedate": "2025-08-11T11:10:11.392462",
+      "name": "Saarbrücken, Germany",
+      "address": "Wolfsau 4, 66130 Saarbrücken, DE",
+      "gps": {
+        "lat": 49.208043,
+        "lon": 7.027138
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,32/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "€ 0,32/kWh"
+            },
+            {
+              "label": "10:00 - 20:00",
+              "rate": "€ 0,43/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,32/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,45/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "€ 0,45/kWh"
+            },
+            {
+              "label": "10:00 - 20:00",
+              "rate": "€ 0,60/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,45/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
       "filedate": "2025-08-10T08:55:38.702645",
@@ -4813,7 +4869,39 @@
       ]
     },
     {
-      "filedate": "2025-08-11T01:41:51.302134"
+      "filedate": "2025-08-11T11:37:38.494664",
+      "name": "Schierling, Germany",
+      "address": "Dieselstraße 14, 84069 Schierling, DE",
+      "gps": {
+        "lat": 48.83838,
+        "lon": 12.1195094
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.41/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.57/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
       "filedate": "2025-08-03T04:30:00.961472",
