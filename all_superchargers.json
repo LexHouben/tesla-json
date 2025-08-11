@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-11T01:55:27.708420",
-    "chargerCount": 316,
+    "jsonfiledate": "2025-08-11T02:55:27.972065",
+    "chargerCount": 320,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 316,
+    "successCount": 320,
     "errorCount": 0
   },
   "locations": [
@@ -1039,6 +1039,9 @@
       ]
     },
     {
+      "filedate": "2025-08-11T02:52:38.827405"
+    },
+    {
       "filedate": "2025-08-10T10:41:58.902457",
       "name": "Sulzbach, Germany",
       "address": "Main-Taunus-Zentrum 1, 65843 Sulzbach (Taunus), DE",
@@ -2041,7 +2044,7 @@
       ]
     },
     {
-      "filedate": "2025-08-10T07:27:01.374954"
+      "filedate": "2025-08-11T02:08:10.778410"
     },
     {
       "filedate": "2025-08-09T18:09:41.031771",
@@ -3490,6 +3493,9 @@
       ]
     },
     {
+      "filedate": "2025-08-11T02:43:12.319366"
+    },
+    {
       "filedate": "2025-08-04T13:26:12.548530",
       "name": "Baden-Baden, Germany",
       "address": "Gewerbepark Cite 7, 76532 Baden-Baden, DE",
@@ -4449,6 +4455,41 @@
         "lon": 9.79609
       },
       "stalls": 6,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-11T02:25:21.140972",
+      "name": "Ursensollen, Germany",
+      "address": "Amberger Str. 47, 92289 Ursensollen, DE",
+      "gps": {
+        "lat": 49.4057,
+        "lon": 11.761033
+      },
+      "stalls": 8,
       "maxPowerKw": 250,
       "pricing": [
         {
@@ -13504,10 +13545,10 @@
       "filedate": "2025-08-11T01:50:43.813986"
     },
     {
-      "filedate": "2025-08-10T07:09:27.567710"
+      "filedate": "2025-08-11T01:59:56.329860"
     },
     {
-      "filedate": "2025-08-10T07:43:00.103999"
+      "filedate": "2025-08-11T02:16:50.314178"
     },
     {
       "filedate": "2025-08-04T22:14:30.441573",
@@ -13935,6 +13976,9 @@
           ]
         }
       ]
+    },
+    {
+      "filedate": "2025-08-11T02:34:13.680476"
     },
     {
       "filedate": "2025-08-02T14:24:20.903242",
