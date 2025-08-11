@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-11T02:55:27.972065",
-    "chargerCount": 320,
+    "jsonfiledate": "2025-08-11T03:55:27.871374",
+    "chargerCount": 326,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 320,
+    "successCount": 326,
     "errorCount": 0
   },
   "locations": [
@@ -14134,6 +14134,12 @@
       ]
     },
     {
+      "filedate": "2025-08-11T03:00:57.395967"
+    },
+    {
+      "filedate": "2025-08-11T03:09:36.930907"
+    },
+    {
       "filedate": "2025-08-02T18:00:37.605786",
       "name": "Wavre, Belgium",
       "address": "Rue de la Wastinne 45 45, 1301 Wavre, BE",
@@ -14191,6 +14197,18 @@
           ]
         }
       ]
+    },
+    {
+      "filedate": "2025-08-11T03:18:54.482093"
+    },
+    {
+      "filedate": "2025-08-11T03:27:27.018290"
+    },
+    {
+      "filedate": "2025-08-11T03:36:22.543009"
+    },
+    {
+      "filedate": "2025-08-11T03:44:50.998758"
     },
     {
       "filedate": "2025-08-09T11:19:23.107449",
