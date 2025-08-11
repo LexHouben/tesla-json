@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-11T12:55:29.169934",
+    "jsonfiledate": "2025-08-11T13:55:29.437527",
     "chargerCount": 338,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -1042,7 +1042,39 @@
       ]
     },
     {
-      "filedate": "2025-08-11T02:52:38.827405"
+      "filedate": "2025-08-11T13:18:39.067298",
+      "name": "Viernheim, Germany - Rhein-Neckar-Zentrum",
+      "address": "Robert-Schuman-Straße 8a, 68519 Viernheim, DE",
+      "gps": {
+        "lat": 49.528408,
+        "lon": 8.565946
+      },
+      "stalls": 18,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.60/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
       "filedate": "2025-08-10T10:41:58.902457",
@@ -14600,7 +14632,55 @@
       "filedate": "2025-08-11T03:00:57.395967"
     },
     {
-      "filedate": "2025-08-11T03:09:36.930907"
+      "filedate": "2025-08-11T13:45:49.622039",
+      "name": "Waldlaubersheim, Germany",
+      "address": "Auf dem Stein 1, 55444 Waldlaubersheim, DE",
+      "gps": {
+        "lat": 49.924143,
+        "lon": 7.825666
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,46/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,50/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,46/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,64/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,70/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,64/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
       "filedate": "2025-08-02T18:00:37.605786",
