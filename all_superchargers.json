@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-11T11:55:28.695809",
+    "jsonfiledate": "2025-08-11T12:55:29.169934",
     "chargerCount": 338,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -2050,7 +2050,39 @@
       ]
     },
     {
-      "filedate": "2025-08-11T02:08:10.778410"
+      "filedate": "2025-08-11T12:24:03.138053",
+      "name": "Schwandorf, Germany",
+      "address": "Am Brunnfeld 8, 92421 Schwandorf, DE",
+      "gps": {
+        "lat": 49.31447914,
+        "lon": 12.1465116
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.60/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
       "filedate": "2025-08-09T18:09:41.031771",
@@ -14361,7 +14393,55 @@
       ]
     },
     {
-      "filedate": "2025-08-11T02:34:13.680476"
+      "filedate": "2025-08-11T12:51:47.835109",
+      "name": "Vaterstetten, Germany",
+      "address": "Am Lerchenfeld 8, 85599 Vaterstetten, DE",
+      "gps": {
+        "lat": 48.147407,
+        "lon": 11.789971
+      },
+      "stalls": 18,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,38/kWh"
+            },
+            {
+              "label": "04:00 - 23:00",
+              "rate": "€ 0,43/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,38/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,54/kWh"
+            },
+            {
+              "label": "04:00 - 23:00",
+              "rate": "€ 0,60/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,54/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
       "filedate": "2025-08-02T14:24:20.903242",
