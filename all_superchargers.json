@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-12T16:50:42.159115",
-    "chargerCount": 432,
+    "jsonfiledate": "2025-08-12T17:00:41.797090",
+    "chargerCount": 433,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 432,
+    "successCount": 433,
     "errorCount": 0
   },
   "locations": [
@@ -8375,6 +8375,57 @@
             {
               "label": "180+ kW",
               "rate": "€ 2,09/min"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-12T16:58:19.167649",
+      "name": "Aire-sur-l'Adour, France",
+      "address": "Chem. de la Pachère None, 40800 Aire-sur-l'Adour, FR",
+      "gps": {
+        "lat": 43.7251455,
+        "lon": -0.2674916
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,33/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,30/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,47/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,42/kWh"
             }
           ]
         }
