@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-12T22:00:42.150676",
-    "chargerCount": 443,
+    "jsonfiledate": "2025-08-12T22:10:41.148859",
+    "chargerCount": 444,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 443,
+    "successCount": 444,
     "errorCount": 0
   },
   "locations": [
@@ -19698,6 +19698,42 @@
             {
               "label": "21:00 - 00:00",
               "rate": "€0.37/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-12T22:00:45.948088",
+      "name": "Aire de Vidauban Sud, France",
+      "address": "Autoroute A8, Aire de Vidauban Sud None, 83550 Vidauban, FR",
+      "gps": {
+        "lat": 43.413832,
+        "lon": 6.451177
+      },
+      "stalls": 10,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "08:00 - 21:00",
+              "rate": "€ 0,34/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "€ 0,30/kWh"
             }
           ]
         }
