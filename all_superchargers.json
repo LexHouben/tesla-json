@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-12T06:55:35.706401",
-    "chargerCount": 403,
+    "jsonfiledate": "2025-08-12T07:56:01.431827",
+    "chargerCount": 407,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 403,
+    "successCount": 407,
     "errorCount": 0
   },
   "locations": [
@@ -4930,6 +4930,57 @@
       ]
     },
     {
+      "filedate": "2025-08-12T07:33:13.432546",
+      "name": "Bern, Switzerland - Westside",
+      "address": "Riedbachstrasse 104, 3027 Bern, CH",
+      "gps": {
+        "lat": 46.943446,
+        "lon": 7.37062
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "CHF 0,29/kWh"
+            },
+            {
+              "label": "08:00 - 00:00",
+              "rate": "CHF 0,52/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "CHF 0,41/kWh"
+            },
+            {
+              "label": "08:00 - 00:00",
+              "rate": "CHF 0,72/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "filedate": "2025-08-04T21:31:13.713575",
       "name": "Guxhagen, Germany",
       "address": "Robert-Bosch-Straße 8, 34302 Guxhagen, DE",
@@ -5719,6 +5770,65 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,42/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-12T07:19:48.669526",
+      "name": "Wien, Austria",
+      "address": "Hackinger Straße 20, 1140 Vienna, AT",
+      "gps": {
+        "lat": 48.193088,
+        "lon": 16.277066
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "0-60 kW",
+              "rate": "€ 0,28/min"
+            },
+            {
+              "label": "60-100 kW",
+              "rate": "€ 0,57/min"
+            },
+            {
+              "label": "100-180 kW",
+              "rate": "€ 0,88/min"
+            },
+            {
+              "label": "180+ kW",
+              "rate": "€ 1,49/min"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "0-60 kW",
+              "rate": "€ 0,39/min"
+            },
+            {
+              "label": "60-100 kW",
+              "rate": "€ 0,80/min"
+            },
+            {
+              "label": "100-180 kW",
+              "rate": "€ 1,24/min"
+            },
+            {
+              "label": "180+ kW",
+              "rate": "€ 2,09/min"
             }
           ]
         }
@@ -7352,6 +7462,41 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-12T07:06:14.392164",
+      "name": "Les Sables-d'Olonne, France",
+      "address": "Av. Francois Mitterrand 87, 85340 Les Sables-d'Olonne, FR",
+      "gps": {
+        "lat": 46.513826,
+        "lon": -1.777073
+      },
+      "stalls": 9,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.27/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.38/kWh"
             }
           ]
         }
@@ -13085,6 +13230,65 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€0.45/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-12T07:48:07.073892",
+      "name": "Kriens, Switzerland - Pilatusmarkt",
+      "address": "Ringstrasse 19, 6010 Kriens, CH",
+      "gps": {
+        "lat": 47.017601,
+        "lon": 8.301883
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,30/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "CHF 0,30/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "CHF 0,53/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "CHF 0,41/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,42/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "CHF 0,42/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "CHF 0,73/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "CHF 0,58/kWh"
             }
           ]
         }
