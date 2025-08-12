@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-13T00:10:41.654116",
-    "chargerCount": 447,
+    "jsonfiledate": "2025-08-13T00:20:41.983982",
+    "chargerCount": 448,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 447,
+    "successCount": 448,
     "errorCount": 0
   },
   "locations": [
@@ -16041,6 +16041,41 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,33/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-13T00:19:35.506209",
+      "name": "Megève, France",
+      "address": "Route de Sallanches 271, 74120 Megève, FR",
+      "gps": {
+        "lat": 45.87134613,
+        "lon": 6.63030654
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.19/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.27/kWh"
             }
           ]
         }
