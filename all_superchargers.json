@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-12T07:56:01.431827",
-    "chargerCount": 407,
+    "jsonfiledate": "2025-08-12T08:55:36.642724",
+    "chargerCount": 411,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 407,
+    "successCount": 411,
     "errorCount": 0
   },
   "locations": [
@@ -5091,6 +5091,41 @@
       ]
     },
     {
+      "filedate": "2025-08-12T08:02:11.712203",
+      "name": "Bourg-de-Péage, France",
+      "address": "Bd Alpes Provence None, 26300 Bourg-de-Péage, FR",
+      "gps": {
+        "lat": 45.033274,
+        "lon": 5.051818
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "filedate": "2025-08-04T15:42:36.702492",
       "name": "Engen, Germany",
       "address": "Jahnstr. 50, 78234 Engen, DE",
@@ -5668,6 +5703,65 @@
             {
               "label": "Base Rate",
               "rate": "€0.57/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-12T08:30:38.752979",
+      "name": "Wels, Austria",
+      "address": "Salzburger Str. 223, 4600 Wels, AT",
+      "gps": {
+        "lat": 48.145939,
+        "lon": 13.975097
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "0-60 kW",
+              "rate": "€ 0,28/min"
+            },
+            {
+              "label": "60-100 kW",
+              "rate": "€ 0,57/min"
+            },
+            {
+              "label": "100-180 kW",
+              "rate": "€ 0,88/min"
+            },
+            {
+              "label": "180+ kW",
+              "rate": "€ 1,49/min"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "0-60 kW",
+              "rate": "€ 0,39/min"
+            },
+            {
+              "label": "60-100 kW",
+              "rate": "€ 0,80/min"
+            },
+            {
+              "label": "100-180 kW",
+              "rate": "€ 1,24/min"
+            },
+            {
+              "label": "180+ kW",
+              "rate": "€ 2,09/min"
             }
           ]
         }
@@ -15426,6 +15520,42 @@
       ]
     },
     {
+      "filedate": "2025-08-12T08:16:16.824063",
+      "name": "Nice, France",
+      "address": "Boulevard du Mercantour 606, 06200 Nice, FR",
+      "gps": {
+        "lat": 43.727823,
+        "lon": 7.186348
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,16/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,16/kWh"
+            },
+            {
+              "label": "09:00 - 23:00",
+              "rate": "€ 0,43/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,16/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "filedate": "2025-08-02T17:29:09.337964",
       "name": "Nivelles-Sud, Belgium",
       "address": "Chaussée de Mons 22, 1400 Nivelles, BE",
@@ -16829,6 +16959,41 @@
     },
     {
       "filedate": "2025-08-11T01:14:14.696285"
+    },
+    {
+      "filedate": "2025-08-12T08:42:32.601835",
+      "name": "Saint-Brieuc, France",
+      "address": "Rue de la Landelle 5, 22360 Langueux, FR",
+      "gps": {
+        "lat": 48.494194,
+        "lon": -2.723318
+      },
+      "stalls": 12,
+      "maxPowerKw": 259,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.23/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.32/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
       "filedate": "2025-08-12T01:49:19.208087",
