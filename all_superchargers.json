@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-12T16:30:41.588739",
-    "chargerCount": 431,
+    "jsonfiledate": "2025-08-12T16:40:41.751763",
+    "chargerCount": 432,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 431,
+    "successCount": 432,
     "errorCount": 0
   },
   "locations": [
@@ -12022,6 +12022,65 @@
             {
               "label": "Base Rate",
               "rate": "€0.60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-12T16:30:31.884304",
+      "name": "Wallisellen, Switzerland",
+      "address": "Neue Winterthurerstrasse 99, 8304 Wallisellen, CH",
+      "gps": {
+        "lat": 47.407976,
+        "lon": 8.598261
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "CHF 0,29/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "CHF 0,53/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "CHF 0,41/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "CHF 0,41/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "CHF 0,73/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "CHF 0,57/kWh"
             }
           ]
         }
