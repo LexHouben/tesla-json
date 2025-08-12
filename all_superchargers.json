@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-12T23:50:43.882350",
-    "chargerCount": 446,
+    "jsonfiledate": "2025-08-13T00:00:42.121040",
+    "chargerCount": 447,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 446,
+    "successCount": 447,
     "errorCount": 0
   },
   "locations": [
@@ -15530,6 +15530,65 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€0.51/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-12T23:50:59.091479",
+      "name": "Lully, Switzerland",
+      "address": "Restoroute 3, 1470 Lully, CH",
+      "gps": {
+        "lat": 46.83213,
+        "lon": 6.857356
+      },
+      "stalls": 10,
+      "maxPowerKw": 82,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,34/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "CHF 0,34/kWh"
+            },
+            {
+              "label": "10:00 - 22:00",
+              "rate": "CHF 0,50/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "CHF 0,34/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,48/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "CHF 0,48/kWh"
+            },
+            {
+              "label": "10:00 - 22:00",
+              "rate": "CHF 0,70/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "CHF 0,48/kWh"
             }
           ]
         }
