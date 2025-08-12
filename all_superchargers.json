@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-12T21:00:41.640717",
-    "chargerCount": 441,
+    "jsonfiledate": "2025-08-12T21:10:41.160469",
+    "chargerCount": 442,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 441,
+    "successCount": 442,
     "errorCount": 0
   },
   "locations": [
@@ -2003,6 +2003,41 @@
             {
               "label": "23:00 - 00:00",
               "rate": "€ 0,43/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-12T21:06:11.306963",
+      "name": "Winsen (Luhe), Germany",
+      "address": "Scharmbecker Dorfstraße 2A, 21423 Winsen, DE",
+      "gps": {
+        "lat": 53.350053,
+        "lon": 10.14686
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.60/kWh"
             }
           ]
         }
