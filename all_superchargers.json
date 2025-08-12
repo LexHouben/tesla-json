@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-12T04:55:35.151458",
-    "chargerCount": 395,
+    "jsonfiledate": "2025-08-12T05:55:34.720337",
+    "chargerCount": 398,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 395,
+    "successCount": 398,
     "errorCount": 0
   },
   "locations": [
@@ -6106,6 +6106,41 @@
       ]
     },
     {
+      "filedate": "2025-08-12T05:01:29.955802",
+      "name": "Limoges, France - Rue Henri Giffard",
+      "address": "Rue Henri Giffard None, 87280 Limoges, FR",
+      "gps": {
+        "lat": 45.870677,
+        "lon": 1.2686
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.30/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "filedate": "2025-08-11T20:22:10.126779",
       "name": "Le Bosc, France",
       "address": "Zae la Méridienne Sortie 54, A75 None, 34700 Le Bosc, FR",
@@ -9245,6 +9280,57 @@
             },
             {
               "label": "20:00 - 00:00",
+              "rate": "€ 0,42/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-12T05:15:31.706809",
+      "name": "Bron, France",
+      "address": "boulevard André Bouloche 1, 69800 Saint-Priest, FR",
+      "gps": {
+        "lat": 45.722035,
+        "lon": 4.923751
+      },
+      "stalls": 40,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,19/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "€ 0,19/kWh"
+            },
+            {
+              "label": "10:00 - 00:00",
+              "rate": "€ 0,30/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,26/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "€ 0,26/kWh"
+            },
+            {
+              "label": "10:00 - 00:00",
               "rate": "€ 0,42/kWh"
             }
           ]
@@ -16786,6 +16872,65 @@
             {
               "label": "Base Rate",
               "rate": "€0.60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-12T05:26:51.269657",
+      "name": "Steg-Hohtenn, Switzerland",
+      "address": "Besche Mattenstrasse 1, 3940 Steg-Hohtenn, CH",
+      "gps": {
+        "lat": 46.310229,
+        "lon": 7.750059
+      },
+      "stalls": 8,
+      "maxPowerKw": 125,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,36/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "CHF 0,36/kWh"
+            },
+            {
+              "label": "10:00 - 21:00",
+              "rate": "CHF 0,41/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "CHF 0,36/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,50/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "CHF 0,50/kWh"
+            },
+            {
+              "label": "10:00 - 21:00",
+              "rate": "CHF 0,57/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "CHF 0,50/kWh"
             }
           ]
         }
