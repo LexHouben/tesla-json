@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-12T02:55:33.947483",
-    "chargerCount": 386,
+    "jsonfiledate": "2025-08-12T03:55:34.369945",
+    "chargerCount": 390,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 386,
+    "successCount": 390,
     "errorCount": 0
   },
   "locations": [
@@ -181,6 +181,65 @@
             {
               "label": "23:00 - 00:00",
               "rate": "€ 0,33/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-12T03:15:06.208238",
+      "name": "Le Mans, France",
+      "address": "ZAC du Moulin aux Moines, Route d'Alencon None, 72650 La Chapelle St Aubin, FR",
+      "gps": {
+        "lat": 48.041259,
+        "lon": 0.175722
+      },
+      "stalls": 8,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,25/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "€ 0,25/kWh"
+            },
+            {
+              "label": "10:00 - 20:00",
+              "rate": "€ 0,32/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,26/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,35/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "€ 0,35/kWh"
+            },
+            {
+              "label": "10:00 - 20:00",
+              "rate": "€ 0,45/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,37/kWh"
             }
           ]
         }
@@ -12855,6 +12914,57 @@
       ]
     },
     {
+      "filedate": "2025-08-12T03:03:29.102244",
+      "name": "Les Herbiers, France",
+      "address": "avenue de l'Arborescente 9, 85500 Les Herbiers, FR",
+      "gps": {
+        "lat": 46.88961,
+        "lon": -1.033224
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,33/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,30/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,46/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "filedate": "2025-08-01T14:11:16.186661",
       "name": "Leusden, Netherlands",
       "address": "Philipsstraat 18, 3833 LC Leusden, NL",
@@ -13389,6 +13499,65 @@
       ]
     },
     {
+      "filedate": "2025-08-12T03:43:22.845068",
+      "name": "Maienfeld, Switzerland",
+      "address": "Werkhofstrasse 1, 7304 Maienfeld, CH",
+      "gps": {
+        "lat": 47.003391,
+        "lon": 9.526297
+      },
+      "stalls": 14,
+      "maxPowerKw": 125,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,39/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "CHF 0,39/kWh"
+            },
+            {
+              "label": "09:00 - 21:00",
+              "rate": "CHF 0,46/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "CHF 0,39/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,55/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "CHF 0,55/kWh"
+            },
+            {
+              "label": "09:00 - 21:00",
+              "rate": "CHF 0,65/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "CHF 0,55/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "filedate": "2025-08-09T14:54:42.538080",
       "name": "Malsfeld, Germany",
       "address": "Dr.-Reimer-Straße 2, 34323 Malsfeld, DE",
@@ -13434,6 +13603,57 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,64/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-12T03:29:25.811493",
+      "name": "Matougues, France",
+      "address": "Route Nationale D3 8, 51510 Matougues, FR",
+      "gps": {
+        "lat": 48.991682,
+        "lon": 4.244427
+      },
+      "stalls": 4,
+      "maxPowerKw": 125,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,35/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,30/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,49/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,42/kWh"
             }
           ]
         }
