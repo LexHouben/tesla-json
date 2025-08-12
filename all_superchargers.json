@@ -1,12 +1,12 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-12T09:56:01.508017",
-    "chargerCount": 416,
+    "jsonfiledate": "2025-08-12T10:55:40.013039",
+    "chargerCount": 418,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 416,
-    "errorCount": 0
+    "successCount": 418,
+    "errorCount": 1
   },
   "locations": [
     {
@@ -6678,6 +6678,57 @@
       ]
     },
     {
+      "filedate": "2025-08-12T10:03:29.730035",
+      "name": "Argenton-sur-Creuse, France",
+      "address": "Bd du Berry None, 36200 Argenton-sur-Creuse, FR",
+      "gps": {
+        "lat": 46.573166,
+        "lon": 1.502554
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,31/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,35/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,31/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,44/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,49/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,44/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "filedate": "2025-08-11T20:58:11.135840",
       "name": "Fontaine-lès-Dijon, France",
       "address": "Rue des Prés Potets None, 21121 Fontaine-lès-Dijon, FR",
@@ -8485,57 +8536,6 @@
             {
               "label": "23:00 - 00:00",
               "rate": "€0.35/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-07-14T12:52:28.848581",
-      "name": "Apeldoorn Oost, Netherlands",
-      "address": "Landgoedlaan 26, 6238 RV Apeldoorn, NL",
-      "gps": {
-        "lat": 52.205166,
-        "lon": 6.0168
-      },
-      "stalls": 20,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "08:00 - 00:00",
-              "rate": "€ 0,31/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "08:00 - 00:00",
-              "rate": "€ 0,43/kWh"
             }
           ]
         }
@@ -10589,6 +10589,65 @@
       ]
     },
     {
+      "filedate": "2025-08-12T10:16:49.968822",
+      "name": "Eberstalzell, Austria",
+      "address": "Solarstraße 4 4, 4653 Eberstalzell, AT",
+      "gps": {
+        "lat": 48.039538,
+        "lon": 13.991015
+      },
+      "stalls": 21,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "0-60 kW",
+              "rate": "€ 0,29/min"
+            },
+            {
+              "label": "60-100 kW",
+              "rate": "€ 0,59/min"
+            },
+            {
+              "label": "100-180 kW",
+              "rate": "€ 0,92/min"
+            },
+            {
+              "label": "180+ kW",
+              "rate": "€ 1,54/min"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "0-60 kW",
+              "rate": "€ 0,41/min"
+            },
+            {
+              "label": "60-100 kW",
+              "rate": "€ 0,82/min"
+            },
+            {
+              "label": "100-180 kW",
+              "rate": "€ 1,29/min"
+            },
+            {
+              "label": "180+ kW",
+              "rate": "€ 2,16/min"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "filedate": "2025-08-04T13:55:33.959654",
       "name": "Eching, Germany",
       "address": "Dieselstraße 3A, 85386 Eching, DE",
@@ -11195,6 +11254,57 @@
             {
               "label": "23:00 - 00:00",
               "rate": "€ 0,46/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-12T10:42:50.386137",
+      "name": "Eurotunnel, France -  Flexiplus Lounge",
+      "address": "Boulevard de l'Europe None, 62231 Coquelles, FR",
+      "gps": {
+        "lat": 50.929973,
+        "lon": 1.813182
+      },
+      "stalls": 2,
+      "maxPowerKw": 125,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,28/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,28/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,39/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,43/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,39/kWh"
             }
           ]
         }
