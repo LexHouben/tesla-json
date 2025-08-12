@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-12T20:10:40.652978",
-    "chargerCount": 439,
+    "jsonfiledate": "2025-08-12T20:20:41.350944",
+    "chargerCount": 440,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 439,
+    "successCount": 440,
     "errorCount": 0
   },
   "locations": [
@@ -8649,6 +8649,65 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,64/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-12T20:10:29.685018",
+      "name": "Vélizy, France - Avenue de l'Europe",
+      "address": "Avenue de l'Europe 2, 78140 Vélizy-Villacoublay, FR",
+      "gps": {
+        "lat": 48.783822,
+        "lon": 2.220996
+      },
+      "stalls": 30,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,22/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "€ 0,17/kWh"
+            },
+            {
+              "label": "10:00 - 23:00",
+              "rate": "€ 0,31/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,22/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,31/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "€ 0,24/kWh"
+            },
+            {
+              "label": "10:00 - 23:00",
+              "rate": "€ 0,43/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,31/kWh"
             }
           ]
         }
