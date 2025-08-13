@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-13T07:50:43.501652",
-    "chargerCount": 462,
+    "jsonfiledate": "2025-08-13T08:00:43.670441",
+    "chargerCount": 463,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 462,
+    "successCount": 463,
     "errorCount": 0
   },
   "locations": [
@@ -18001,6 +18001,57 @@
             {
               "label": "Base Rate",
               "rate": "CHF 0.58/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-13T07:58:03.697079",
+      "name": "Oftringen, Switzerland",
+      "address": "Zürichstrasse 52, 4665 Oftringen, CH",
+      "gps": {
+        "lat": 47.312194,
+        "lon": 7.933918
+      },
+      "stalls": 14,
+      "maxPowerKw": 125,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,30/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "CHF 0,30/kWh"
+            },
+            {
+              "label": "08:00 - 00:00",
+              "rate": "CHF 0,45/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,42/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "CHF 0,42/kWh"
+            },
+            {
+              "label": "08:00 - 00:00",
+              "rate": "CHF 0,64/kWh"
             }
           ]
         }
