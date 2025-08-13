@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-14T01:05:49.631131",
-    "chargerCount": 501,
+    "jsonfiledate": "2025-08-14T01:15:48.298731",
+    "chargerCount": 502,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 501,
+    "successCount": 502,
     "errorCount": 0
   },
   "locations": [
@@ -9182,6 +9182,41 @@
             {
               "label": "Base Rate",
               "rate": "€0.38/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-14T01:10:44.806283",
+      "name": "Montauban, France - Route De Saint-Martial",
+      "address": "Route De Saint Martial 50, 82000 Montauban, FR",
+      "gps": {
+        "lat": 44.00557,
+        "lon": 1.384409
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.17/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.24/kWh"
             }
           ]
         }
