@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-13T22:30:46.790886",
-    "chargerCount": 488,
+    "jsonfiledate": "2025-08-13T22:40:46.485432",
+    "chargerCount": 489,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 488,
+    "successCount": 489,
     "errorCount": 0
   },
   "locations": [
@@ -18490,6 +18490,38 @@
             {
               "label": "09:00 - 00:00",
               "rate": "€ 0,44/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-13T22:34:23.658742",
+      "name": "Narbonne, France",
+      "address": "rue de L'Hotellerie 130, 11100 Narbonne, FR",
+      "gps": {
+        "lat": 43.167739,
+        "lon": 2.986032
+      },
+      "stalls": 12,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,33/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,30/kWh"
             }
           ]
         }
