@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-13T16:00:47.421187",
-    "chargerCount": 477,
+    "jsonfiledate": "2025-08-13T16:10:45.228139",
+    "chargerCount": 478,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 477,
+    "successCount": 478,
     "errorCount": 0
   },
   "locations": [
@@ -7020,6 +7020,65 @@
             {
               "label": "180+ kW",
               "rate": "€ 2,09/min"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-13T16:00:12.682509",
+      "name": "Franconville, France",
+      "address": "Rue du Général Leclerc 326, 95130 Franconville, FR",
+      "gps": {
+        "lat": 48.98894929,
+        "lon": 2.20851337
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,22/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,19/kWh"
+            },
+            {
+              "label": "08:00 - 12:00",
+              "rate": "€ 0,26/kWh"
+            },
+            {
+              "label": "12:00 - 00:00",
+              "rate": "€ 0,40/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,31/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,26/kWh"
+            },
+            {
+              "label": "08:00 - 12:00",
+              "rate": "€ 0,36/kWh"
+            },
+            {
+              "label": "12:00 - 00:00",
+              "rate": "€ 0,56/kWh"
             }
           ]
         }
