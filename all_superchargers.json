@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-13T05:40:42.692133",
-    "chargerCount": 458,
+    "jsonfiledate": "2025-08-13T05:50:43.323788",
+    "chargerCount": 459,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 458,
+    "successCount": 459,
     "errorCount": 0
   },
   "locations": [
@@ -5702,6 +5702,65 @@
             {
               "label": "22:00 - 00:00",
               "rate": "€ 0,44/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-13T05:49:11.033934",
+      "name": "Saint-Pierre-d'Irube, France",
+      "address": "Avenue du Portou 2-4, 64100 Saint-Pierre-d'Irube, FR",
+      "gps": {
+        "lat": 43.481932,
+        "lon": -1.445779
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,20/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,20/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "€ 0,25/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,20/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "€ 0,35/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,29/kWh"
             }
           ]
         }
