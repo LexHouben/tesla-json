@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-13T03:30:42.408992",
-    "chargerCount": 453,
+    "jsonfiledate": "2025-08-13T03:40:42.590145",
+    "chargerCount": 454,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 453,
+    "successCount": 454,
     "errorCount": 0
   },
   "locations": [
@@ -18646,6 +18646,57 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,64/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-13T03:30:41.893367",
+      "name": "Tinqueux, France",
+      "address": "Route de Soissons None, 51430 Tinqueux, FR",
+      "gps": {
+        "lat": 49.253048,
+        "lon": 3.976892
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,34/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,30/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,47/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,42/kWh"
             }
           ]
         }
