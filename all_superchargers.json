@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-13T09:10:44.322957",
-    "chargerCount": 465,
+    "jsonfiledate": "2025-08-13T09:20:44.613049",
+    "chargerCount": 466,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 465,
+    "successCount": 466,
     "errorCount": 0
   },
   "locations": [
@@ -20172,6 +20172,73 @@
             {
               "label": "180+ kW",
               "rate": "€ 2,09/min"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-13T09:18:56.929116",
+      "name": "St. Moritz, Switzerland",
+      "address": "Via Grevas 53, 7500 St. Moritz, CH",
+      "gps": {
+        "lat": 46.496575,
+        "lon": 9.842567
+      },
+      "stalls": 4,
+      "maxPowerKw": 125,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,32/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "CHF 0,42/kWh"
+            },
+            {
+              "label": "10:00 - 19:00",
+              "rate": "CHF 0,53/kWh"
+            },
+            {
+              "label": "19:00 - 23:00",
+              "rate": "CHF 0,42/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "CHF 0,32/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,45/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "CHF 0,59/kWh"
+            },
+            {
+              "label": "10:00 - 19:00",
+              "rate": "CHF 0,73/kWh"
+            },
+            {
+              "label": "19:00 - 23:00",
+              "rate": "CHF 0,59/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "CHF 0,45/kWh"
             }
           ]
         }
