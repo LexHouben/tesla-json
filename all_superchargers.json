@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-13T16:20:45.377796",
+    "jsonfiledate": "2025-08-13T16:30:45.457952",
     "chargerCount": 478,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -20171,7 +20171,55 @@
       ]
     },
     {
-      "filedate": "2025-08-11T01:32:05.783111"
+      "filedate": "2025-08-13T16:26:50.384468",
+      "name": "Sangerhausen, Germany",
+      "address": "Am Mittelfeld 5, 6526 Sangerhausen, DE",
+      "gps": {
+        "lat": 51.450228,
+        "lon": 11.304338
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,45/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,50/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,45/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,64/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,69/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,64/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
       "filedate": "2025-08-02T13:32:25.970872",
