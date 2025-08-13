@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-14T00:00:47.470451",
-    "chargerCount": 492,
+    "jsonfiledate": "2025-08-14T00:06:25.271673",
+    "chargerCount": 493,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 492,
+    "successCount": 493,
     "errorCount": 0
   },
   "locations": [
@@ -11980,6 +11980,41 @@
             {
               "label": "10:00 - 00:00",
               "rate": "€0.42/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-14T00:04:34.094330",
+      "name": "Bulle, Switzerland",
+      "address": "Rue de l'industrie 31, 1630 Bulle, CH",
+      "gps": {
+        "lat": 46.625111,
+        "lon": 7.03734
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "CHF 0.37/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "CHF 0.51/kWh"
             }
           ]
         }
