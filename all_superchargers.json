@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-13T12:40:44.729645",
+    "jsonfiledate": "2025-08-13T12:50:44.599624",
     "chargerCount": 472,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -4706,7 +4706,39 @@
       ]
     },
     {
-      "filedate": "2025-08-11T02:43:12.319366"
+      "filedate": "2025-08-13T12:50:04.799754",
+      "name": "Viernheim, Germany",
+      "address": "Am Alten Weinheimer Weg 1a, 68519 Viernheim, DE",
+      "gps": {
+        "lat": 49.539781,
+        "lon": 8.595257
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.42/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.58/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
       "filedate": "2025-08-04T13:26:12.548530",
