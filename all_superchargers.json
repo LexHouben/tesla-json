@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-13T23:00:46.775049",
-    "chargerCount": 489,
+    "jsonfiledate": "2025-08-13T23:10:46.709043",
+    "chargerCount": 490,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 489,
+    "successCount": 490,
     "errorCount": 0
   },
   "locations": [
@@ -17760,6 +17760,41 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,64/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-13T23:01:01.369927",
+      "name": "Montauban, France",
+      "address": "Route du Nord 445, 82000 Montauban, FR",
+      "gps": {
+        "lat": 44.036554,
+        "lon": 1.378
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.22/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.31/kWh"
             }
           ]
         }
