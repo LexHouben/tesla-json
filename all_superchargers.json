@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-13T21:40:47.093102",
-    "chargerCount": 486,
+    "jsonfiledate": "2025-08-13T21:50:47.260500",
+    "chargerCount": 487,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 486,
+    "successCount": 487,
     "errorCount": 0
   },
   "locations": [
@@ -6953,6 +6953,41 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,42/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-13T21:40:23.347897",
+      "name": "Narbonne Sud, France",
+      "address": "Route de Perpignan None, 11100 Narbonne, FR",
+      "gps": {
+        "lat": 43.1618704,
+        "lon": 2.98221435
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.41/kWh"
             }
           ]
         }
