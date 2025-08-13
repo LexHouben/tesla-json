@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-13T19:20:45.668570",
-    "chargerCount": 482,
+    "jsonfiledate": "2025-08-13T19:30:46.091197",
+    "chargerCount": 483,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 482,
+    "successCount": 483,
     "errorCount": 0
   },
   "locations": [
@@ -16530,6 +16530,65 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€0.48/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-13T19:24:53.130297",
+      "name": "Liezen, Austria",
+      "address": "Gesäuse Str. 14, 8940 Liezen, AT",
+      "gps": {
+        "lat": 47.558874,
+        "lon": 14.252683
+      },
+      "stalls": 8,
+      "maxPowerKw": 130,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "0-60 kW",
+              "rate": "€ 0,28/min"
+            },
+            {
+              "label": "60-100 kW",
+              "rate": "€ 0,57/min"
+            },
+            {
+              "label": "100-180 kW",
+              "rate": "€ 0,88/min"
+            },
+            {
+              "label": "180+ kW",
+              "rate": "€ 1,49/min"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "0-60 kW",
+              "rate": "€ 0,39/min"
+            },
+            {
+              "label": "60-100 kW",
+              "rate": "€ 0,80/min"
+            },
+            {
+              "label": "100-180 kW",
+              "rate": "€ 1,24/min"
+            },
+            {
+              "label": "180+ kW",
+              "rate": "€ 2,09/min"
             }
           ]
         }
