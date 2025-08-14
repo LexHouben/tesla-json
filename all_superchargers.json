@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-14T15:05:54.282230",
-    "chargerCount": 531,
+    "jsonfiledate": "2025-08-14T15:15:54.923114",
+    "chargerCount": 532,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 531,
+    "successCount": 532,
     "errorCount": 0
   },
   "locations": [
@@ -8588,6 +8588,57 @@
             {
               "label": "180+ kW",
               "rate": "€ 2,09/min"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-14T15:10:06.675491",
+      "name": "Saint-Louis, France",
+      "address": "Rue de Séville 1, 68300 Saint-Louis, FR",
+      "gps": {
+        "lat": 47.605183,
+        "lon": 7.543212
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,17/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,17/kWh"
+            },
+            {
+              "label": "09:00 - 00:00",
+              "rate": "€ 0,32/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,24/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,24/kWh"
+            },
+            {
+              "label": "09:00 - 00:00",
+              "rate": "€ 0,45/kWh"
             }
           ]
         }
