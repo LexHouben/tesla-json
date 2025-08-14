@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-14T06:05:48.977345",
-    "chargerCount": 512,
+    "jsonfiledate": "2025-08-14T06:15:49.046520",
+    "chargerCount": 513,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 512,
+    "successCount": 513,
     "errorCount": 0
   },
   "locations": [
@@ -1599,6 +1599,57 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,64/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-14T06:14:40.273606",
+      "name": "Aire de Portes-Lès-Valence Ouest, France",
+      "address": "A7 - Autoroute du Soleil 1, 26800 Portes-lès-Valence, FR",
+      "gps": {
+        "lat": 44.864843,
+        "lon": 4.864827
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,34/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,30/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,47/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,42/kWh"
             }
           ]
         }
