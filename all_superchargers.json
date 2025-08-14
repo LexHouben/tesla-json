@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-14T14:15:51.749261",
-    "chargerCount": 529,
+    "jsonfiledate": "2025-08-14T14:25:52.879512",
+    "chargerCount": 530,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 529,
+    "successCount": 530,
     "errorCount": 0
   },
   "locations": [
@@ -14744,6 +14744,41 @@
             {
               "label": "Base Rate",
               "rate": "€0.58/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-14T14:16:24.687738",
+      "name": "Flüelen, Switzerland",
+      "address": "Axenstrasse 82, 6454 Fluelen, CH",
+      "gps": {
+        "lat": 46.912727,
+        "lon": 8.622726
+      },
+      "stalls": 6,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "CHF 0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "CHF 0.60/kWh"
             }
           ]
         }
