@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-14T12:25:51.384084",
-    "chargerCount": 525,
+    "jsonfiledate": "2025-08-14T12:35:51.501712",
+    "chargerCount": 526,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 525,
+    "successCount": 526,
     "errorCount": 0
   },
   "locations": [
@@ -12914,6 +12914,73 @@
             {
               "label": "09:00 - 00:00",
               "rate": "CHF 0,73/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-14T12:27:28.444438",
+      "name": "Cadenazzo, Switzerland",
+      "address": "Via Stazione 10, 6593 Cadenazzo, CH",
+      "gps": {
+        "lat": 46.152124,
+        "lon": 8.93817
+      },
+      "stalls": 4,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,37/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "CHF 0,37/kWh"
+            },
+            {
+              "label": "09:00 - 18:00",
+              "rate": "CHF 0,49/kWh"
+            },
+            {
+              "label": "18:00 - 22:00",
+              "rate": "CHF 0,44/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "CHF 0,37/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,53/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "CHF 0,53/kWh"
+            },
+            {
+              "label": "09:00 - 18:00",
+              "rate": "CHF 0,69/kWh"
+            },
+            {
+              "label": "18:00 - 22:00",
+              "rate": "CHF 0,61/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "CHF 0,53/kWh"
             }
           ]
         }
