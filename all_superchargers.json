@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-14T19:40:53.394965",
-    "chargerCount": 541,
+    "jsonfiledate": "2025-08-14T19:50:53.905522",
+    "chargerCount": 542,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 541,
+    "successCount": 542,
     "errorCount": 0
   },
   "locations": [
@@ -181,6 +181,65 @@
             {
               "label": "23:00 - 00:00",
               "rate": "€ 0,33/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-14T19:45:02.539726",
+      "name": "Trieben, Austria",
+      "address": "Industriepark 3, 8784 Trieben, AT",
+      "gps": {
+        "lat": 47.492391,
+        "lon": 14.483625
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "0-60 kW",
+              "rate": "€ 0,29/min"
+            },
+            {
+              "label": "60-100 kW",
+              "rate": "€ 0,60/min"
+            },
+            {
+              "label": "100-180 kW",
+              "rate": "€ 0,93/min"
+            },
+            {
+              "label": "180+ kW",
+              "rate": "€ 1,57/min"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "0-60 kW",
+              "rate": "€ 0,41/min"
+            },
+            {
+              "label": "60-100 kW",
+              "rate": "€ 0,84/min"
+            },
+            {
+              "label": "100-180 kW",
+              "rate": "€ 1,30/min"
+            },
+            {
+              "label": "180+ kW",
+              "rate": "€ 2,19/min"
             }
           ]
         }
