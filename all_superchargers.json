@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-14T07:55:49.196663",
-    "chargerCount": 516,
+    "jsonfiledate": "2025-08-14T08:05:50.053357",
+    "chargerCount": 517,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 516,
+    "successCount": 517,
     "errorCount": 0
   },
   "locations": [
@@ -18168,6 +18168,65 @@
             {
               "label": "Base Rate",
               "rate": "€0.27/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-14T08:03:33.679032",
+      "name": "Meggenhofen, Austria",
+      "address": "Trappenhof 1, 4714 Trappenhof, AT",
+      "gps": {
+        "lat": 48.183465,
+        "lon": 13.786069
+      },
+      "stalls": 9,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "0-60 kW",
+              "rate": "€ 0,29/min"
+            },
+            {
+              "label": "60-100 kW",
+              "rate": "€ 0,59/min"
+            },
+            {
+              "label": "100-180 kW",
+              "rate": "€ 0,92/min"
+            },
+            {
+              "label": "180+ kW",
+              "rate": "€ 1,54/min"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "0-60 kW",
+              "rate": "€ 0,41/min"
+            },
+            {
+              "label": "60-100 kW",
+              "rate": "€ 0,82/min"
+            },
+            {
+              "label": "100-180 kW",
+              "rate": "€ 1,29/min"
+            },
+            {
+              "label": "180+ kW",
+              "rate": "€ 2,16/min"
             }
           ]
         }
