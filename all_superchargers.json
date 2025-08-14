@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-14T20:10:54.076096",
-    "chargerCount": 542,
+    "jsonfiledate": "2025-08-14T20:20:54.297050",
+    "chargerCount": 543,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 542,
+    "successCount": 543,
     "errorCount": 0
   },
   "locations": [
@@ -18537,6 +18537,57 @@
             {
               "label": "180+ kW",
               "rate": "€ 2,09/min"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-14T20:12:02.946708",
+      "name": "Lesquin, France",
+      "address": "route de Douai 55, 59810 Lesquin, FR",
+      "gps": {
+        "lat": 50.583875,
+        "lon": 3.088602
+      },
+      "stalls": 16,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,17/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,17/kWh"
+            },
+            {
+              "label": "09:00 - 00:00",
+              "rate": "€ 0,32/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,24/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,24/kWh"
+            },
+            {
+              "label": "09:00 - 00:00",
+              "rate": "€ 0,44/kWh"
             }
           ]
         }
