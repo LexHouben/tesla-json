@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-14T15:30:55.742928",
-    "chargerCount": 532,
+    "jsonfiledate": "2025-08-14T15:40:53.806898",
+    "chargerCount": 533,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 532,
+    "successCount": 533,
     "errorCount": 0
   },
   "locations": [
@@ -2252,6 +2252,65 @@
             {
               "label": "Base Rate",
               "rate": "€0.58/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-14T15:37:41.920382",
+      "name": "Aix-en-Provence, France - Beaumanoir",
+      "address": "Rue Marcel Arnaud None, 13100 Aix-en-Provence, FR",
+      "gps": {
+        "lat": 43.513614,
+        "lon": 5.465757
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,15/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,21/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,27/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,21/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "€ 0,58/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,37/kWh"
             }
           ]
         }
