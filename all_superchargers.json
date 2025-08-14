@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-14T08:55:49.894934",
-    "chargerCount": 518,
+    "jsonfiledate": "2025-08-14T09:05:50.254524",
+    "chargerCount": 519,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 518,
+    "successCount": 519,
     "errorCount": 0
   },
   "locations": [
@@ -23257,6 +23257,57 @@
             {
               "label": "04:00 - 00:00",
               "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-14T08:56:56.856190",
+      "name": "Valenciennes, France",
+      "address": "Rue de Maugré None, 59220 Rouvignies, FR",
+      "gps": {
+        "lat": 50.336526,
+        "lon": 3.456667
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,22/kWh"
+            },
+            {
+              "label": "04:00 - 22:00",
+              "rate": "€ 0,26/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,22/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,31/kWh"
+            },
+            {
+              "label": "04:00 - 22:00",
+              "rate": "€ 0,36/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,31/kWh"
             }
           ]
         }
