@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-14T03:25:48.293532",
+    "jsonfiledate": "2025-08-14T03:35:48.523295",
     "chargerCount": 507,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -23773,7 +23773,63 @@
       "filedate": "2025-08-11T05:20:30.462831"
     },
     {
-      "filedate": "2025-08-11T05:29:39.082414"
+      "filedate": "2025-08-14T03:33:48.409333",
+      "name": "Wörrstadt, Germany",
+      "address": "Sophie-Opel-Straße 4, 55286 Wörrstadt, DE",
+      "gps": {
+        "lat": 49.840439,
+        "lon": 8.143093
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,31/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,31/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,43/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,31/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,43/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,43/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,60/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,43/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
       "filedate": "2025-08-11T17:27:38.449217",
