@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-14T18:50:52.802482",
-    "chargerCount": 539,
+    "jsonfiledate": "2025-08-14T19:00:55.827050",
+    "chargerCount": 540,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 539,
+    "successCount": 540,
     "errorCount": 0
   },
   "locations": [
@@ -11911,6 +11911,65 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,42/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-14T18:50:03.896451",
+      "name": "Beckenried, Switzerland",
+      "address": "Buochserstrasse 54, 6375 Beckenried, CH",
+      "gps": {
+        "lat": 46.971229,
+        "lon": 8.459273
+      },
+      "stalls": 6,
+      "maxPowerKw": 125,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,45/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "CHF 0,45/kWh"
+            },
+            {
+              "label": "09:00 - 22:00",
+              "rate": "CHF 0,50/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "CHF 0,45/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,63/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "CHF 0,63/kWh"
+            },
+            {
+              "label": "09:00 - 22:00",
+              "rate": "CHF 0,71/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "CHF 0,63/kWh"
             }
           ]
         }
