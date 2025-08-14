@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-14T05:45:48.932363",
-    "chargerCount": 511,
+    "jsonfiledate": "2025-08-14T05:55:49.484710",
+    "chargerCount": 512,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 511,
+    "successCount": 512,
     "errorCount": 0
   },
   "locations": [
@@ -10285,6 +10285,30 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,30/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-14T05:47:48.449192",
+      "name": "Aire de Saint-Priest, France",
+      "address": "A43 - Aire de Saint-Priest None, 69800 Saint-Priest, FR",
+      "gps": {
+        "lat": 45.698042,
+        "lon": 4.975513
+      },
+      "stalls": 6,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.28/kWh"
             }
           ]
         }
