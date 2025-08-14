@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-14T09:46:24.627730",
-    "chargerCount": 520,
+    "jsonfiledate": "2025-08-14T09:55:50.926416",
+    "chargerCount": 521,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 520,
+    "successCount": 521,
     "errorCount": 0
   },
   "locations": [
@@ -5731,6 +5731,41 @@
             {
               "label": "Base Rate",
               "rate": "€0.58/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-14T09:51:31.798191",
+      "name": "Saint-Chamond, France",
+      "address": "Route du 17 octobre 1961 None, 42400 Saint-Chamond, FR",
+      "gps": {
+        "lat": 45.461071,
+        "lon": 4.494828
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.23/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.32/kWh"
             }
           ]
         }
