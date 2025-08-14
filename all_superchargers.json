@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-14T16:30:54.308496",
-    "chargerCount": 534,
+    "jsonfiledate": "2025-08-14T16:40:54.661156",
+    "chargerCount": 535,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 534,
+    "successCount": 535,
     "errorCount": 0
   },
   "locations": [
@@ -8204,6 +8204,65 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-14T16:31:33.193049",
+      "name": "Saint-Contest, France",
+      "address": "Rue du Clos Barbey 27, 14280 Saint-Contest, FR",
+      "gps": {
+        "lat": 49.200795,
+        "lon": -0.399727
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,21/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,21/kWh"
+            },
+            {
+              "label": "09:00 - 21:00",
+              "rate": "€ 0,32/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "€ 0,21/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "09:00 - 21:00",
+              "rate": "€ 0,44/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "€ 0,30/kWh"
             }
           ]
         }
