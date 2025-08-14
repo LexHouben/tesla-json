@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-14T17:20:53.444567",
-    "chargerCount": 536,
+    "jsonfiledate": "2025-08-14T17:30:53.041782",
+    "chargerCount": 537,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 536,
+    "successCount": 537,
     "errorCount": 0
   },
   "locations": [
@@ -8510,6 +8510,41 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,42/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-14T17:28:11.940840",
+      "name": "Terville, France",
+      "address": "Av. du 14 Juillet 1789 5012, 57180 Terville, FR",
+      "gps": {
+        "lat": 49.347665,
+        "lon": 6.125591
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.24/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.33/kWh"
             }
           ]
         }
