@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-16T00:40:56.167221",
-    "chargerCount": 577,
+    "jsonfiledate": "2025-08-16T00:50:58.517825",
+    "chargerCount": 578,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 577,
+    "successCount": 578,
     "errorCount": 0
   },
   "locations": [
@@ -24017,6 +24017,65 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,42/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-16T00:44:25.320788",
+      "name": "Roissy-en-France, France",
+      "address": "rue de la Belle Etoile 241, 95700 Roissy-en-France, FR",
+      "gps": {
+        "lat": 48.985279,
+        "lon": 2.510685
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,18/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "€ 0,26/kWh"
+            },
+            {
+              "label": "10:00 - 23:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,18/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,25/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "€ 0,37/kWh"
+            },
+            {
+              "label": "10:00 - 23:00",
+              "rate": "€ 0,59/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,25/kWh"
             }
           ]
         }
