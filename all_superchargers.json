@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-15T22:10:57.495672",
-    "chargerCount": 572,
+    "jsonfiledate": "2025-08-15T22:20:58.516752",
+    "chargerCount": 573,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 572,
+    "successCount": 573,
     "errorCount": 0
   },
   "locations": [
@@ -24263,6 +24263,57 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,64/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-15T22:13:26.092167",
+      "name": "Sarzana, Italy - La Spezia",
+      "address": "Via Variante Cisa 40, 19038 Sarzana SP, IT",
+      "gps": {
+        "lat": 44.11769459,
+        "lon": 9.9455825
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,47/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,52/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,47/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,66/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,74/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,66/kWh"
             }
           ]
         }
