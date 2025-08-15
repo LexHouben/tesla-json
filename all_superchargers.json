@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-15T14:30:55.720081",
-    "chargerCount": 554,
+    "jsonfiledate": "2025-08-15T14:40:55.757159",
+    "chargerCount": 556,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 554,
+    "successCount": 556,
     "errorCount": 0
   },
   "locations": [
@@ -12188,6 +12188,57 @@
       ]
     },
     {
+      "filedate": "2025-08-15T14:30:52.360960",
+      "name": "Beaune, France",
+      "address": "Avenue Charles de Gaulle 7, 21200 Beaune, FR",
+      "gps": {
+        "lat": 47.017089,
+        "lon": 4.836543
+      },
+      "stalls": 12,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,33/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,30/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,46/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,42/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "filedate": "2025-08-14T18:50:03.896451",
       "name": "Beckenried, Switzerland",
       "address": "Buochserstrasse 54, 6375 Beckenried, CH",
@@ -21275,6 +21326,65 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€0.48/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-15T14:37:49.013854",
+      "name": "Nîmes, France - Rue Jean Lauret",
+      "address": "rue Jean Lauret 148, 30900 Nîmes, FR",
+      "gps": {
+        "lat": 43.80783,
+        "lon": 4.364058
+      },
+      "stalls": 28,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "09:00 - 21:00",
+              "rate": "€ 0,34/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "€ 0,30/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "09:00 - 21:00",
+              "rate": "€ 0,47/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "€ 0,42/kWh"
             }
           ]
         }
