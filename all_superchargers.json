@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-15T14:40:55.757159",
-    "chargerCount": 556,
+    "jsonfiledate": "2025-08-15T14:50:56.520112",
+    "chargerCount": 557,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 556,
+    "successCount": 557,
     "errorCount": 0
   },
   "locations": [
@@ -15177,6 +15177,65 @@
             {
               "label": "23:00 - 00:00",
               "rate": "€ 0,33/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-15T14:44:19.316835",
+      "name": "Egerkingen, Switzerland",
+      "address": "Höhenstrasse 12, 4622 Egerkingen, CH",
+      "gps": {
+        "lat": 47.326519,
+        "lon": 7.805384
+      },
+      "stalls": 10,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,33/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "CHF 0,44/kWh"
+            },
+            {
+              "label": "10:00 - 23:00",
+              "rate": "CHF 0,49/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "CHF 0,33/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,45/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "CHF 0,61/kWh"
+            },
+            {
+              "label": "10:00 - 23:00",
+              "rate": "CHF 0,68/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "CHF 0,45/kWh"
             }
           ]
         }
