@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-15T17:00:56.829371",
-    "chargerCount": 561,
+    "jsonfiledate": "2025-08-15T17:10:57.019623",
+    "chargerCount": 562,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 561,
+    "successCount": 562,
     "errorCount": 0
   },
   "locations": [
@@ -11155,6 +11155,38 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,64/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-15T17:05:27.286827",
+      "name": "Affi, Italy",
+      "address": "Via San Pieretto 27, 37010 Affi, IT",
+      "gps": {
+        "lat": 45.551212,
+        "lon": 10.787586
+      },
+      "stalls": 24,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,47/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,51/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,47/kWh"
             }
           ]
         }
