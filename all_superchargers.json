@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-15T20:20:55.448673",
-    "chargerCount": 568,
+    "jsonfiledate": "2025-08-15T20:30:56.263425",
+    "chargerCount": 569,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 568,
+    "successCount": 569,
     "errorCount": 0
   },
   "locations": [
@@ -15185,6 +15185,38 @@
             {
               "label": "23:00 - 00:00",
               "rate": "€ 0,33/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-15T20:28:54.812015",
+      "name": "Dorno Ovest, Italy",
+      "address": "A7 Milano - Genova km 33, 27020 Dorno, IT",
+      "gps": {
+        "lat": 45.149569,
+        "lon": 8.992046
+      },
+      "stalls": 6,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,47/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,52/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,47/kWh"
             }
           ]
         }
