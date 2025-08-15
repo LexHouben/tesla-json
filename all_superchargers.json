@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-15T19:30:55.195674",
-    "chargerCount": 566,
+    "jsonfiledate": "2025-08-15T19:40:55.887008",
+    "chargerCount": 567,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 566,
+    "successCount": 567,
     "errorCount": 0
   },
   "locations": [
@@ -22091,6 +22091,41 @@
             {
               "label": "08:00 - 00:00",
               "rate": "CHF 0,64/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-15T19:36:23.235831",
+      "name": "Olbia, Italy",
+      "address": "Via Ragazzi del '99 None, 07026 Olbia, IT",
+      "gps": {
+        "lat": 40.906784,
+        "lon": 9.515613
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.61/kWh"
             }
           ]
         }
