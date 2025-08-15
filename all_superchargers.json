@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-15T16:10:58.167393",
-    "chargerCount": 559,
+    "jsonfiledate": "2025-08-15T16:20:56.918260",
+    "chargerCount": 560,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 559,
+    "successCount": 560,
     "errorCount": 0
   },
   "locations": [
@@ -23952,6 +23952,65 @@
     },
     {
       "filedate": "2025-08-11T02:16:50.314178"
+    },
+    {
+      "filedate": "2025-08-15T16:12:35.929141",
+      "name": "Pfäffikon, Switzerland - Seedamm-Center",
+      "address": "Gwattstrasse 11, 8808 Pfäffikon, CH",
+      "gps": {
+        "lat": 47.199916,
+        "lon": 8.794421
+      },
+      "stalls": 15,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "CHF 0,29/kWh"
+            },
+            {
+              "label": "08:00 - 20:00",
+              "rate": "CHF 0,52/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "CHF 0,42/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "CHF 0,41/kWh"
+            },
+            {
+              "label": "08:00 - 20:00",
+              "rate": "CHF 0,72/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "CHF 0,59/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
       "filedate": "2025-08-04T22:14:30.441573",
