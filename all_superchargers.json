@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-15T17:30:57.384798",
-    "chargerCount": 562,
+    "jsonfiledate": "2025-08-15T17:40:55.368452",
+    "chargerCount": 563,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 562,
+    "successCount": 563,
     "errorCount": 0
   },
   "locations": [
@@ -8679,6 +8679,41 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,32/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-15T17:31:18.030425",
+      "name": "Colombe, France",
+      "address": "Rte de Rives 250, 38690 Colombe, FR",
+      "gps": {
+        "lat": 45.39615,
+        "lon": 5.46684
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.26/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.36/kWh"
             }
           ]
         }
