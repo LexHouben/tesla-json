@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-15T14:10:56.474570",
-    "chargerCount": 551,
+    "jsonfiledate": "2025-08-15T14:20:56.046426",
+    "chargerCount": 553,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 551,
+    "successCount": 553,
     "errorCount": 0
   },
   "locations": [
@@ -20895,6 +20895,41 @@
       ]
     },
     {
+      "filedate": "2025-08-15T14:18:03.601120",
+      "name": "Nola, Italy",
+      "address": "Via Boscofangone None, 80035 Nola (NA), IT",
+      "gps": {
+        "lat": 40.948132,
+        "lon": 14.48911
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.61/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "filedate": "2025-08-13T22:34:23.658742",
       "name": "Narbonne, France",
       "address": "rue de L'Hotellerie 130, 11100 Narbonne, FR",
@@ -23232,6 +23267,41 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,42/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-15T14:10:56.976567",
+      "name": "Saint-Quentin, France",
+      "address": "Route d'Amiens, Route Nationale 29, 02100 Saint-Quentin, FR",
+      "gps": {
+        "lat": 49.859531,
+        "lon": 3.25422
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.22/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.31/kWh"
             }
           ]
         }
