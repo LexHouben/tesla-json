@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-15T14:20:56.046426",
-    "chargerCount": 553,
+    "jsonfiledate": "2025-08-15T14:30:55.720081",
+    "chargerCount": 554,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 553,
+    "successCount": 554,
     "errorCount": 0
   },
   "locations": [
@@ -14092,6 +14092,42 @@
             {
               "label": "Base Rate",
               "rate": "€0.38/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-15T14:25:01.907858",
+      "name": "Chambéry, France",
+      "address": "Avenue Des Landiers 1097, 73000 Chambéry, FR",
+      "gps": {
+        "lat": 45.593224,
+        "lon": 5.897996
+      },
+      "stalls": 4,
+      "maxPowerKw": 125,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,20/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,15/kWh"
+            },
+            {
+              "label": "08:00 - 21:00",
+              "rate": "€ 0,36/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "€ 0,20/kWh"
             }
           ]
         }
