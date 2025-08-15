@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-15T15:10:56.138631",
-    "chargerCount": 558,
+    "jsonfiledate": "2025-08-15T15:20:57.486051",
+    "chargerCount": 559,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 558,
+    "successCount": 559,
     "errorCount": 0
   },
   "locations": [
@@ -5328,6 +5328,57 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-15T15:18:50.504136",
+      "name": "Arc-sur-Tille, France",
+      "address": "D70 None, 21560 Couternon, FR",
+      "gps": {
+        "lat": 47.346121,
+        "lon": 5.159136
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,27/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,27/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,38/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,38/kWh"
             }
           ]
         }
