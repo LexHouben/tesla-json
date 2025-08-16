@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-16T18:41:01.120293",
-    "chargerCount": 615,
+    "jsonfiledate": "2025-08-16T18:51:01.217618",
+    "chargerCount": 616,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 615,
+    "successCount": 616,
     "errorCount": 0
   },
   "locations": [
@@ -11552,6 +11552,57 @@
             {
               "label": "180+ kW",
               "rate": "€ 2,09/min"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-16T18:46:20.273274",
+      "name": "Pannes, France",
+      "address": "Av. des Platanes 805, 45700 Pannes, FR",
+      "gps": {
+        "lat": 47.996029,
+        "lon": 2.673558
+      },
+      "stalls": 9,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,34/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,48/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,41/kWh"
             }
           ]
         }
