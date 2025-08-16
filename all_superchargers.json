@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-16T07:20:59.426458",
-    "chargerCount": 591,
+    "jsonfiledate": "2025-08-16T07:30:58.709878",
+    "chargerCount": 592,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 591,
+    "successCount": 592,
     "errorCount": 0
   },
   "locations": [
@@ -24086,6 +24086,57 @@
             {
               "label": "08:00 - 00:00",
               "rate": "CHF 0,70/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-16T07:25:36.081246",
+      "name": "Quinto, Switzerland",
+      "address": "Via di Mezzo 16, 6776 Quinto, CH",
+      "gps": {
+        "lat": 46.515124,
+        "lon": 8.669826
+      },
+      "stalls": 10,
+      "maxPowerKw": 125,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "CHF 0,47/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "CHF 0,50/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "CHF 0,47/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "CHF 0,66/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "CHF 0,71/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "CHF 0,66/kWh"
             }
           ]
         }
