@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-16T15:11:00.491350",
-    "chargerCount": 607,
+    "jsonfiledate": "2025-08-16T15:21:00.097834",
+    "chargerCount": 608,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 607,
+    "successCount": 608,
     "errorCount": 0
   },
   "locations": [
@@ -15080,6 +15080,57 @@
             {
               "label": "21:00 - 00:00",
               "rate": "€ 0,42/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-16T15:11:32.868525",
+      "name": "Catania North, Italy",
+      "address": "Via Salvatore Quasimodo 1, 95030 Gravina di Catania, IT",
+      "gps": {
+        "lat": 37.551441,
+        "lon": 15.06703
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,37/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,37/kWh"
+            },
+            {
+              "label": "09:00 - 00:00",
+              "rate": "€ 0,43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,53/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,53/kWh"
+            },
+            {
+              "label": "09:00 - 00:00",
+              "rate": "€ 0,60/kWh"
             }
           ]
         }
