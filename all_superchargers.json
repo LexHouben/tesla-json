@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-16T09:30:59.031259",
-    "chargerCount": 595,
+    "jsonfiledate": "2025-08-16T09:41:38.692715",
+    "chargerCount": 596,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 595,
+    "successCount": 596,
     "errorCount": 0
   },
   "locations": [
@@ -26493,6 +26493,30 @@
             {
               "label": "23:00 - 00:00",
               "rate": "€ 0,42/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-16T09:38:02.373549",
+      "name": "Tarquinia, Italy",
+      "address": "SS 1 Via Aurelia Km 83, 01016 Tarquinia, IT",
+      "gps": {
+        "lat": 42.183168,
+        "lon": 11.787806
+      },
+      "stalls": 10,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.41/kWh"
             }
           ]
         }
