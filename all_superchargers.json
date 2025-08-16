@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-16T08:10:58.629747",
+    "jsonfiledate": "2025-08-16T08:20:59.102361",
     "chargerCount": 593,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -25444,7 +25444,55 @@
       ]
     },
     {
-      "filedate": "2025-08-11T01:50:43.813986"
+      "filedate": "2025-08-16T08:17:49.437983",
+      "name": "Schleiz, Germany",
+      "address": "Gottfried-Piegler-Str. 1, 07907 Schleiz, DE",
+      "gps": {
+        "lat": 50.546489,
+        "lon": 11.803864
+      },
+      "stalls": 40,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,46/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,50/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,46/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,64/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,70/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,64/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
       "filedate": "2025-08-11T01:59:56.329860"
