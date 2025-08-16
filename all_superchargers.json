@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-16T04:10:57.520246",
-    "chargerCount": 584,
+    "jsonfiledate": "2025-08-16T04:20:57.530086",
+    "chargerCount": 585,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 584,
+    "successCount": 585,
     "errorCount": 0
   },
   "locations": [
@@ -18944,6 +18944,65 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€0.45/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-16T04:19:22.889898",
+      "name": "Kriegstetten, Switzerland",
+      "address": "Hauptstrasse 61, 4566 Kriegstetten, CH",
+      "gps": {
+        "lat": 47.1756,
+        "lon": 7.598459
+      },
+      "stalls": 12,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,30/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "CHF 0,30/kWh"
+            },
+            {
+              "label": "10:00 - 20:00",
+              "rate": "CHF 0,53/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "CHF 0,47/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,42/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "CHF 0,42/kWh"
+            },
+            {
+              "label": "10:00 - 20:00",
+              "rate": "CHF 0,73/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "CHF 0,66/kWh"
             }
           ]
         }
