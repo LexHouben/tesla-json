@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-16T19:31:01.235373",
-    "chargerCount": 617,
+    "jsonfiledate": "2025-08-16T19:41:01.479054",
+    "chargerCount": 618,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 617,
+    "successCount": 618,
     "errorCount": 0
   },
   "locations": [
@@ -17193,6 +17193,57 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,39/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-16T19:37:59.459466",
+      "name": "Fano, Italy",
+      "address": "Via Luigi Einaudi 2/A, 61032 Fano, IT",
+      "gps": {
+        "lat": 43.802638,
+        "lon": 13.015583
+      },
+      "stalls": 6,
+      "maxPowerKw": 130,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,47/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,54/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,47/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,66/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,75/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,66/kWh"
             }
           ]
         }
