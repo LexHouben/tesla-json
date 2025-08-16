@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-16T20:51:01.335596",
-    "chargerCount": 620,
+    "jsonfiledate": "2025-08-16T21:01:01.928430",
+    "chargerCount": 621,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 620,
+    "successCount": 621,
     "errorCount": 0
   },
   "locations": [
@@ -14801,6 +14801,57 @@
             {
               "label": "10:00 - 00:00",
               "rate": "€0.42/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-16T20:56:43.476800",
+      "name": "Buchelay, France",
+      "address": "Avenue du Béarn 2, 78200 Buchelay, FR",
+      "gps": {
+        "lat": 48.988703,
+        "lon": 1.670878
+      },
+      "stalls": 8,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,18/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,18/kWh"
+            },
+            {
+              "label": "09:00 - 00:00",
+              "rate": "€ 0,30/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,25/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,25/kWh"
+            },
+            {
+              "label": "09:00 - 00:00",
+              "rate": "€ 0,42/kWh"
             }
           ]
         }
