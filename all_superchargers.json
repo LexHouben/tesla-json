@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-16T06:50:58.159051",
-    "chargerCount": 590,
+    "jsonfiledate": "2025-08-16T07:01:01.386734",
+    "chargerCount": 591,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 590,
+    "successCount": 591,
     "errorCount": 0
   },
   "locations": [
@@ -11871,6 +11871,38 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,42/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-16T06:59:01.391193",
+      "name": "Aire de la Vendée, France",
+      "address": "Autoroute A83,  Aire de la Vendée None, 85210 Sainte-Hermine, FR",
+      "gps": {
+        "lat": 46.573233,
+        "lon": -1.11793
+      },
+      "stalls": 9,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,33/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,30/kWh"
             }
           ]
         }
