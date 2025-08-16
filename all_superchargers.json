@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-16T19:11:01.483845",
-    "chargerCount": 616,
+    "jsonfiledate": "2025-08-16T19:21:01.816511",
+    "chargerCount": 617,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 616,
+    "successCount": 617,
     "errorCount": 0
   },
   "locations": [
@@ -11289,6 +11289,57 @@
             {
               "label": "180+ kW",
               "rate": "€ 2,09/min"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-16T19:12:18.119364",
+      "name": "Sanilhac, France",
+      "address": "CréaVallée Sud la Couture None, 24660 Sanilhac, FR",
+      "gps": {
+        "lat": 45.136122,
+        "lon": 0.700668
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,32/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,45/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,41/kWh"
             }
           ]
         }
