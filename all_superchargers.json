@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-16T07:50:58.376408",
-    "chargerCount": 592,
+    "jsonfiledate": "2025-08-16T08:00:58.998998",
+    "chargerCount": 593,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 592,
+    "successCount": 593,
     "errorCount": 0
   },
   "locations": [
@@ -13161,6 +13161,41 @@
             {
               "label": "Base Rate",
               "rate": "€0.55/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-16T07:51:30.686859",
+      "name": "Bergamo Dalmine, Italy",
+      "address": "SP 525 None, 24044 Dalmine, IT",
+      "gps": {
+        "lat": 45.6523223,
+        "lon": 9.61867582
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.60/kWh"
             }
           ]
         }
