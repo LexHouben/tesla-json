@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-16T14:41:00.374164",
-    "chargerCount": 606,
+    "jsonfiledate": "2025-08-16T14:51:00.327092",
+    "chargerCount": 607,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 606,
+    "successCount": 607,
     "errorCount": 0
   },
   "locations": [
@@ -21497,6 +21497,65 @@
             {
               "label": "180+ kW",
               "rate": "€ 2,16/min"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-16T14:45:13.896678",
+      "name": "Melide, Switzerland",
+      "address": "Via Cantonale 13, 6815 Melide, CH",
+      "gps": {
+        "lat": 45.954105,
+        "lon": 8.950895
+      },
+      "stalls": 10,
+      "maxPowerKw": 125,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,47/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "CHF 0,47/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "CHF 0,56/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "CHF 0,47/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,66/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "CHF 0,66/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "CHF 0,78/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "CHF 0,66/kWh"
             }
           ]
         }
