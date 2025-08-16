@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-16T20:01:01.173578",
-    "chargerCount": 618,
+    "jsonfiledate": "2025-08-16T20:11:01.773357",
+    "chargerCount": 619,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 618,
+    "successCount": 619,
     "errorCount": 0
   },
   "locations": [
@@ -20052,6 +20052,30 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,42/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-16T20:04:07.014076",
+      "name": "La Léchère-les-Bains, France",
+      "address": "Parc Thermal None, 73261 La Léchère-les-Bains, FR",
+      "gps": {
+        "lat": 45.518886,
+        "lon": 6.482554
+      },
+      "stalls": 8,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.24/kWh"
             }
           ]
         }
