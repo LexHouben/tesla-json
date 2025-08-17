@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-17T07:21:04.379187",
-    "chargerCount": 641,
+    "jsonfiledate": "2025-08-17T07:31:04.323393",
+    "chargerCount": 642,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 641,
+    "successCount": 642,
     "errorCount": 0
   },
   "locations": [
@@ -22828,6 +22828,41 @@
             {
               "label": "20:00 - 00:00",
               "rate": "CHF 0,66/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-17T07:22:54.949538",
+      "name": "Mercato San Severino, Italy",
+      "address": "Via Bagnara 12, 84085 Mercato San Severino, IT",
+      "gps": {
+        "lat": 40.77171,
+        "lon": 14.746355
+      },
+      "stalls": 6,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.44/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.62/kWh"
             }
           ]
         }
