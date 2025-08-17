@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-17T05:31:03.808902",
+    "jsonfiledate": "2025-08-17T05:41:04.164159",
     "chargerCount": 639,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -29916,7 +29916,63 @@
       ]
     },
     {
-      "filedate": "2025-08-11T03:36:22.543009"
+      "filedate": "2025-08-17T05:37:00.290245",
+      "name": "Weiterstadt, Germany",
+      "address": "Robert-Koch-Straße 1A, 64331 Weiterstadt, DE",
+      "gps": {
+        "lat": 49.89689,
+        "lon": 8.61205
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,43/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,60/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
       "filedate": "2025-08-11T14:39:36.032324",
