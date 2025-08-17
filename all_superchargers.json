@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-17T08:41:04.742286",
-    "chargerCount": 644,
+    "jsonfiledate": "2025-08-17T08:51:04.882489",
+    "chargerCount": 645,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 644,
+    "successCount": 645,
     "errorCount": 0
   },
   "locations": [
@@ -28731,6 +28731,57 @@
             {
               "label": "Base Rate",
               "rate": "€0.41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-17T08:41:49.227762",
+      "name": "Thiais, France",
+      "address": "Rue du Luxembourg None, 94320 Thiais, FR",
+      "gps": {
+        "lat": 48.754381,
+        "lon": 2.373106
+      },
+      "stalls": 32,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,20/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "€ 0,20/kWh"
+            },
+            {
+              "label": "10:00 - 00:00",
+              "rate": "€ 0,36/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,27/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "€ 0,27/kWh"
+            },
+            {
+              "label": "10:00 - 00:00",
+              "rate": "€ 0,50/kWh"
             }
           ]
         }
