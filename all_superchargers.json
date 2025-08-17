@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-17T14:21:05.975599",
-    "chargerCount": 656,
+    "jsonfiledate": "2025-08-17T14:31:04.624083",
+    "chargerCount": 657,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 656,
+    "successCount": 657,
     "errorCount": 0
   },
   "locations": [
@@ -15518,6 +15518,38 @@
             {
               "label": "180+ kW",
               "rate": "€ 2,09/min"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-17T14:22:47.069751",
+      "name": "Brennero, Italy",
+      "address": "A22 Al Passo del Brennero snc, 39041 Brennero, IT",
+      "gps": {
+        "lat": 46.995083,
+        "lon": 11.502151
+      },
+      "stalls": 24,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,47/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,51/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,47/kWh"
             }
           ]
         }
