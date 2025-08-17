@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-17T09:31:04.760954",
-    "chargerCount": 646,
+    "jsonfiledate": "2025-08-17T09:41:47.241278",
+    "chargerCount": 647,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 646,
+    "successCount": 647,
     "errorCount": 0
   },
   "locations": [
@@ -1317,6 +1317,41 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,42/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-17T09:35:04.059997",
+      "name": "Afragola, Italy - Napoli North",
+      "address": "1 Via Santa Maria la Nova, 80021 Afragola (NA), IT",
+      "gps": {
+        "lat": 40.93333064,
+        "lon": 14.35741834
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.60/kWh"
             }
           ]
         }
