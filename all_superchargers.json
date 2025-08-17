@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-17T06:51:03.681571",
-    "chargerCount": 640,
+    "jsonfiledate": "2025-08-17T07:01:08.402588",
+    "chargerCount": 641,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 640,
+    "successCount": 641,
     "errorCount": 0
   },
   "locations": [
@@ -901,6 +901,65 @@
             {
               "label": "180+ kW",
               "rate": "€ 2,09/min"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-17T06:56:46.476821",
+      "name": "Milan, Italy",
+      "address": "Piazza Arduino None, 20145 Milano, IT",
+      "gps": {
+        "lat": 45.47814258,
+        "lon": 9.15235154
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,35/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,35/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,43/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,35/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,49/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,49/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,60/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,49/kWh"
             }
           ]
         }
