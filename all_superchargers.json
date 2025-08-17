@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-17T06:21:04.518801",
-    "chargerCount": 639,
+    "jsonfiledate": "2025-08-17T06:31:03.722287",
+    "chargerCount": 640,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 639,
+    "successCount": 640,
     "errorCount": 0
   },
   "locations": [
@@ -1207,6 +1207,57 @@
             {
               "label": "23:00 - 00:00",
               "rate": "€ 0,48/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-17T06:29:48.367977",
+      "name": "Riom, France",
+      "address": "Rue Louis Amstrong None, 63200 Riom, FR",
+      "gps": {
+        "lat": 45.89550865,
+        "lon": 3.1378776
+      },
+      "stalls": 28,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,33/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,30/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,46/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,42/kWh"
             }
           ]
         }
