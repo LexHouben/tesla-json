@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-17T03:21:03.676302",
-    "chargerCount": 634,
+    "jsonfiledate": "2025-08-17T03:31:03.528399",
+    "chargerCount": 635,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 634,
+    "successCount": 635,
     "errorCount": 0
   },
   "locations": [
@@ -30330,6 +30330,41 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,42/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-17T03:22:58.488233",
+      "name": "Zella-Mehlis, Germany",
+      "address": "An der Quelle 5, 98544 Zella-Mehlis, DE",
+      "gps": {
+        "lat": 50.644087,
+        "lon": 10.684975
+      },
+      "stalls": 18,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.44/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.62/kWh"
             }
           ]
         }
