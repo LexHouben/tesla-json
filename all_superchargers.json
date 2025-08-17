@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-17T02:31:03.046328",
-    "chargerCount": 632,
+    "jsonfiledate": "2025-08-17T02:41:02.806696",
+    "chargerCount": 633,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 632,
+    "successCount": 633,
     "errorCount": 0
   },
   "locations": [
@@ -14527,6 +14527,65 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,66/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-17T02:30:44.248657",
+      "name": "Bègles, France",
+      "address": "Rocade Sortie 20 None, 33130 Bègles, FR",
+      "gps": {
+        "lat": 44.793792,
+        "lon": -0.533489
+      },
+      "stalls": 28,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,26/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,26/kWh"
+            },
+            {
+              "label": "09:00 - 22:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,26/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,37/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,37/kWh"
+            },
+            {
+              "label": "09:00 - 22:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,37/kWh"
             }
           ]
         }
