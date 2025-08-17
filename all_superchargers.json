@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-17T03:51:03.265941",
-    "chargerCount": 635,
+    "jsonfiledate": "2025-08-17T04:01:03.378222",
+    "chargerCount": 636,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 635,
+    "successCount": 636,
     "errorCount": 0
   },
   "locations": [
@@ -16753,6 +16753,57 @@
             {
               "label": "08:00 - 00:00",
               "rate": "CHF 0,68/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-17T03:50:07.159436",
+      "name": "Dietlikon, Switzerland - Erlenweg",
+      "address": "Erlenweg 1, 8305 Dietlikon, CH",
+      "gps": {
+        "lat": 47.412794,
+        "lon": 8.617212
+      },
+      "stalls": 8,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "CHF 0,29/kWh"
+            },
+            {
+              "label": "08:00 - 00:00",
+              "rate": "CHF 0,53/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "CHF 0,41/kWh"
+            },
+            {
+              "label": "08:00 - 00:00",
+              "rate": "CHF 0,73/kWh"
             }
           ]
         }
