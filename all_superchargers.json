@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-17T13:01:07.050098",
-    "chargerCount": 653,
+    "jsonfiledate": "2025-08-17T13:11:04.661109",
+    "chargerCount": 654,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 653,
+    "successCount": 654,
     "errorCount": 0
   },
   "locations": [
@@ -17089,6 +17089,41 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,35/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-17T13:03:22.403511",
+      "name": "Cuneo, Italy",
+      "address": "Via Guido Martino 8, 12100 Cuneo, IT",
+      "gps": {
+        "lat": 44.420795,
+        "lon": 7.550956
+      },
+      "stalls": 2,
+      "maxPowerKw": 100,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.60/kWh"
             }
           ]
         }
