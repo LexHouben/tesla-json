@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-17T12:11:04.907250",
-    "chargerCount": 651,
+    "jsonfiledate": "2025-08-17T12:21:04.851790",
+    "chargerCount": 652,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 651,
+    "successCount": 652,
     "errorCount": 0
   },
   "locations": [
@@ -2778,6 +2778,41 @@
             {
               "label": "22:00 - 00:00",
               "rate": "€ 0,48/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-17T12:11:21.556630",
+      "name": "San Benedetto del Tronto, Italy",
+      "address": "Via S. Giovanni Scafa None, 63037 San Benedetto del Tronto, IT",
+      "gps": {
+        "lat": 42.896695,
+        "lon": 13.883528
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.46/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.65/kWh"
             }
           ]
         }
