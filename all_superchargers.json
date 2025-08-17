@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-17T12:31:05.121613",
-    "chargerCount": 652,
+    "jsonfiledate": "2025-08-17T12:41:04.800080",
+    "chargerCount": 653,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 652,
+    "successCount": 653,
     "errorCount": 0
   },
   "locations": [
@@ -13808,6 +13808,41 @@
             {
               "label": "23:00 - 00:00",
               "rate": "€ 0,33/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-17T12:37:02.271869",
+      "name": "Archamps, France",
+      "address": "Route de Chosal - Archamps Technopole None, 74160 Archamps, FR",
+      "gps": {
+        "lat": 46.137123,
+        "lon": 6.123175
+      },
+      "stalls": 8,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.25/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.35/kWh"
             }
           ]
         }
