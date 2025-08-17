@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-17T09:01:04.811865",
-    "chargerCount": 645,
+    "jsonfiledate": "2025-08-17T09:11:58.120637",
+    "chargerCount": 646,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.0",
-    "successCount": 645,
+    "successCount": 646,
     "errorCount": 0
   },
   "locations": [
@@ -12572,6 +12572,57 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,64/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-17T09:08:14.662638",
+      "name": "Aosta, Italy - A5 dir. Mont-Blanc",
+      "address": "Localita Autoporto 33, 11020 Pollein, IT",
+      "gps": {
+        "lat": 45.73728,
+        "lon": 7.3742636
+      },
+      "stalls": 6,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,47/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,52/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,47/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,66/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,73/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,66/kWh"
             }
           ]
         }
