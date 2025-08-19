@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-19T22:16:09.011067",
-    "chargerCount": 658,
+    "jsonfiledate": "2025-08-19T22:29:33.128175",
+    "chargerCount": 659,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.1",
-    "successCount": 658,
+    "successCount": 659,
     "errorCount": 0
   },
   "locations": [
@@ -16543,6 +16543,41 @@
             {
               "label": "21:00 - 00:00",
               "rate": "€ 0,42/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-08-19T22:28:13.758036",
+      "name": "Carsoli Oricola, Italy",
+      "address": "Via Tiburtina Valeria km 68,300, 67063 Oricola, IT",
+      "gps": {
+        "lat": 42.08185519,
+        "lon": 13.06004662
+      },
+      "stalls": 8,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.60/kWh"
             }
           ]
         }
