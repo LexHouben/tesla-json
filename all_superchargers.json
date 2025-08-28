@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-25T09:02:34.954235",
-    "chargerCount": 909,
+    "jsonfiledate": "2025-08-28T17:32:04.831479",
+    "chargerCount": 908,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.2",
-    "successCount": 909,
+    "successCount": 908,
     "errorCount": 0
   },
   "locations": [
@@ -7829,65 +7829,6 @@
             {
               "label": "Base Rate",
               "rate": "€0.58/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-08T00:23:14.148095",
-      "name": "Urmond, Netherlands",
-      "address": "Mauritslaan 65, 6129 EL Urmond, NL",
-      "gps": {
-        "lat": 50.989309,
-        "lon": 5.781483
-      },
-      "stalls": 20,
-      "maxPowerKw": 150,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,29/kWh"
-            },
-            {
-              "label": "04:00 - 10:00",
-              "rate": "€ 0,29/kWh"
-            },
-            {
-              "label": "10:00 - 20:00",
-              "rate": "€ 0,34/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,29/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,41/kWh"
-            },
-            {
-              "label": "04:00 - 10:00",
-              "rate": "€ 0,41/kWh"
-            },
-            {
-              "label": "10:00 - 20:00",
-              "rate": "€ 0,48/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,41/kWh"
             }
           ]
         }
@@ -43443,7 +43384,7 @@
       ]
     },
     {
-      "filedate": "2025-08-24T14:36:16.459711",
+      "filedate": "2025-08-28T17:29:17.135750",
       "name": "Slagelse, Denmark",
       "address": "Trafikcenter Alle 4, 4200 Slagelse, DK",
       "gps": {
