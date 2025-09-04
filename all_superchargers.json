@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-08-30T09:02:37.719967",
-    "chargerCount": 917,
+    "jsonfiledate": "2025-09-04T12:01:55.802873",
+    "chargerCount": 918,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.2",
-    "successCount": 917,
+    "successCount": 918,
     "errorCount": 0
   },
   "locations": [
@@ -43917,6 +43917,38 @@
             {
               "label": "Base Rate",
               "rate": "£0.37/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-04T11:58:55.057699",
+      "name": "Birchanger Green, UK",
+      "address": "Old Dunmow Road M11 Motorway, Jct 8, CM23 5QZ Bishops Stortford, GB",
+      "gps": {
+        "lat": 51.870743,
+        "lon": 0.196198
+      },
+      "stalls": 24,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "£1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "£ 0,28/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "£ 0,28/kWh"
+            },
+            {
+              "label": "09:00 - 00:00",
+              "rate": "£ 0,37/kWh"
             }
           ]
         }
