@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-09-04T12:01:55.802873",
-    "chargerCount": 918,
+    "jsonfiledate": "2025-09-04T13:51:43.455788",
+    "chargerCount": 919,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.2",
-    "successCount": 918,
+    "successCount": 919,
     "errorCount": 0
   },
   "locations": [
@@ -43949,6 +43949,42 @@
             {
               "label": "09:00 - 00:00",
               "rate": "£ 0,37/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-04T12:03:20.107909",
+      "name": "Membury, UK - Eastbound",
+      "address": "M4 Junction 14/15 None, RG17 7TZ Hungerford, GB",
+      "gps": {
+        "lat": 51.484299,
+        "lon": -1.55755
+      },
+      "stalls": 6,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "£1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "£ 0,23/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "£ 0,23/kWh"
+            },
+            {
+              "label": "08:00 - 21:00",
+              "rate": "£ 0,37/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "£ 0,23/kWh"
             }
           ]
         }
