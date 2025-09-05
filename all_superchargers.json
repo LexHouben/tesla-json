@@ -1,1918 +1,14 @@
 {
   "meta": {
-    "jsonfiledate": "2025-09-06T00:02:12.038601",
-    "chargerCount": 920,
+    "jsonfiledate": "2025-09-06T00:12:28.395081",
+    "chargerCount": 925,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.2",
-    "successCount": 920,
+    "successCount": 925,
     "errorCount": 0
   },
   "locations": [
-    {
-      "filedate": "2025-07-14T12:52:30.478876",
-      "name": "Apeldoorn, Netherlands",
-      "address": "Van Golsteinlaan 20, 7339GT Ugchelen, NL",
-      "gps": {
-        "lat": 52.1769,
-        "lon": 5.9123
-      },
-      "stalls": 12,
-      "maxPowerKw": 150,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "08:00 - 23:00",
-              "rate": "€ 0,34/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,23/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "08:00 - 23:00",
-              "rate": "€ 0,48/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,33/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-07-14T12:52:39.218197",
-      "name": "Assen, Netherlands",
-      "address": "Balkenweg 1, 9405 CC Assen, NL",
-      "gps": {
-        "lat": 52.992862,
-        "lon": 6.524343
-      },
-      "stalls": 20,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "€0.29/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "€0.40/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-07-14T12:52:44.963189",
-      "name": "Badhoevedorp, Netherlands",
-      "address": "Schipholweg 275, 1171 PK Badhoevedorp, NL",
-      "gps": {
-        "lat": 52.329672,
-        "lon": 4.785265
-      },
-      "stalls": 32,
-      "maxPowerKw": 150,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "09:00 - 23:00",
-              "rate": "€ 0,41/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,23/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "09:00 - 23:00",
-              "rate": "€ 0,57/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,33/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-07-14T12:52:54.010612",
-      "name": "Breda, Netherlands",
-      "address": "Princenhagelaan 5, 4813 DA Breda, NL",
-      "gps": {
-        "lat": 51.5765157,
-        "lon": 4.7295009
-      },
-      "stalls": 16,
-      "maxPowerKw": 150,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "08:00 - 23:00",
-              "rate": "€ 0,37/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,23/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "08:00 - 23:00",
-              "rate": "€ 0,52/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,33/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-07-14T12:52:57.847229",
-      "name": "Breukelen, Netherlands",
-      "address": "Stationsweg 91, 3621 LK Breukelen, NL",
-      "gps": {
-        "lat": 52.167679,
-        "lon": 4.988554
-      },
-      "stalls": 28,
-      "maxPowerKw": 150,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "08:00 - 00:00",
-              "rate": "€ 0,34/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "08:00 - 00:00",
-              "rate": "€ 0,48/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-07-14T12:53:01.347188",
-      "name": "Bunnik, Netherlands",
-      "address": "Baan van Fectio 1, 3981 HZ Bunnik, NL",
-      "gps": {
-        "lat": 52.06107,
-        "lon": 5.2048
-      },
-      "stalls": 24,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "09:00 - 23:00",
-              "rate": "€ 0,34/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,23/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "09:00 - 23:00",
-              "rate": "€ 0,48/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,33/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-07-14T12:53:03.614062",
-      "name": "Deventer, Netherlands",
-      "address": "Birnieweg 4, 7418 HH Deventer, NL",
-      "gps": {
-        "lat": 52.233798,
-        "lon": 6.209399
-      },
-      "stalls": 20,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,25/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,25/kWh"
-            },
-            {
-              "label": "09:00 - 21:00",
-              "rate": "€ 0,30/kWh"
-            },
-            {
-              "label": "21:00 - 00:00",
-              "rate": "€ 0,25/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,35/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,35/kWh"
-            },
-            {
-              "label": "09:00 - 21:00",
-              "rate": "€ 0,42/kWh"
-            },
-            {
-              "label": "21:00 - 00:00",
-              "rate": "€ 0,35/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-07-14T12:53:07.792698",
-      "name": "Hoorn, Netherlands",
-      "address": "Westfriese Parkweg 1, 1625 MA Hoorn, NL",
-      "gps": {
-        "lat": 52.65132,
-        "lon": 5.03855
-      },
-      "stalls": 12,
-      "maxPowerKw": 150,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "08:00 - 12:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "12:00 - 20:00",
-              "rate": "€ 0,38/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,33/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "08:00 - 12:00",
-              "rate": "€ 0,46/kWh"
-            },
-            {
-              "label": "12:00 - 20:00",
-              "rate": "€ 0,54/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,46/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-07-14T14:21:43.550168",
-      "name": "Dordrecht, Netherlands",
-      "address": "Laan van Europa 1600, 3317 DB Dordrecht, NL",
-      "gps": {
-        "lat": 51.774407,
-        "lon": 4.653137
-      },
-      "stalls": 16,
-      "maxPowerKw": 150,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "08:00 - 23:00",
-              "rate": "€ 0,35/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,23/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "08:00 - 23:00",
-              "rate": "€ 0,48/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,33/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-07-14T14:21:51.618315",
-      "name": "Drachten, Netherlands",
-      "address": "Lavendelheide 4, 9202 PD Drachten, NL",
-      "gps": {
-        "lat": 53.105636,
-        "lon": 6.130395
-      },
-      "stalls": 16,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,27/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,27/kWh"
-            },
-            {
-              "label": "09:00 - 22:00",
-              "rate": "€ 0,32/kWh"
-            },
-            {
-              "label": "22:00 - 00:00",
-              "rate": "€ 0,27/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,37/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,37/kWh"
-            },
-            {
-              "label": "09:00 - 22:00",
-              "rate": "€ 0,45/kWh"
-            },
-            {
-              "label": "22:00 - 00:00",
-              "rate": "€ 0,37/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-07-14T14:21:59.156694",
-      "name": "Duiven, Netherlands",
-      "address": "Impuls 2, 6921 RK Duiven, NL",
-      "gps": {
-        "lat": 51.959096,
-        "lon": 6.020674
-      },
-      "stalls": 24,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "08:00 - 23:00",
-              "rate": "€ 0,34/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,23/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "08:00 - 23:00",
-              "rate": "€ 0,48/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,33/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-07-14T14:22:10.319910",
-      "name": "Eemnes, Netherlands",
-      "address": "Rijksweg 2, 3755 MV Eemnes, NL",
-      "gps": {
-        "lat": 52.23622,
-        "lon": 5.229652
-      },
-      "stalls": 24,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "09:00 - 19:00",
-              "rate": "€ 0,40/kWh"
-            },
-            {
-              "label": "19:00 - 23:00",
-              "rate": "€ 0,34/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,23/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "09:00 - 19:00",
-              "rate": "€ 0,55/kWh"
-            },
-            {
-              "label": "19:00 - 23:00",
-              "rate": "€ 0,48/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,33/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-07-14T14:22:16.553299",
-      "name": "Eindhoven, Netherlands",
-      "address": "Aalsterweg 322, 5644 RL Eindhoven, NL",
-      "gps": {
-        "lat": 51.407102,
-        "lon": 5.479618
-      },
-      "stalls": 24,
-      "maxPowerKw": 150,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "09:00 - 00:00",
-              "rate": "€ 0,33/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "09:00 - 00:00",
-              "rate": "€ 0,46/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-07-14T14:22:21.742795",
-      "name": "Best, Netherlands",
-      "address": "Eindhovenseweg - Zuid 144, 5683 PX Best, NL",
-      "gps": {
-        "lat": 51.490943,
-        "lon": 5.42467
-      },
-      "stalls": 20,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "09:00 - 23:00",
-              "rate": "€ 0,35/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,23/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "09:00 - 23:00",
-              "rate": "€ 0,49/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,33/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-07-15T21:28:40.109405",
-      "name": "Emmen, Netherlands",
-      "address": "Verlengde Herendijk 50, 7833 JD Nieuw-Amsterdam, NL",
-      "gps": {
-        "lat": 52.724998,
-        "lon": 6.883225
-      },
-      "stalls": 12,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,25/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,25/kWh"
-            },
-            {
-              "label": "09:00 - 21:00",
-              "rate": "€ 0,31/kWh"
-            },
-            {
-              "label": "21:00 - 00:00",
-              "rate": "€ 0,25/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,35/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,35/kWh"
-            },
-            {
-              "label": "09:00 - 21:00",
-              "rate": "€ 0,43/kWh"
-            },
-            {
-              "label": "21:00 - 00:00",
-              "rate": "€ 0,35/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-07-15T22:10:40.239544",
-      "name": "Emmeloord, Netherlands",
-      "address": "Het Hooiveld 9, 8302AE Emmeloord, NL",
-      "gps": {
-        "lat": 52.72691,
-        "lon": 5.764208
-      },
-      "stalls": 10,
-      "maxPowerKw": 150,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "08:00 - 12:00",
-              "rate": "€ 0,35/kWh"
-            },
-            {
-              "label": "12:00 - 19:00",
-              "rate": "€ 0,39/kWh"
-            },
-            {
-              "label": "19:00 - 23:00",
-              "rate": "€ 0,35/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,23/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "08:00 - 12:00",
-              "rate": "€ 0,48/kWh"
-            },
-            {
-              "label": "12:00 - 19:00",
-              "rate": "€ 0,55/kWh"
-            },
-            {
-              "label": "19:00 - 23:00",
-              "rate": "€ 0,48/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,33/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-07-16T19:24:45.786110",
-      "name": "Enschede, Netherlands",
-      "address": "Zuiderval 140, 7543 EZ Enschede, NL",
-      "gps": {
-        "lat": 52.202901,
-        "lon": 6.888668
-      },
-      "stalls": 12,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,24/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,24/kWh"
-            },
-            {
-              "label": "09:00 - 22:00",
-              "rate": "€ 0,34/kWh"
-            },
-            {
-              "label": "22:00 - 00:00",
-              "rate": "€ 0,24/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,34/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,34/kWh"
-            },
-            {
-              "label": "09:00 - 22:00",
-              "rate": "€ 0,48/kWh"
-            },
-            {
-              "label": "22:00 - 00:00",
-              "rate": "€ 0,34/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-07-16T19:25:09.160770",
-      "name": "Gorinchem, Netherlands",
-      "address": "Franklinweg 7, 4207 HX Gorinchem, NL",
-      "gps": {
-        "lat": 51.841363,
-        "lon": 5.009041
-      },
-      "stalls": 12,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "09:00 - 21:00",
-              "rate": "€ 0,29/kWh"
-            },
-            {
-              "label": "21:00 - 00:00",
-              "rate": "€ 0,23/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "09:00 - 21:00",
-              "rate": "€ 0,42/kWh"
-            },
-            {
-              "label": "21:00 - 00:00",
-              "rate": "€ 0,33/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-07-16T19:25:42.299654",
-      "name": "Gouda, Netherlands",
-      "address": "Harderwijkweg 1, 2803 PW Gouda, NL",
-      "gps": {
-        "lat": 52.022461,
-        "lon": 4.685386
-      },
-      "stalls": 16,
-      "maxPowerKw": 150,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "09:00 - 20:00",
-              "rate": "€ 0,35/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,29/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "09:00 - 20:00",
-              "rate": "€ 0,48/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,40/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-07-16T19:26:23.491911",
-      "name": "Groningen, Netherlands",
-      "address": "Borchsingel 53, 9766 PP Eelderwolde, NL",
-      "gps": {
-        "lat": 53.196252,
-        "lon": 6.516312
-      },
-      "stalls": 16,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "08:00 - 20:00",
-              "rate": "€ 0,32/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,23/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "08:00 - 20:00",
-              "rate": "€ 0,45/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,33/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-07-16T19:27:07.350899",
-      "name": "Haarlem, Netherlands",
-      "address": "Toekanweg 2, 2035 LC Haarlem, NL",
-      "gps": {
-        "lat": 52.369266,
-        "lon": 4.648278
-      },
-      "stalls": 12,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "09:00 - 13:00",
-              "rate": "€ 0,37/kWh"
-            },
-            {
-              "label": "13:00 - 23:00",
-              "rate": "€ 0,42/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,23/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "09:00 - 13:00",
-              "rate": "€ 0,52/kWh"
-            },
-            {
-              "label": "13:00 - 23:00",
-              "rate": "€ 0,58/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,33/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-07-16T19:27:37.633638",
-      "name": "Harderwijk, Netherlands",
-      "address": "Boekhorstlaan 4, 3847 LP Harderwijk, NL",
-      "gps": {
-        "lat": 52.335916,
-        "lon": 5.643857
-      },
-      "stalls": 16,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "08:00 - 23:00",
-              "rate": "€ 0,34/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,23/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "08:00 - 23:00",
-              "rate": "€ 0,48/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,33/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-07-16T19:28:04.467665",
-      "name": "Hengelo, Netherlands",
-      "address": "Bornsestraat 400, 7556 BN Hengelo, NL",
-      "gps": {
-        "lat": 52.287033,
-        "lon": 6.774715
-      },
-      "stalls": 16,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "08:00 - 23:00",
-              "rate": "€ 0,35/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,23/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "08:00 - 23:00",
-              "rate": "€ 0,48/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,33/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-01T14:11:11.688315",
-      "name": "Horst, Netherlands",
-      "address": "Tienrayseweg 2, 5961NL Horst, NL",
-      "gps": {
-        "lat": 51.4698,
-        "lon": 6.05658
-      },
-      "stalls": 16,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "08:00 - 12:00",
-              "rate": "€ 0,29/kWh"
-            },
-            {
-              "label": "12:00 - 20:00",
-              "rate": "€ 0,32/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,29/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "08:00 - 12:00",
-              "rate": "€ 0,40/kWh"
-            },
-            {
-              "label": "12:00 - 20:00",
-              "rate": "€ 0,45/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,40/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-01T14:11:14.403457",
-      "name": "Leiderdorp, Netherlands",
-      "address": "Persant Snoepweg 2, 2353 KA Leiderdorp, NL",
-      "gps": {
-        "lat": 52.160777,
-        "lon": 4.549619
-      },
-      "stalls": 24,
-      "maxPowerKw": 150,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "09:00 - 20:00",
-              "rate": "€ 0,35/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,30/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "09:00 - 20:00",
-              "rate": "€ 0,49/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,42/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-01T14:11:16.186661",
-      "name": "Leusden, Netherlands",
-      "address": "Philipsstraat 18, 3833 LC Leusden, NL",
-      "gps": {
-        "lat": 52.143269,
-        "lon": 5.4173527
-      },
-      "stalls": 12,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "09:00 - 23:00",
-              "rate": "€ 0,38/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,23/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "09:00 - 23:00",
-              "rate": "€ 0,54/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,33/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-01T14:11:29.162755",
-      "name": "Meerkerk, Netherlands",
-      "address": "Energieweg 116, 4231 DJ Meerkerk, NL",
-      "gps": {
-        "lat": 51.899576,
-        "lon": 4.983408
-      },
-      "stalls": 24,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "08:00 - 20:00",
-              "rate": "€ 0,31/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,23/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "08:00 - 20:00",
-              "rate": "€ 0,43/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,33/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-01T14:11:49.924803",
-      "name": "Middelburg, Netherlands",
-      "address": "Paukenweg 3, 4337 WH Middelburg, NL",
-      "gps": {
-        "lat": 51.480414,
-        "lon": 3.636931
-      },
-      "stalls": 10,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "08:00 - 12:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "12:00 - 19:00",
-              "rate": "€ 0,37/kWh"
-            },
-            {
-              "label": "19:00 - 23:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,23/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "08:00 - 12:00",
-              "rate": "€ 0,46/kWh"
-            },
-            {
-              "label": "12:00 - 19:00",
-              "rate": "€ 0,52/kWh"
-            },
-            {
-              "label": "19:00 - 23:00",
-              "rate": "€ 0,46/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,33/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-01T14:12:00.112843",
-      "name": "Nootdorp, Netherlands",
-      "address": "Gildeweg 1, 2632 BD Nootdorp, NL",
-      "gps": {
-        "lat": 52.052541,
-        "lon": 4.402053
-      },
-      "stalls": 20,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "09:00 - 23:00",
-              "rate": "€ 0,35/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,23/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "09:00 - 23:00",
-              "rate": "€ 0,49/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,33/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-01T14:12:10.863951",
-      "name": "Oosterhout, Netherlands",
-      "address": "Beneluxweg 1, 4904 SJ Oosterhout, NL",
-      "gps": {
-        "lat": 51.626786,
-        "lon": 4.867618
-      },
-      "stalls": 12,
-      "maxPowerKw": 150,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "08:00 - 00:00",
-              "rate": "€ 0,35/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "08:00 - 00:00",
-              "rate": "€ 0,48/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-01T14:12:15.819303",
-      "name": "Ridderkerk, Netherlands",
-      "address": "Krommeweg 1, 2988 CB Ridderkerk, NL",
-      "gps": {
-        "lat": 51.867901,
-        "lon": 4.557753
-      },
-      "stalls": 24,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "09:00 - 23:00",
-              "rate": "€ 0,35/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,23/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "09:00 - 23:00",
-              "rate": "€ 0,48/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,33/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-01T14:34:17.186845",
-      "name": "Roosendaal, Netherlands",
-      "address": "Emmerblok 2, 4751 XE Oud Gastel, NL",
-      "gps": {
-        "lat": 51.565986,
-        "lon": 4.470225
-      },
-      "stalls": 16,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,25/kWh"
-            },
-            {
-              "label": "04:00 - 10:00",
-              "rate": "€ 0,25/kWh"
-            },
-            {
-              "label": "10:00 - 21:00",
-              "rate": "€ 0,34/kWh"
-            },
-            {
-              "label": "21:00 - 00:00",
-              "rate": "€ 0,25/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,35/kWh"
-            },
-            {
-              "label": "04:00 - 10:00",
-              "rate": "€ 0,35/kWh"
-            },
-            {
-              "label": "10:00 - 21:00",
-              "rate": "€ 0,48/kWh"
-            },
-            {
-              "label": "21:00 - 00:00",
-              "rate": "€ 0,35/kWh"
-            }
-          ]
-        }
-      ]
-    },
     {
       "filedate": "2025-08-01T16:11:10.939454",
       "name": "Liege, Belgium",
@@ -2018,387 +114,6 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€0.51/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-02T13:32:25.970872",
-      "name": "Sassenheim, Netherlands",
-      "address": "Warmonderweg 8, 2171 AH Sassenheim, NL",
-      "gps": {
-        "lat": 52.213329,
-        "lon": 4.503769
-      },
-      "stalls": 16,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "09:00 - 20:00",
-              "rate": "€ 0,35/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,29/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "09:00 - 20:00",
-              "rate": "€ 0,48/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,42/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-02T13:46:51.951936",
-      "name": "Schiedam, Netherlands",
-      "address": "Hargalaan 6, 3118 JA Schiedam, NL",
-      "gps": {
-        "lat": 51.924806,
-        "lon": 4.372265
-      },
-      "stalls": 16,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "09:00 - 20:00",
-              "rate": "€ 0,39/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,35/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "09:00 - 20:00",
-              "rate": "€ 0,55/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,48/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-02T14:00:03.723059",
-      "name": "Tilburg, Netherlands",
-      "address": "Dokter Bloemenlaan 8, 5022 KW Tilburg, NL",
-      "gps": {
-        "lat": 51.543281,
-        "lon": 5.111822
-      },
-      "stalls": 16,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "08:00 - 12:00",
-              "rate": "€ 0,32/kWh"
-            },
-            {
-              "label": "12:00 - 19:00",
-              "rate": "€ 0,36/kWh"
-            },
-            {
-              "label": "19:00 - 23:00",
-              "rate": "€ 0,32/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,23/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "08:00 - 12:00",
-              "rate": "€ 0,45/kWh"
-            },
-            {
-              "label": "12:00 - 19:00",
-              "rate": "€ 0,51/kWh"
-            },
-            {
-              "label": "19:00 - 23:00",
-              "rate": "€ 0,45/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,33/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-02T14:12:37.705939",
-      "name": "Uden, Netherlands",
-      "address": "Rondweg 2, 5406 NK Uden, NL",
-      "gps": {
-        "lat": 51.671247,
-        "lon": 5.60252
-      },
-      "stalls": 24,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "€0.29/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "€0.40/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-02T14:24:20.903242",
-      "name": "Venray, Netherlands",
-      "address": "Maasheseweg 80A, 5804 AD Venray, NL",
-      "gps": {
-        "lat": 51.547015,
-        "lon": 5.996622
-      },
-      "stalls": 12,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,26/kWh"
-            },
-            {
-              "label": "04:00 - 11:00",
-              "rate": "€ 0,26/kWh"
-            },
-            {
-              "label": "11:00 - 20:00",
-              "rate": "€ 0,32/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,26/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,36/kWh"
-            },
-            {
-              "label": "04:00 - 11:00",
-              "rate": "€ 0,36/kWh"
-            },
-            {
-              "label": "11:00 - 20:00",
-              "rate": "€ 0,45/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,36/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-02T14:39:04.810818",
-      "name": "Vuren, Netherlands",
-      "address": "Zeiving 21, 4214 KT Vuren, NL",
-      "gps": {
-        "lat": 51.838587,
-        "lon": 5.092074
-      },
-      "stalls": 12,
-      "maxPowerKw": 150,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "€0.29/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "€0.40/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-02T14:53:06.492229",
-      "name": "Zaltbommel, Netherlands",
-      "address": "Hogeweg 65, 5301 LJ Zaltbommel, NL",
-      "gps": {
-        "lat": 51.796578,
-        "lon": 5.254841
-      },
-      "stalls": 16,
-      "maxPowerKw": 150,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "09:00 - 20:00",
-              "rate": "€ 0,34/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,29/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "09:00 - 20:00",
-              "rate": "€ 0,48/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,42/kWh"
             }
           ]
         }
@@ -7641,124 +5356,6 @@
             {
               "label": "Base Rate",
               "rate": "€0.60/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-04T22:21:05.515996",
-      "name": "Heerlen, Netherlands",
-      "address": "Terworm 10, 6411 RV Heerlen, NL",
-      "gps": {
-        "lat": 50.892974,
-        "lon": 5.955635
-      },
-      "stalls": 8,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,29/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,29/kWh"
-            },
-            {
-              "label": "09:00 - 20:00",
-              "rate": "€ 0,36/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,29/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,41/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,41/kWh"
-            },
-            {
-              "label": "09:00 - 20:00",
-              "rate": "€ 0,50/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,41/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-04T22:21:27.535748",
-      "name": "Maastricht, Netherlands",
-      "address": "Slakweg 5 5, 6228 NB Maastricht, NL",
-      "gps": {
-        "lat": 50.816049,
-        "lon": 5.725648
-      },
-      "stalls": 24,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,29/kWh"
-            },
-            {
-              "label": "04:00 - 10:00",
-              "rate": "€ 0,29/kWh"
-            },
-            {
-              "label": "10:00 - 20:00",
-              "rate": "€ 0,34/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,29/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,41/kWh"
-            },
-            {
-              "label": "04:00 - 10:00",
-              "rate": "€ 0,41/kWh"
-            },
-            {
-              "label": "10:00 - 20:00",
-              "rate": "€ 0,48/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,41/kWh"
             }
           ]
         }
@@ -43443,65 +41040,6 @@
       ]
     },
     {
-      "filedate": "2025-08-29T16:39:29.547334",
-      "name": "Urmond, Netherlands",
-      "address": "Mauritslaan 65, 6129 EL Urmond, NL",
-      "gps": {
-        "lat": 50.989309,
-        "lon": 5.781483
-      },
-      "stalls": 20,
-      "maxPowerKw": 150,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,29/kWh"
-            },
-            {
-              "label": "04:00 - 10:00",
-              "rate": "€ 0,29/kWh"
-            },
-            {
-              "label": "10:00 - 20:00",
-              "rate": "€ 0,34/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,29/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,41/kWh"
-            },
-            {
-              "label": "04:00 - 10:00",
-              "rate": "€ 0,41/kWh"
-            },
-            {
-              "label": "10:00 - 20:00",
-              "rate": "€ 0,48/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,41/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "filedate": "2025-08-29T23:40:20.687467",
       "name": "Örebro, Sweden",
       "address": "Boglundsgatan 2, 703 74 Örebro, SE",
@@ -43991,6 +41529,183 @@
       ]
     },
     {
+      "filedate": "2025-09-05T23:54:32.345131",
+      "name": "Urmond, Netherlands",
+      "address": "Mauritslaan 65, 6129 EL Urmond, NL",
+      "gps": {
+        "lat": 50.989309,
+        "lon": 5.781483
+      },
+      "stalls": 20,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "10:00 - 20:00",
+              "rate": "€ 0,34/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "10:00 - 20:00",
+              "rate": "€ 0,48/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-05T23:54:55.156995",
+      "name": "'s-Hertogenbosch, Netherlands",
+      "address": "Burgemeester Burgerslaan 50, 5245 NH Rosmalen, NL",
+      "gps": {
+        "lat": 51.720097,
+        "lon": 5.334494
+      },
+      "stalls": 16,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "€ 0,35/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,30/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "€ 0,49/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,42/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-05T23:55:02.406985",
+      "name": "Almere, Netherlands",
+      "address": "Veluwezoom 45, 1327 AK Almere, NL",
+      "gps": {
+        "lat": 52.358206,
+        "lon": 5.251964
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "09:00 - 23:00",
+              "rate": "€ 0,39/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "09:00 - 23:00",
+              "rate": "€ 0,55/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "filedate": "2025-09-05T23:55:09.634419",
       "name": "Apeldoorn Oost, Netherlands",
       "address": "Landgoedlaan 26, 6238 RV Apeldoorn, NL",
@@ -44044,6 +41759,2370 @@
             {
               "label": "22:00 - 00:00",
               "rate": "€ 0,42/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-05T23:56:14.495722",
+      "name": "Apeldoorn, Netherlands",
+      "address": "Van Golsteinlaan 20, 7339GT Ugchelen, NL",
+      "gps": {
+        "lat": 52.1769,
+        "lon": 5.9123
+      },
+      "stalls": 12,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,35/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,49/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-05T23:56:23.870577",
+      "name": "Assen, Netherlands",
+      "address": "Balkenweg 1, 9405 CC Assen, NL",
+      "gps": {
+        "lat": 52.992862,
+        "lon": 6.524343
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.30/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.42/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-05T23:56:41.418972",
+      "name": "Badhoevedorp, Netherlands",
+      "address": "Schipholweg 275, 1171 PK Badhoevedorp, NL",
+      "gps": {
+        "lat": 52.329672,
+        "lon": 4.785265
+      },
+      "stalls": 32,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "09:00 - 23:00",
+              "rate": "€ 0,39/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "09:00 - 23:00",
+              "rate": "€ 0,55/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-05T23:57:42.623715",
+      "name": "Breda, Netherlands",
+      "address": "Princenhagelaan 5, 4813 DA Breda, NL",
+      "gps": {
+        "lat": 51.5765157,
+        "lon": 4.7295009
+      },
+      "stalls": 16,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,36/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,50/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-05T23:57:58.029420",
+      "name": "Breukelen, Netherlands",
+      "address": "Stationsweg 91, 3621 LK Breukelen, NL",
+      "gps": {
+        "lat": 52.167679,
+        "lon": 4.988554
+      },
+      "stalls": 28,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "09:00 - 00:00",
+              "rate": "€ 0,36/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "09:00 - 00:00",
+              "rate": "€ 0,50/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-05T23:58:07.135080",
+      "name": "Bunnik, Netherlands",
+      "address": "Baan van Fectio 1, 3981 HZ Bunnik, NL",
+      "gps": {
+        "lat": 52.06107,
+        "lon": 5.2048
+      },
+      "stalls": 24,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "09:00 - 23:00",
+              "rate": "€ 0,35/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "09:00 - 23:00",
+              "rate": "€ 0,49/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-05T23:58:21.259937",
+      "name": "Deventer, Netherlands",
+      "address": "Birnieweg 4, 7418 HH Deventer, NL",
+      "gps": {
+        "lat": 52.233798,
+        "lon": 6.209399
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.32/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.44/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-05T23:58:36.195192",
+      "name": "Dordrecht, Netherlands",
+      "address": "Laan van Europa 1600, 3317 DB Dordrecht, NL",
+      "gps": {
+        "lat": 51.774407,
+        "lon": 4.653137
+      },
+      "stalls": 16,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,35/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,49/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-05T23:58:47.535668",
+      "name": "Drachten, Netherlands",
+      "address": "Lavendelheide 4, 9202 PD Drachten, NL",
+      "gps": {
+        "lat": 53.105636,
+        "lon": 6.130395
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "09:00 - 22:00",
+              "rate": "€ 0,34/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "09:00 - 22:00",
+              "rate": "€ 0,48/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-05T23:58:57.694612",
+      "name": "Duiven, Netherlands",
+      "address": "Impuls 2, 6921 RK Duiven, NL",
+      "gps": {
+        "lat": 51.959096,
+        "lon": 6.020674
+      },
+      "stalls": 24,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,34/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,48/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-05T23:59:07.873241",
+      "name": "Eemnes, Netherlands",
+      "address": "Rijksweg 2, 3755 MV Eemnes, NL",
+      "gps": {
+        "lat": 52.23622,
+        "lon": 5.229652
+      },
+      "stalls": 24,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "09:00 - 23:00",
+              "rate": "€ 0,37/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "09:00 - 23:00",
+              "rate": "€ 0,53/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-05T23:59:18.928970",
+      "name": "Eindhoven, Netherlands",
+      "address": "Aalsterweg 322, 5644 RL Eindhoven, NL",
+      "gps": {
+        "lat": 51.407102,
+        "lon": 5.479618
+      },
+      "stalls": 24,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "09:00 - 00:00",
+              "rate": "€ 0,34/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "09:00 - 00:00",
+              "rate": "€ 0,48/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-05T23:59:32.843358",
+      "name": "Best, Netherlands",
+      "address": "Eindhovenseweg - Zuid 144, 5683 PX Best, NL",
+      "gps": {
+        "lat": 51.490943,
+        "lon": 5.42467
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "09:00 - 23:00",
+              "rate": "€ 0,35/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "09:00 - 23:00",
+              "rate": "€ 0,49/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-05T23:59:41.518358",
+      "name": "Emmeloord, Netherlands",
+      "address": "Het Hooiveld 9, 8302AE Emmeloord, NL",
+      "gps": {
+        "lat": 52.72691,
+        "lon": 5.764208
+      },
+      "stalls": 10,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,37/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,51/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-05T23:59:50.385777",
+      "name": "Emmen, Netherlands",
+      "address": "Verlengde Herendijk 50, 7833 JD Nieuw-Amsterdam, NL",
+      "gps": {
+        "lat": 52.724998,
+        "lon": 6.883225
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "09:00 - 21:00",
+              "rate": "€ 0,32/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "09:00 - 21:00",
+              "rate": "€ 0,45/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T00:00:01.862293",
+      "name": "Enschede, Netherlands",
+      "address": "Zuiderval 140, 7543 EZ Enschede, NL",
+      "gps": {
+        "lat": 52.202901,
+        "lon": 6.888668
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "09:00 - 22:00",
+              "rate": "€ 0,34/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "09:00 - 22:00",
+              "rate": "€ 0,48/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T00:00:13.261585",
+      "name": "Gorinchem, Netherlands",
+      "address": "Franklinweg 7, 4207 HX Gorinchem, NL",
+      "gps": {
+        "lat": 51.841363,
+        "lon": 5.009041
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.30/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.42/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T00:00:29.278256",
+      "name": "Gouda, Netherlands",
+      "address": "Harderwijkweg 1, 2803 PW Gouda, NL",
+      "gps": {
+        "lat": 52.022461,
+        "lon": 4.685386
+      },
+      "stalls": 16,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "€ 0,36/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,30/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "€ 0,50/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,42/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T00:00:38.250451"
+    },
+    {
+      "filedate": "2025-09-06T00:00:49.592948",
+      "name": "Haarlem, Netherlands",
+      "address": "Toekanweg 2, 2035 LC Haarlem, NL",
+      "gps": {
+        "lat": 52.369266,
+        "lon": 4.648278
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "09:00 - 23:00",
+              "rate": "€ 0,39/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "09:00 - 23:00",
+              "rate": "€ 0,55/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T00:01:00.565461",
+      "name": "Harderwijk, Netherlands",
+      "address": "Boekhorstlaan 4, 3847 LP Harderwijk, NL",
+      "gps": {
+        "lat": 52.335916,
+        "lon": 5.643857
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,35/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,49/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T00:01:20.110265",
+      "name": "Heerlen, Netherlands",
+      "address": "Terworm 10, 6411 RV Heerlen, NL",
+      "gps": {
+        "lat": 50.892974,
+        "lon": 5.955635
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "€ 0,36/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "€ 0,50/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T00:01:43.863097",
+      "name": "Hengelo, Netherlands",
+      "address": "Bornsestraat 400, 7556 BN Hengelo, NL",
+      "gps": {
+        "lat": 52.287033,
+        "lon": 6.774715
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,36/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,50/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T00:01:54.466358",
+      "name": "Hoorn, Netherlands",
+      "address": "Westfriese Parkweg 1, 1625 MA Hoorn, NL",
+      "gps": {
+        "lat": 52.65132,
+        "lon": 5.03855
+      },
+      "stalls": 12,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,31/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,31/kWh"
+            },
+            {
+              "label": "09:00 - 22:00",
+              "rate": "€ 0,36/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,31/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,43/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,43/kWh"
+            },
+            {
+              "label": "09:00 - 22:00",
+              "rate": "€ 0,50/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,43/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T00:02:18.719943",
+      "name": "Horst, Netherlands",
+      "address": "Tienrayseweg 2, 5961NL Horst, NL",
+      "gps": {
+        "lat": 51.4698,
+        "lon": 6.05658
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 11:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "11:00 - 20:00",
+              "rate": "€ 0,33/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 11:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "11:00 - 20:00",
+              "rate": "€ 0,47/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T00:02:30.024142",
+      "name": "Leiderdorp, Netherlands",
+      "address": "Persant Snoepweg 2, 2353 KA Leiderdorp, NL",
+      "gps": {
+        "lat": 52.160777,
+        "lon": 4.549619
+      },
+      "stalls": 24,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "€ 0,35/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,30/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "€ 0,49/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,42/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T00:02:40.254419",
+      "name": "Leusden, Netherlands",
+      "address": "Philipsstraat 18, 3833 LC Leusden, NL",
+      "gps": {
+        "lat": 52.143269,
+        "lon": 5.4173527
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "09:00 - 23:00",
+              "rate": "€ 0,37/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "09:00 - 23:00",
+              "rate": "€ 0,51/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T00:02:50.897745",
+      "name": "Maastricht, Netherlands",
+      "address": "Slakweg 5 5, 6228 NB Maastricht, NL",
+      "gps": {
+        "lat": 50.816049,
+        "lon": 5.725648
+      },
+      "stalls": 24,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "10:00 - 20:00",
+              "rate": "€ 0,34/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "10:00 - 20:00",
+              "rate": "€ 0,48/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T00:03:07.293675",
+      "name": "Meerkerk, Netherlands",
+      "address": "Energieweg 116, 4231 DJ Meerkerk, NL",
+      "gps": {
+        "lat": 51.899576,
+        "lon": 4.983408
+      },
+      "stalls": 24,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "10:00 - 20:00",
+              "rate": "€ 0,33/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "10:00 - 20:00",
+              "rate": "€ 0,47/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T00:03:23.547413",
+      "name": "Middelburg, Netherlands",
+      "address": "Paukenweg 3, 4337 WH Middelburg, NL",
+      "gps": {
+        "lat": 51.480414,
+        "lon": 3.636931
+      },
+      "stalls": 10,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "10:00 - 22:00",
+              "rate": "€ 0,36/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,30/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "10:00 - 22:00",
+              "rate": "€ 0,50/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,42/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T00:03:34.125542",
+      "name": "Nootdorp, Netherlands",
+      "address": "Gildeweg 1, 2632 BD Nootdorp, NL",
+      "gps": {
+        "lat": 52.052541,
+        "lon": 4.402053
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "09:00 - 23:00",
+              "rate": "€ 0,35/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "09:00 - 23:00",
+              "rate": "€ 0,49/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T00:03:42.775449",
+      "name": "Oosterhout, Netherlands",
+      "address": "Beneluxweg 1, 4904 SJ Oosterhout, NL",
+      "gps": {
+        "lat": 51.626786,
+        "lon": 4.867618
+      },
+      "stalls": 12,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "08:00 - 00:00",
+              "rate": "€ 0,35/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "08:00 - 00:00",
+              "rate": "€ 0,49/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T00:03:53.340250",
+      "name": "Ridderkerk, Netherlands",
+      "address": "Krommeweg 1, 2988 CB Ridderkerk, NL",
+      "gps": {
+        "lat": 51.867901,
+        "lon": 4.557753
+      },
+      "stalls": 24,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "09:00 - 23:00",
+              "rate": "€ 0,36/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "09:00 - 23:00",
+              "rate": "€ 0,50/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T00:04:03.267462",
+      "name": "Rijswijk, Netherlands",
+      "address": "Laan van Hoornwijck 29, 2289 DG Rijswijk, NL",
+      "gps": {
+        "lat": 52.048295,
+        "lon": 4.349285
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "09:00 - 23:00",
+              "rate": "€ 0,37/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "09:00 - 23:00",
+              "rate": "€ 0,53/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T00:04:16.225406",
+      "name": "Roosendaal, Netherlands",
+      "address": "Emmerblok 2, 4751 XE Oud Gastel, NL",
+      "gps": {
+        "lat": 51.565986,
+        "lon": 4.470225
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "10:00 - 21:00",
+              "rate": "€ 0,34/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "10:00 - 21:00",
+              "rate": "€ 0,48/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T00:04:25.003709",
+      "name": "Sassenheim, Netherlands",
+      "address": "Warmonderweg 8, 2171 AH Sassenheim, NL",
+      "gps": {
+        "lat": 52.213329,
+        "lon": 4.503769
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "€ 0,35/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "€ 0,49/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T00:04:35.192320",
+      "name": "Schiedam, Netherlands",
+      "address": "Hargalaan 6, 3118 JA Schiedam, NL",
+      "gps": {
+        "lat": 51.924806,
+        "lon": 4.372265
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "09:00 - 00:00",
+              "rate": "€ 0,36/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "09:00 - 00:00",
+              "rate": "€ 0,50/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T00:04:44.210332",
+      "name": "Tilburg, Netherlands",
+      "address": "Dokter Bloemenlaan 8, 5022 KW Tilburg, NL",
+      "gps": {
+        "lat": 51.543281,
+        "lon": 5.111822
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "09:00 - 23:00",
+              "rate": "€ 0,35/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "09:00 - 23:00",
+              "rate": "€ 0,49/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T00:04:53.614263",
+      "name": "Uden, Netherlands",
+      "address": "Rondweg 2, 5406 NK Uden, NL",
+      "gps": {
+        "lat": 51.671247,
+        "lon": 5.60252
+      },
+      "stalls": 24,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.30/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.42/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T00:05:03.330224",
+      "name": "Venray, Netherlands",
+      "address": "Maasheseweg 80A, 5804 AD Venray, NL",
+      "gps": {
+        "lat": 51.547015,
+        "lon": 5.996622
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 11:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "11:00 - 20:00",
+              "rate": "€ 0,34/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 11:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "11:00 - 20:00",
+              "rate": "€ 0,48/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T00:05:12.532072",
+      "name": "Vuren, Netherlands",
+      "address": "Zeiving 21, 4214 KT Vuren, NL",
+      "gps": {
+        "lat": 51.838587,
+        "lon": 5.092074
+      },
+      "stalls": 12,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.30/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.42/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T00:05:22.053224",
+      "name": "Weert, Netherlands",
+      "address": "Eindhovenseweg 101, 6002 TB Weert, NL",
+      "gps": {
+        "lat": 51.281745,
+        "lon": 5.651723
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 11:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "11:00 - 20:00",
+              "rate": "€ 0,33/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 11:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "11:00 - 20:00",
+              "rate": "€ 0,47/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T00:05:31.604043",
+      "name": "Wolvega, Netherlands",
+      "address": "Atalanta 10, 8472 CA Wolvega, NL",
+      "gps": {
+        "lat": 52.880495,
+        "lon": 6.021328
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T00:05:42.161035",
+      "name": "Zaltbommel, Netherlands",
+      "address": "Hogeweg 65, 5301 LJ Zaltbommel, NL",
+      "gps": {
+        "lat": 51.796578,
+        "lon": 5.254841
+      },
+      "stalls": 16,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "€ 0,34/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "€ 0,48/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,41/kWh"
             }
           ]
         }
