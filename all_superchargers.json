@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-09-04T13:51:43.455788",
-    "chargerCount": 919,
+    "jsonfiledate": "2025-09-06T00:02:12.038601",
+    "chargerCount": 920,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.2",
-    "successCount": 919,
+    "successCount": 920,
     "errorCount": 0
   },
   "locations": [
@@ -43985,6 +43985,65 @@
             {
               "label": "21:00 - 00:00",
               "rate": "£ 0,23/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-05T23:55:09.634419",
+      "name": "Apeldoorn Oost, Netherlands",
+      "address": "Landgoedlaan 26, 6238 RV Apeldoorn, NL",
+      "gps": {
+        "lat": 52.205166,
+        "lon": 6.0168
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "09:00 - 22:00",
+              "rate": "€ 0,33/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,30/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "09:00 - 22:00",
+              "rate": "€ 0,47/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,42/kWh"
             }
           ]
         }
