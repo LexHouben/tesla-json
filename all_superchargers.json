@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2025-09-06T00:12:28.395081",
+    "jsonfiledate": "2025-09-06T00:17:28.725177",
     "chargerCount": 925,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -44070,7 +44070,7 @@
       ]
     },
     {
-      "filedate": "2025-09-06T00:05:42.161035",
+      "filedate": "2025-09-06T00:15:45.251541",
       "name": "Zaltbommel, Netherlands",
       "address": "Hogeweg 65, 5301 LJ Zaltbommel, NL",
       "gps": {
