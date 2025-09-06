@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-09-06T20:58:41.025005",
-    "chargerCount": 1365,
+    "jsonfiledate": "2025-09-06T21:17:47.008694",
+    "chargerCount": 1418,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.2",
-    "successCount": 1365,
+    "successCount": 1418,
     "errorCount": 0
   },
   "locations": [
@@ -63584,6 +63584,1694 @@
     },
     {
       "filedate": "2025-09-06T20:53:58.791606"
+    },
+    {
+      "filedate": "2025-09-06T20:54:19.333048",
+      "name": "Warsaw, Poland - Radzymińska",
+      "address": "Radzymińska 334, 05 Ząbki, PL",
+      "gps": {
+        "lat": 52.3019,
+        "lon": 21.088114
+      },
+      "stalls": 14,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "PLN 4.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "PLN 1,20/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "PLN 1,20/kWh"
+            },
+            {
+              "label": "09:00 - 23:00",
+              "rate": "PLN 1,60/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "PLN 1,20/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T20:54:33.770404",
+      "name": "Trzebownisko, Poland",
+      "address": "Nowa Wieś 414, 36 Trzebownisko, PL",
+      "gps": {
+        "lat": 50.088893,
+        "lon": 22.045346
+      },
+      "stalls": 4,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "PLN 1,30/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "PLN 1,30/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "PLN 1,60/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "PLN 1,30/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T20:54:50.234526",
+      "name": "Warsaw, Poland",
+      "address": "Belwederska 23, 00 Warsaw, PL",
+      "gps": {
+        "lat": 52.207973,
+        "lon": 21.029857
+      },
+      "stalls": 2,
+      "maxPowerKw": 120,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "PLN 4.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "PLN 1,10/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "PLN 1,10/kWh"
+            },
+            {
+              "label": "08:00 - 00:00",
+              "rate": "PLN 1,60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T20:55:02.830801",
+      "name": "Alcacer do Sal, Portugal",
+      "address": "Estrada Nacional 5, 7580 Alcacer do Sal, PT",
+      "gps": {
+        "lat": 38.392402,
+        "lon": -8.51382
+      },
+      "stalls": 14,
+      "maxPowerKw": 150
+    },
+    {
+      "filedate": "2025-09-06T20:55:15.903930",
+      "name": "Alcantarilha, Portugal",
+      "address": "Amendoeira Golf Resort, Morgado da Lameira NA, 8365 Alcantarilha, PT",
+      "gps": {
+        "lat": 37.150341,
+        "lon": -8.364516
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,27/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "€ 0,27/kWh"
+            },
+            {
+              "label": "10:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T20:55:32.527674",
+      "name": "Fátima, Portugal",
+      "address": "Estrada da Batalha 42, 2495 Fátima, PT",
+      "gps": {
+        "lat": 39.635316,
+        "lon": -8.688651
+      },
+      "stalls": 32,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,23/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,23/kWh"
+            },
+            {
+              "label": "08:00 - 22:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,23/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T20:55:42.626831",
+      "name": "Guarda, Portugal",
+      "address": "Rua das Covas Lote Lote 34, 6300 Guarda, PT",
+      "gps": {
+        "lat": 40.559258,
+        "lon": -7.230221
+      },
+      "stalls": 8,
+      "maxPowerKw": 150
+    },
+    {
+      "filedate": "2025-09-06T20:56:03.980859",
+      "name": "Loule, Portugal",
+      "address": "Avenida Algarve 3, 8135 Almancil, PT",
+      "gps": {
+        "lat": 37.097721,
+        "lon": -7.998147
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,24/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,24/kWh"
+            },
+            {
+              "label": "09:00 - 23:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,24/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T20:56:15.629416"
+    },
+    {
+      "filedate": "2025-09-06T20:56:43.539749",
+      "name": "Montemor-o-Novo, Portugal",
+      "address": "Estrada Nacional, Herdade das Valadas 4, 7050-031 Montemor-o-Novo, PT",
+      "gps": {
+        "lat": 38.645966,
+        "lon": -8.247476
+      },
+      "stalls": 8,
+      "maxPowerKw": 150
+    },
+    {
+      "filedate": "2025-09-06T20:57:13.424180",
+      "name": "Ribeira de Pena, Vila Real District, Portugal",
+      "address": "Rua do Complexo Turístico de Lamelas 2, 4870 Ribeira de Pena, PT",
+      "gps": {
+        "lat": 41.504398,
+        "lon": -7.800681
+      },
+      "stalls": 10,
+      "maxPowerKw": 150
+    },
+    {
+      "filedate": "2025-09-06T20:57:24.720836",
+      "name": "Bucharest, Romania - Bulevardul Pierre de Coubertin",
+      "address": "Bulevardul Pierre de Coubertin 3-5, 021901 Bucharest, RO",
+      "gps": {
+        "lat": 44.441547,
+        "lon": 26.150597
+      },
+      "stalls": 14,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "RON 5.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "RON 1,69/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "RON 1,69/kWh"
+            },
+            {
+              "label": "10:00 - 23:00",
+              "rate": "RON 1,99/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "RON 1,69/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "RON 5.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "RON 2,38/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "RON 2,38/kWh"
+            },
+            {
+              "label": "10:00 - 23:00",
+              "rate": "RON 2,77/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "RON 2,38/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T20:57:40.462879",
+      "name": "Bucharest, Romania",
+      "address": "Calea Floreasca 246B, 014476 Bucharest, RO",
+      "gps": {
+        "lat": 44.477583,
+        "lon": 26.10278
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "RON 1,26/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "RON 1,26/kWh"
+            },
+            {
+              "label": "09:00 - 23:00",
+              "rate": "RON 1,99/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "RON 1,26/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "RON 1,78/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "RON 1,78/kWh"
+            },
+            {
+              "label": "09:00 - 23:00",
+              "rate": "RON 2,77/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "RON 1,78/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T20:58:03.419254",
+      "name": "Cluj-Napoca, Romania",
+      "address": "Strada Avram Iancu 492-500, 407280 Florești, RO",
+      "gps": {
+        "lat": 46.753754,
+        "lon": 23.53278
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "RON 5.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "RON 1,69/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "RON 1,69/kWh"
+            },
+            {
+              "label": "10:00 - 22:00",
+              "rate": "RON 1,99/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "RON 1,69/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "RON 5.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "RON 2,38/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "RON 2,38/kWh"
+            },
+            {
+              "label": "10:00 - 22:00",
+              "rate": "RON 2,77/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "RON 2,38/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T20:58:14.443745",
+      "name": "Constanța, Romania",
+      "address": "Bulevardul Alexandru Lăpușneanu 116C, 900419 Constanța, RO",
+      "gps": {
+        "lat": 44.20403798,
+        "lon": 28.63095488
+      },
+      "stalls": 6,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "RON 5.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "RON 1,34/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "RON 1,34/kWh"
+            },
+            {
+              "label": "09:00 - 22:00",
+              "rate": "RON 1,99/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "RON 1,34/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "RON 5.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "RON 1,86/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "RON 1,86/kWh"
+            },
+            {
+              "label": "09:00 - 22:00",
+              "rate": "RON 2,77/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "RON 1,86/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T20:58:35.351986",
+      "name": "Craiova, Romania",
+      "address": "Calea Severinului 61, 200769 Craiova, RO",
+      "gps": {
+        "lat": 44.328751,
+        "lon": 23.772053
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "RON 5.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "RON 1.95/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "RON 5.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "RON 2.73/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T20:58:47.082601",
+      "name": "Buzău, Romania",
+      "address": "Bulevardul Unirii 301A, None Buzău, RO",
+      "gps": {
+        "lat": 45.164332,
+        "lon": 26.814178
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "RON 5.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "RON 1.91/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "RON 5.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "RON 2.67/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T20:59:08.691179",
+      "name": "Oradea, Romania",
+      "address": "Calea Aradului 87, None Oradea, RO",
+      "gps": {
+        "lat": 47.043483,
+        "lon": 21.897123
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "RON 5.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "RON 1.95/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "RON 5.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "RON 2.73/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T20:59:27.959327",
+      "name": "Pitesti, Romania",
+      "address": "DN65B F4, 117140 Pitești, RO",
+      "gps": {
+        "lat": 44.824662,
+        "lon": 24.908471
+      },
+      "stalls": 6,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "RON 5.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "RON 1,69/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "RON 1,69/kWh"
+            },
+            {
+              "label": "10:00 - 22:00",
+              "rate": "RON 1,99/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "RON 1,69/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "RON 5.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "RON 2,38/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "RON 2,38/kWh"
+            },
+            {
+              "label": "10:00 - 22:00",
+              "rate": "RON 2,77/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "RON 2,38/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T20:59:45.824324"
+    },
+    {
+      "filedate": "2025-09-06T21:00:05.476878",
+      "name": "Timisoara, Romania",
+      "address": "B-dul Revolutiei 1989, Nr 2A None, 300054 Timisoara, RO",
+      "gps": {
+        "lat": 45.75556113,
+        "lon": 21.23210355
+      },
+      "stalls": 6,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "RON 5.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "RON 1,69/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "RON 1,69/kWh"
+            },
+            {
+              "label": "09:00 - 23:00",
+              "rate": "RON 1,99/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "RON 1,69/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "RON 5.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "RON 2,38/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "RON 2,38/kWh"
+            },
+            {
+              "label": "09:00 - 23:00",
+              "rate": "RON 2,77/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "RON 2,38/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T21:00:23.249981",
+      "name": "Aleksinac, Serbia",
+      "address": "Žitkovački put BB, None, 18220 Aleksinac, RS",
+      "gps": {
+        "lat": 43.528188,
+        "lon": 21.70978
+      },
+      "stalls": 4,
+      "maxPowerKw": 125
+    },
+    {
+      "filedate": "2025-09-06T21:00:47.432912",
+      "name": "Belgrade, Serbia - AVA shopping",
+      "address": "Astrid Lindgren 23, 11231 Belgrade, RS",
+      "gps": {
+        "lat": 44.712532,
+        "lon": 20.5602
+      },
+      "stalls": 8,
+      "maxPowerKw": 250
+    },
+    {
+      "filedate": "2025-09-06T21:01:00.305820",
+      "name": "Koper, Slovenia",
+      "address": "Ankaranska cesta 2, 6000 Koper, SI",
+      "gps": {
+        "lat": 45.54075018,
+        "lon": 13.73570853
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,34/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,34/kWh"
+            },
+            {
+              "label": "08:00 - 22:00",
+              "rate": "€ 0,39/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,34/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,47/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,47/kWh"
+            },
+            {
+              "label": "08:00 - 22:00",
+              "rate": "€ 0,54/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,47/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T21:01:17.964097",
+      "name": "Kozina, Slovenia",
+      "address": "Bazoviska cesta 23, 6240 Kozina, SI",
+      "gps": {
+        "lat": 45.608394,
+        "lon": 13.931928
+      },
+      "stalls": 6,
+      "maxPowerKw": 125,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,45/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,42/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T21:01:31.680032",
+      "name": "Krško, Slovenia",
+      "address": "Ulica 11. novembra 53, 8270 Krškem, SI",
+      "gps": {
+        "lat": 45.935141,
+        "lon": 15.483722
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.41/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.57/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T21:01:49.906275",
+      "name": "Ljubljana, Slovenia",
+      "address": "Pot za Brdom 4, 1000 Ljubljana, SI",
+      "gps": {
+        "lat": 46.052865,
+        "lon": 14.453264
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,27/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,27/kWh"
+            },
+            {
+              "label": "08:00 - 22:00",
+              "rate": "€ 0,38/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,27/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,38/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,38/kWh"
+            },
+            {
+              "label": "08:00 - 22:00",
+              "rate": "€ 0,54/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,38/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T21:02:01.940567",
+      "name": "Maribor, Slovenia",
+      "address": "Na polju 24, 2000 Maribor, SI",
+      "gps": {
+        "lat": 46.532984,
+        "lon": 15.69924
+      },
+      "stalls": 6,
+      "maxPowerKw": 130,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,32/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,32/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,35/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,32/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T21:02:26.229888",
+      "name": "Novo Mesto, Slovenia",
+      "address": "Belokranjska cesta 5, 88090 Novo Mesto, SI",
+      "gps": {
+        "lat": 45.79717612,
+        "lon": 15.18112759
+      },
+      "stalls": 4,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.41/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.57/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T21:02:41.983746",
+      "name": "Slovenska Bistrica, Slovenia",
+      "address": "Žolgarjeva ulica 14, 2310 Slovenska Bistrica, SI",
+      "gps": {
+        "lat": 46.38391576,
+        "lon": 15.57371239
+      },
+      "stalls": 10,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.39/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T21:02:50.874871"
+    },
+    {
+      "filedate": "2025-09-06T21:03:21.712748",
+      "name": "Bratislava, Slovakia",
+      "address": "Ivanská cesta 14, 821 04 Bratislava, SK",
+      "gps": {
+        "lat": 48.16745,
+        "lon": 17.17885
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,37/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,30/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,52/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,42/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T21:03:30.083752",
+      "name": "Bratislava – Aupark, Slovakia",
+      "address": "Einsteinova 3541/18, 851 01 Bratislava, SK",
+      "gps": {
+        "lat": 48.132129,
+        "lon": 17.108517
+      },
+      "stalls": 6,
+      "maxPowerKw": 130,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.38/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.54/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T21:03:45.090832",
+      "name": "Demänova Village, Slovakia",
+      "address": "Demänovská cesta 584, 031 01 Liptovský Mikuláš, SK",
+      "gps": {
+        "lat": 49.054735,
+        "lon": 19.578976
+      },
+      "stalls": 4,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.38/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.54/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T21:03:56.381559"
+    },
+    {
+      "filedate": "2025-09-06T21:04:25.639183",
+      "name": "Trencin, Slovakia",
+      "address": "Belá 7271, 911 01 Trencin, SK",
+      "gps": {
+        "lat": 48.86426446,
+        "lon": 18.02293861
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.38/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.54/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T21:04:48.665170",
+      "name": "Zvolen, Slovakia",
+      "address": "Tehelňa 1022, 96231 Sielnica, SK",
+      "gps": {
+        "lat": 48.627209,
+        "lon": 19.1046
+      },
+      "stalls": 4,
+      "maxPowerKw": 125,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.38/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.54/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T21:05:07.361629",
+      "name": "Ankara, Türkiye",
+      "address": "Gazi, Konya Devlet Yolu 2, 06560 Ankara, TR",
+      "gps": {
+        "lat": 39.949198,
+        "lon": 32.833158
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "TRY 20.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "TRY 8.50/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "TRY 20.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "TRY 10.60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T21:05:24.708693",
+      "name": "Bolu, Turkiye",
+      "address": "Hendek Servis Alanı 157, 54300 Hamitli, TR",
+      "gps": {
+        "lat": 40.72401,
+        "lon": 31.4651974
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "TRY 20.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "TRY 8.50/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "TRY 20.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "TRY 10.60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T21:05:36.384930",
+      "name": "Edirne, Turkiye",
+      "address": "Şükrüpaşa, Kıyık Cd 254, 220830 Edirne, TR",
+      "gps": {
+        "lat": 41.680066,
+        "lon": 26.581761
+      },
+      "stalls": 6,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "TRY 20.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "TRY 8.50/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "TRY 20.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "TRY 10.60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T21:05:50.890023",
+      "name": "Gayrettepe İstanbul, Türkiye",
+      "address": "Koru sok. 2, 34340 Istanbul, TR",
+      "gps": {
+        "lat": 41.065007,
+        "lon": 29.017907
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "TRY 20.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "TRY 8.50/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "TRY 20.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "TRY 10.60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T21:05:58.873004"
+    },
+    {
+      "filedate": "2025-09-06T21:06:10.823647",
+      "name": "Istanbul Asia, Türkiye",
+      "address": "Libadiye Cd. None, None Istanbul, TR",
+      "gps": {
+        "lat": 41.002274,
+        "lon": 29.071639
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "TRY 20.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "TRY 8.50/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "TRY 20.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "TRY 10.60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T21:06:21.918360"
+    },
+    {
+      "filedate": "2025-09-06T21:06:31.865923",
+      "name": "Denizli, Türkiye",
+      "address": "Menderes Blv. 185, 20030 Denizli, TR",
+      "gps": {
+        "lat": 37.819711,
+        "lon": 29.056504
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "TRY 20.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "TRY 8.50/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "TRY 20.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "TRY 10.60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T21:06:42.806890",
+      "name": "Muratpaşa Antalya, Türkiye",
+      "address": "Konyaaltı Cd. No:1 None, 7010 Antalya, TR",
+      "gps": {
+        "lat": 36.8933132,
+        "lon": 30.7052135
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "TRY 20.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "TRY 8.50/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "TRY 20.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "TRY 10.60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T21:06:53.855776",
+      "name": "Balıkesir, Türkiye - Istanbul Bound",
+      "address": "İbirler 4699. Cad None, 10010 Balıkesir, TR",
+      "gps": {
+        "lat": 39.756488,
+        "lon": 27.960007
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "TRY 20.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "TRY 8.50/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "TRY 20.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "TRY 10.60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T21:07:03.806350",
+      "name": "Balıkesir, Türkiye - Izmir Bound",
+      "address": "İbirler 46999, 10010 Karesi/Balıkesir, TR",
+      "gps": {
+        "lat": 39.757264,
+        "lon": 27.96373
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "TRY 20.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "TRY 8.50/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "TRY 20.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "TRY 10.60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T21:07:21.230392",
+      "name": "Akhisar, Istanbul Bound, Türkiye",
+      "address": "Ballıca - Istanbul Bound 45200, None Akhisar, TR",
+      "gps": {
+        "lat": 38.927798,
+        "lon": 27.703213
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "TRY 20.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "TRY 8.50/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "TRY 20.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "TRY 10.60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T21:07:34.450838",
+      "name": "Akhisar, Izmir Bound, Türkiye",
+      "address": "Ballıca - Izmir Bound 45200, None Akhisar, TR",
+      "gps": {
+        "lat": 38.931601,
+        "lon": 27.706277
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "TRY 20.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "TRY 8.50/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "TRY 20.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "TRY 10.60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T21:07:42.682773"
+    },
+    {
+      "filedate": "2025-09-06T21:07:57.303777",
+      "name": "Gemlik, Izmir Bound, Turkiye",
+      "address": "Engürücük 16600, None Gemlik, TR",
+      "gps": {
+        "lat": 40.39269,
+        "lon": 29.141692
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "TRY 20.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "TRY 8.50/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "TRY 20.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "TRY 10.60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-06T21:08:13.173897",
+      "name": "Aydin, Türkiye",
+      "address": "İzmir Söke Yolu None, 09260 Aydin, TR",
+      "gps": {
+        "lat": 37.798465,
+        "lon": 27.46963
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "TRY 20.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "TRY 8.50/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "TRY 20.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "TRY 10.60/kWh"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
