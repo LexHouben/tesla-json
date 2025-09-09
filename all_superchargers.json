@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2025-09-09T23:51:25.508603",
+    "jsonfiledate": "2025-09-09T23:55:03.874358",
     "chargerCount": 1529,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -70257,7 +70257,7 @@
       ]
     },
     {
-      "filedate": "2025-09-09T23:47:46.212524",
+      "filedate": "2025-09-09T23:52:21.928873",
       "name": "Maastricht, Netherlands",
       "address": "Slakweg 5 5, 6228 NB Maastricht, NL",
       "gps": {
