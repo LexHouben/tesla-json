@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2025-09-09T23:44:20.538038",
+    "jsonfiledate": "2025-09-09T23:51:25.508603",
     "chargerCount": 1529,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -9,41 +9,6 @@
     "errorCount": 0
   },
   "locations": [
-    {
-      "filedate": "2025-08-10T23:46:02.140637",
-      "name": "Rade Appel, Germany",
-      "address": "Zur Heidekoppel 1, 21629 Neu Wulmstdorf, DE",
-      "gps": {
-        "lat": 53.387793,
-        "lon": 9.79609
-      },
-      "stalls": 6,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "€0.43/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "€0.60/kWh"
-            }
-          ]
-        }
-      ]
-    },
     {
       "filedate": "2025-08-10T23:54:03.056127",
       "name": "Rade, Germany",
@@ -70222,9 +70187,6 @@
       ]
     },
     {
-      "filedate": "2025-09-09T23:40:54.380103"
-    },
-    {
       "filedate": "2025-09-09T23:41:24.203425",
       "name": "München, Germany - Pasing Arcaden",
       "address": "Pasinger Bahnhofsplatz 5, 81241 Munich, DE",
@@ -70254,6 +70216,100 @@
             {
               "label": "Base Rate",
               "rate": "€0.62/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-09T23:47:34.799142",
+      "name": "Rade Appel, Germany",
+      "address": "Zur Heidekoppel 1, 21629 Neu Wulmstdorf, DE",
+      "gps": {
+        "lat": 53.387793,
+        "lon": 9.79609
+      },
+      "stalls": 6,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.44/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.61/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-09T23:47:46.212524",
+      "name": "Maastricht, Netherlands",
+      "address": "Slakweg 5 5, 6228 NB Maastricht, NL",
+      "gps": {
+        "lat": 50.816049,
+        "lon": 5.725648
+      },
+      "stalls": 24,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,27/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "€ 0,27/kWh"
+            },
+            {
+              "label": "10:00 - 20:00",
+              "rate": "€ 0,38/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,27/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,38/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "€ 0,38/kWh"
+            },
+            {
+              "label": "10:00 - 20:00",
+              "rate": "€ 0,54/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,38/kWh"
             }
           ]
         }
