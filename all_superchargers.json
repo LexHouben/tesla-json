@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2025-09-10T10:46:39.659083",
+    "jsonfiledate": "2025-09-10T11:00:55.113528",
     "chargerCount": 1529,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -70257,7 +70257,7 @@
       ]
     },
     {
-      "filedate": "2025-09-10T10:43:47.932640",
+      "filedate": "2025-09-10T10:58:12.255877",
       "name": "Wittlich, Germany",
       "address": "Hof Breit 0, 54516 Wittlich, DE",
       "gps": {
