@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2025-09-11T08:04:57.941771",
+    "jsonfiledate": "2025-09-12T08:02:26.986569",
     "chargerCount": 1529,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -9,3029 +9,6 @@
     "errorCount": 0
   },
   "locations": [
-    {
-      "filedate": "2025-08-12T07:06:14.392164",
-      "name": "Les Sables-d'Olonne, France",
-      "address": "Av. Francois Mitterrand 87, 85340 Les Sables-d'Olonne, FR",
-      "gps": {
-        "lat": 46.513826,
-        "lon": -1.777073
-      },
-      "stalls": 9,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "€0.27/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "€0.38/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T07:19:48.669526",
-      "name": "Wien, Austria",
-      "address": "Hackinger Straße 20, 1140 Vienna, AT",
-      "gps": {
-        "lat": 48.193088,
-        "lon": 16.277066
-      },
-      "stalls": 8,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "0-60 kW",
-              "rate": "€ 0,28/min"
-            },
-            {
-              "label": "60-100 kW",
-              "rate": "€ 0,57/min"
-            },
-            {
-              "label": "100-180 kW",
-              "rate": "€ 0,88/min"
-            },
-            {
-              "label": "180+ kW",
-              "rate": "€ 1,49/min"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "0-60 kW",
-              "rate": "€ 0,39/min"
-            },
-            {
-              "label": "60-100 kW",
-              "rate": "€ 0,80/min"
-            },
-            {
-              "label": "100-180 kW",
-              "rate": "€ 1,24/min"
-            },
-            {
-              "label": "180+ kW",
-              "rate": "€ 2,09/min"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T07:33:13.432546",
-      "name": "Bern, Switzerland - Westside",
-      "address": "Riedbachstrasse 104, 3027 Bern, CH",
-      "gps": {
-        "lat": 46.943446,
-        "lon": 7.37062
-      },
-      "stalls": 12,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "CHF 1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "CHF 0,29/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "CHF 0,29/kWh"
-            },
-            {
-              "label": "08:00 - 00:00",
-              "rate": "CHF 0,52/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "CHF 1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "CHF 0,41/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "CHF 0,41/kWh"
-            },
-            {
-              "label": "08:00 - 00:00",
-              "rate": "CHF 0,72/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T07:48:07.073892",
-      "name": "Kriens, Switzerland - Pilatusmarkt",
-      "address": "Ringstrasse 19, 6010 Kriens, CH",
-      "gps": {
-        "lat": 47.017601,
-        "lon": 8.301883
-      },
-      "stalls": 12,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "CHF 1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "CHF 0,30/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "CHF 0,30/kWh"
-            },
-            {
-              "label": "09:00 - 20:00",
-              "rate": "CHF 0,53/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "CHF 0,41/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "CHF 1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "CHF 0,42/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "CHF 0,42/kWh"
-            },
-            {
-              "label": "09:00 - 20:00",
-              "rate": "CHF 0,73/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "CHF 0,58/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T08:02:11.712203",
-      "name": "Bourg-de-Péage, France",
-      "address": "Bd Alpes Provence None, 26300 Bourg-de-Péage, FR",
-      "gps": {
-        "lat": 45.033274,
-        "lon": 5.051818
-      },
-      "stalls": 12,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "€0.29/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "€0.41/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T08:16:16.824063",
-      "name": "Nice, France",
-      "address": "Boulevard du Mercantour 606, 06200 Nice, FR",
-      "gps": {
-        "lat": 43.727823,
-        "lon": 7.186348
-      },
-      "stalls": 16,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,16/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,16/kWh"
-            },
-            {
-              "label": "09:00 - 23:00",
-              "rate": "€ 0,43/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,16/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T08:30:38.752979",
-      "name": "Wels, Austria",
-      "address": "Salzburger Str. 223, 4600 Wels, AT",
-      "gps": {
-        "lat": 48.145939,
-        "lon": 13.975097
-      },
-      "stalls": 8,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "0-60 kW",
-              "rate": "€ 0,28/min"
-            },
-            {
-              "label": "60-100 kW",
-              "rate": "€ 0,57/min"
-            },
-            {
-              "label": "100-180 kW",
-              "rate": "€ 0,88/min"
-            },
-            {
-              "label": "180+ kW",
-              "rate": "€ 1,49/min"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "0-60 kW",
-              "rate": "€ 0,39/min"
-            },
-            {
-              "label": "60-100 kW",
-              "rate": "€ 0,80/min"
-            },
-            {
-              "label": "100-180 kW",
-              "rate": "€ 1,24/min"
-            },
-            {
-              "label": "180+ kW",
-              "rate": "€ 2,09/min"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T08:42:32.601835",
-      "name": "Saint-Brieuc, France",
-      "address": "Rue de la Landelle 5, 22360 Langueux, FR",
-      "gps": {
-        "lat": 48.494194,
-        "lon": -2.723318
-      },
-      "stalls": 12,
-      "maxPowerKw": 259,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "€0.23/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "€0.32/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T08:55:29.532829",
-      "name": "Langkampfen, Austria",
-      "address": "Schönwörthstraße None, 6336 Langkampfen, AT",
-      "gps": {
-        "lat": 47.534459,
-        "lon": 12.092773
-      },
-      "stalls": 11,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "0-60 kW",
-              "rate": "€ 0,28/min"
-            },
-            {
-              "label": "60-100 kW",
-              "rate": "€ 0,57/min"
-            },
-            {
-              "label": "100-180 kW",
-              "rate": "€ 0,88/min"
-            },
-            {
-              "label": "180+ kW",
-              "rate": "€ 1,49/min"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "0-60 kW",
-              "rate": "€ 0,39/min"
-            },
-            {
-              "label": "60-100 kW",
-              "rate": "€ 0,80/min"
-            },
-            {
-              "label": "100-180 kW",
-              "rate": "€ 1,24/min"
-            },
-            {
-              "label": "180+ kW",
-              "rate": "€ 2,09/min"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T09:09:11.834736",
-      "name": "Rivesaltes, France",
-      "address": "Avenue Rue Georges Mélies None, 66600 Rivesaltes, FR",
-      "gps": {
-        "lat": 42.775249,
-        "lon": 2.907843
-      },
-      "stalls": 28,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,25/kWh"
-            },
-            {
-              "label": "04:00 - 10:00",
-              "rate": "€ 0,25/kWh"
-            },
-            {
-              "label": "10:00 - 20:00",
-              "rate": "€ 0,30/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,25/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,35/kWh"
-            },
-            {
-              "label": "04:00 - 10:00",
-              "rate": "€ 0,35/kWh"
-            },
-            {
-              "label": "10:00 - 20:00",
-              "rate": "€ 0,42/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,35/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T09:23:26.272675",
-      "name": "Mâcon, France",
-      "address": "Boulevard du Général de Gaulle 1, 71000 Sancé, FR",
-      "gps": {
-        "lat": 46.346796,
-        "lon": 4.848905
-      },
-      "stalls": 36,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,30/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,30/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,42/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,46/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,42/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T09:37:54.312601",
-      "name": "Auch, France",
-      "address": "Rue Francois Mauriac 1248, 32000 Auch, FR",
-      "gps": {
-        "lat": 43.66446075,
-        "lon": 0.59093379
-      },
-      "stalls": 8,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "€0.23/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "€0.32/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T09:51:00.590428",
-      "name": "Le Touquet, France",
-      "address": "Avenue de l'Hippodrome None, 62520 Le Touquet-Paris-Plage, FR",
-      "gps": {
-        "lat": 50.521625,
-        "lon": 1.598625
-      },
-      "stalls": 12,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "€0.26/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "€0.36/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T10:03:29.730035",
-      "name": "Argenton-sur-Creuse, France",
-      "address": "Bd du Berry None, 36200 Argenton-sur-Creuse, FR",
-      "gps": {
-        "lat": 46.573166,
-        "lon": 1.502554
-      },
-      "stalls": 20,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,31/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,35/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,31/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,44/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,49/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,44/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T10:16:49.968822",
-      "name": "Eberstalzell, Austria",
-      "address": "Solarstraße 4 4, 4653 Eberstalzell, AT",
-      "gps": {
-        "lat": 48.039538,
-        "lon": 13.991015
-      },
-      "stalls": 21,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "0-60 kW",
-              "rate": "€ 0,29/min"
-            },
-            {
-              "label": "60-100 kW",
-              "rate": "€ 0,59/min"
-            },
-            {
-              "label": "100-180 kW",
-              "rate": "€ 0,92/min"
-            },
-            {
-              "label": "180+ kW",
-              "rate": "€ 1,54/min"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "0-60 kW",
-              "rate": "€ 0,41/min"
-            },
-            {
-              "label": "60-100 kW",
-              "rate": "€ 0,82/min"
-            },
-            {
-              "label": "100-180 kW",
-              "rate": "€ 1,29/min"
-            },
-            {
-              "label": "180+ kW",
-              "rate": "€ 2,16/min"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T10:42:50.386137",
-      "name": "Eurotunnel, France -  Flexiplus Lounge",
-      "address": "Boulevard de l'Europe None, 62231 Coquelles, FR",
-      "gps": {
-        "lat": 50.929973,
-        "lon": 1.813182
-      },
-      "stalls": 2,
-      "maxPowerKw": 125,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,28/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,30/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,28/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,39/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,43/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,39/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T10:55:53.195593",
-      "name": "Aire du Jura, France",
-      "address": "Aire du Jura None, 39140 Arlay, FR",
-      "gps": {
-        "lat": 46.77357,
-        "lon": 5.521642
-      },
-      "stalls": 12,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,30/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,35/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,30/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,42/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,49/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,42/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T11:13:33.756209",
-      "name": "Zweibrücken, Germany",
-      "address": "Londoner Bogen 10-90, 66482 Zweibrücken, DE",
-      "gps": {
-        "lat": 49.230727,
-        "lon": 7.40817
-      },
-      "stalls": 8,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "€0.43/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "€0.60/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T11:30:15.773741",
-      "name": "Englos, France",
-      "address": "Route Nationale 352, 59320 Haubourdin, FR",
-      "gps": {
-        "lat": 50.629871,
-        "lon": 2.970873
-      },
-      "stalls": 16,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "09:00 - 21:00",
-              "rate": "€ 0,29/kWh"
-            },
-            {
-              "label": "21:00 - 00:00",
-              "rate": "€ 0,23/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,32/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,32/kWh"
-            },
-            {
-              "label": "09:00 - 21:00",
-              "rate": "€ 0,41/kWh"
-            },
-            {
-              "label": "21:00 - 00:00",
-              "rate": "€ 0,32/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T11:45:52.138916",
-      "name": "Valence, France",
-      "address": "Avenue de Provence 217, 26000 Valence, FR",
-      "gps": {
-        "lat": 44.91912,
-        "lon": 4.878087
-      },
-      "stalls": 8,
-      "maxPowerKw": 150,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,26/kWh"
-            },
-            {
-              "label": "04:00 - 00:00",
-              "rate": "€ 0,29/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,36/kWh"
-            },
-            {
-              "label": "04:00 - 00:00",
-              "rate": "€ 0,41/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T12:01:05.392563",
-      "name": "Magnant, France",
-      "address": "D443 5CJM+9R, 10110 Magnant, FR",
-      "gps": {
-        "lat": 48.1807546,
-        "lon": 4.4357279
-      },
-      "stalls": 56,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,29/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,34/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,29/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,41/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,48/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,41/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T12:27:53.492833",
-      "name": "St. Lorenzen im Mürztal, Austria",
-      "address": "Dr.-Reinhard-Machold-Straße 2, 8642 St. Lorenzen im Mürztal, AT",
-      "gps": {
-        "lat": 47.469497,
-        "lon": 15.345431
-      },
-      "stalls": 8,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "0-60 kW",
-              "rate": "€ 0,28/min"
-            },
-            {
-              "label": "60-100 kW",
-              "rate": "€ 0,57/min"
-            },
-            {
-              "label": "100-180 kW",
-              "rate": "€ 0,88/min"
-            },
-            {
-              "label": "180+ kW",
-              "rate": "€ 1,49/min"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "0-60 kW",
-              "rate": "€ 0,39/min"
-            },
-            {
-              "label": "60-100 kW",
-              "rate": "€ 0,80/min"
-            },
-            {
-              "label": "100-180 kW",
-              "rate": "€ 1,24/min"
-            },
-            {
-              "label": "180+ kW",
-              "rate": "€ 2,09/min"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T13:15:49.691951",
-      "name": "Val-de-Meuse, France",
-      "address": "D132 None, 52140 Val-de-Meuse, FR",
-      "gps": {
-        "lat": 47.9915,
-        "lon": 5.5132
-      },
-      "stalls": 32,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,30/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,32/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,30/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,42/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,44/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,42/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T13:43:12.804478",
-      "name": "Calais, France",
-      "address": "Avenue des Longues Pieces None, 62231 Coquelles, FR",
-      "gps": {
-        "lat": 50.923739,
-        "lon": 1.803937
-      },
-      "stalls": 6,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,30/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,24/kWh"
-            },
-            {
-              "label": "08:00 - 16:00",
-              "rate": "€ 0,30/kWh"
-            },
-            {
-              "label": "16:00 - 21:00",
-              "rate": "€ 0,35/kWh"
-            },
-            {
-              "label": "21:00 - 00:00",
-              "rate": "€ 0,30/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,42/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "08:00 - 16:00",
-              "rate": "€ 0,42/kWh"
-            },
-            {
-              "label": "16:00 - 21:00",
-              "rate": "€ 0,49/kWh"
-            },
-            {
-              "label": "21:00 - 00:00",
-              "rate": "€ 0,42/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T14:10:17.706907",
-      "name": "Obfelden, Switzerland",
-      "address": "Moosbachstrasse None, 8912 Obfelden, CH",
-      "gps": {
-        "lat": 47.272491,
-        "lon": 8.437417
-      },
-      "stalls": 12,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "CHF 1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "CHF 0.41/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "CHF 1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "CHF 0.58/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T14:38:27.947318",
-      "name": "Bayonne, France",
-      "address": "Chemin de Hayet 1, 64100 Bayonne, FR",
-      "gps": {
-        "lat": 43.493819,
-        "lon": -1.452564
-      },
-      "stalls": 8,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,30/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,35/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,30/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,42/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,49/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,42/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T15:06:16.152799",
-      "name": "Bussigny, Switzerland",
-      "address": "Route de Condémine 35, 1030 Bussigny, CH",
-      "gps": {
-        "lat": 46.556698,
-        "lon": 6.561557
-      },
-      "stalls": 14,
-      "maxPowerKw": 130,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "CHF 1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "CHF 0,29/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "CHF 0,29/kWh"
-            },
-            {
-              "label": "09:00 - 00:00",
-              "rate": "CHF 0,53/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "CHF 1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "CHF 0,41/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "CHF 0,41/kWh"
-            },
-            {
-              "label": "09:00 - 00:00",
-              "rate": "CHF 0,73/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T15:34:19.987249",
-      "name": "Chasse-sur-Rhône, France",
-      "address": "rue Pasteur 145, 38670 Chasse sur Rhone, FR",
-      "gps": {
-        "lat": 45.586749,
-        "lon": 4.787898
-      },
-      "stalls": 8,
-      "maxPowerKw": 150,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "€0.26/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "€0.37/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T16:02:45.801224",
-      "name": "Chalon-sur-Saône, France",
-      "address": "Rue François Protheau 52, 71100 Chalon-sur-Saône, FR",
-      "gps": {
-        "lat": 46.79640232,
-        "lon": 4.83555697
-      },
-      "stalls": 28,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,30/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,35/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,30/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,42/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,49/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,42/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T16:30:31.884304",
-      "name": "Wallisellen, Switzerland",
-      "address": "Neue Winterthurerstrasse 99, 8304 Wallisellen, CH",
-      "gps": {
-        "lat": 47.407976,
-        "lon": 8.598261
-      },
-      "stalls": 20,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "CHF 1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "CHF 0,29/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "CHF 0,29/kWh"
-            },
-            {
-              "label": "09:00 - 20:00",
-              "rate": "CHF 0,53/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "CHF 0,41/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "CHF 1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "CHF 0,41/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "CHF 0,41/kWh"
-            },
-            {
-              "label": "09:00 - 20:00",
-              "rate": "CHF 0,73/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "CHF 0,57/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T16:58:19.167649",
-      "name": "Aire-sur-l'Adour, France",
-      "address": "Chem. de la Pachère None, 40800 Aire-sur-l'Adour, FR",
-      "gps": {
-        "lat": 43.7251455,
-        "lon": -0.2674916
-      },
-      "stalls": 12,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,30/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,30/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,42/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,47/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,42/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T17:25:37.694232",
-      "name": "Neuchâtel, Switzerland",
-      "address": "Av. des Champs-Montants 2, 2074 Neuchâtel, CH",
-      "gps": {
-        "lat": 47.011918,
-        "lon": 6.99668
-      },
-      "stalls": 16,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "CHF 1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "CHF 0.41/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "CHF 1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "CHF 0.57/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T17:52:35.933851",
-      "name": "Honfleur, France",
-      "address": "Avenue de Normandie None, 14600 Honfleur, FR",
-      "gps": {
-        "lat": 49.414263,
-        "lon": 0.265752
-      },
-      "stalls": 19,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,30/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,30/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,42/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,46/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,42/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T18:20:40.547752",
-      "name": "Aurillac, France",
-      "address": "Avenue Charles-de-Gaulle 87, 15000 Aurillac, FR",
-      "gps": {
-        "lat": 44.908948,
-        "lon": 2.425638
-      },
-      "stalls": 12,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "€0.19/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "€0.26/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T18:48:55.105603",
-      "name": "Martigny, Switzerland",
-      "address": "Marché Relais St. Bernard A9, 1920 Martigny, CH",
-      "gps": {
-        "lat": 46.126974,
-        "lon": 7.060923
-      },
-      "stalls": 20,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "CHF 1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "CHF 0,30/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "CHF 0,30/kWh"
-            },
-            {
-              "label": "09:00 - 20:00",
-              "rate": "CHF 0,51/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "CHF 0,45/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T19:17:09.201530",
-      "name": "Varneville-Bretteville, France",
-      "address": "Vallée Carburants None, 76890 Varneville-Bretteville, FR",
-      "gps": {
-        "lat": 49.645036,
-        "lon": 1.046589
-      },
-      "stalls": 12,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,21/kWh"
-            },
-            {
-              "label": "04:00 - 21:00",
-              "rate": "€ 0,24/kWh"
-            },
-            {
-              "label": "21:00 - 00:00",
-              "rate": "€ 0,21/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,30/kWh"
-            },
-            {
-              "label": "04:00 - 21:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "21:00 - 00:00",
-              "rate": "€ 0,30/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T19:43:54.559427",
-      "name": "Saint-Dié-des-Vosges, France",
-      "address": "Zac D'Hellieule II 16 Rue Emile Durkheim, 88100 Saint-Dié-des-Vosges, FR",
-      "gps": {
-        "lat": 48.29337153,
-        "lon": 6.93653259
-      },
-      "stalls": 8,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,30/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,35/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,30/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,42/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,49/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,42/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T20:10:29.685018",
-      "name": "Vélizy, France - Avenue de l'Europe",
-      "address": "Avenue de l'Europe 2, 78140 Vélizy-Villacoublay, FR",
-      "gps": {
-        "lat": 48.783822,
-        "lon": 2.220996
-      },
-      "stalls": 30,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,22/kWh"
-            },
-            {
-              "label": "04:00 - 10:00",
-              "rate": "€ 0,17/kWh"
-            },
-            {
-              "label": "10:00 - 23:00",
-              "rate": "€ 0,31/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,22/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,31/kWh"
-            },
-            {
-              "label": "04:00 - 10:00",
-              "rate": "€ 0,24/kWh"
-            },
-            {
-              "label": "10:00 - 23:00",
-              "rate": "€ 0,43/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,31/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T20:37:58.069952",
-      "name": "Châteauvillain, France - Aire de Châteauvillain Val Marnay",
-      "address": "A5 - Aire de Châteauvillain-Val Marnay None, 52120 Châteauvillain, FR",
-      "gps": {
-        "lat": 48.057341,
-        "lon": 4.959604
-      },
-      "stalls": 6,
-      "maxPowerKw": 150,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,30/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,34/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,30/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T21:06:11.306963",
-      "name": "Winsen (Luhe), Germany",
-      "address": "Scharmbecker Dorfstraße 2A, 21423 Winsen, DE",
-      "gps": {
-        "lat": 53.350053,
-        "lon": 10.14686
-      },
-      "stalls": 12,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "€0.43/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "€0.60/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T21:33:47.460116",
-      "name": "Aix-en-Provence, France - Val de l'Arc",
-      "address": "Chemin des Infirmeries None, 13100 Aix-en-Provence, FR",
-      "gps": {
-        "lat": 43.511478,
-        "lon": 5.464867
-      },
-      "stalls": 12,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,17/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,17/kWh"
-            },
-            {
-              "label": "09:00 - 20:00",
-              "rate": "€ 0,40/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,27/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,24/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,24/kWh"
-            },
-            {
-              "label": "09:00 - 20:00",
-              "rate": "€ 0,56/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,38/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T22:00:45.948088",
-      "name": "Aire de Vidauban Sud, France",
-      "address": "Autoroute A8, Aire de Vidauban Sud None, 83550 Vidauban, FR",
-      "gps": {
-        "lat": 43.413832,
-        "lon": 6.451177
-      },
-      "stalls": 10,
-      "maxPowerKw": 150,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,30/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,30/kWh"
-            },
-            {
-              "label": "08:00 - 21:00",
-              "rate": "€ 0,34/kWh"
-            },
-            {
-              "label": "21:00 - 00:00",
-              "rate": "€ 0,30/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T22:27:44.793410",
-      "name": "Manosque, France",
-      "address": "Allée Nicéphore Niépce None, 04100 Manosque, FR",
-      "gps": {
-        "lat": 43.81886548,
-        "lon": 5.79689581
-      },
-      "stalls": 16,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,20/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,20/kWh"
-            },
-            {
-              "label": "09:00 - 20:00",
-              "rate": "€ 0,27/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,20/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,29/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,29/kWh"
-            },
-            {
-              "label": "09:00 - 20:00",
-              "rate": "€ 0,38/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,29/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T22:55:26.796494",
-      "name": "Reinfeld, Germany",
-      "address": "Im Weddern 1, 23858 Reinfeld, DE",
-      "gps": {
-        "lat": 53.823207,
-        "lon": 10.50407
-      },
-      "stalls": 12,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,46/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,50/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,46/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,64/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,70/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,64/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T23:22:40.063815",
-      "name": "Chauray, France",
-      "address": "Route de Paris None, 79180 Chauray, FR",
-      "gps": {
-        "lat": 46.340231,
-        "lon": -0.384126
-      },
-      "stalls": 8,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,26/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,26/kWh"
-            },
-            {
-              "label": "08:00 - 00:00",
-              "rate": "€ 0,32/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,37/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,37/kWh"
-            },
-            {
-              "label": "08:00 - 00:00",
-              "rate": "€ 0,44/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-12T23:50:59.091479",
-      "name": "Lully, Switzerland",
-      "address": "Restoroute 3, 1470 Lully, CH",
-      "gps": {
-        "lat": 46.83213,
-        "lon": 6.857356
-      },
-      "stalls": 10,
-      "maxPowerKw": 82,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "CHF 1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "CHF 0,34/kWh"
-            },
-            {
-              "label": "04:00 - 10:00",
-              "rate": "CHF 0,34/kWh"
-            },
-            {
-              "label": "10:00 - 22:00",
-              "rate": "CHF 0,50/kWh"
-            },
-            {
-              "label": "22:00 - 00:00",
-              "rate": "CHF 0,34/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "CHF 1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "CHF 0,48/kWh"
-            },
-            {
-              "label": "04:00 - 10:00",
-              "rate": "CHF 0,48/kWh"
-            },
-            {
-              "label": "10:00 - 22:00",
-              "rate": "CHF 0,70/kWh"
-            },
-            {
-              "label": "22:00 - 00:00",
-              "rate": "CHF 0,48/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-13T00:19:35.506209",
-      "name": "Megève, France",
-      "address": "Route de Sallanches 271, 74120 Megève, FR",
-      "gps": {
-        "lat": 45.87134613,
-        "lon": 6.63030654
-      },
-      "stalls": 8,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "€0.19/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "€0.27/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-13T00:46:32.024160",
-      "name": "Montélimar, France",
-      "address": "Route Nationale 7 None, 26270 Saulce-sur-Rhône, FR",
-      "gps": {
-        "lat": 44.676125,
-        "lon": 4.795673
-      },
-      "stalls": 56,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,30/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,35/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,30/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,42/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,49/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,42/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-13T01:13:08.532508",
-      "name": "Sisteron, France",
-      "address": "Allée des Tilleuls 1, 4200 Sisteron, FR",
-      "gps": {
-        "lat": 44.225837,
-        "lon": 5.912357
-      },
-      "stalls": 12,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,30/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,30/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,42/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,46/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,42/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-13T01:40:51.104973",
-      "name": "Wismar, Germany",
-      "address": "Querstraße 1, 23966 Wismar, DE",
-      "gps": {
-        "lat": 53.879349,
-        "lon": 11.454132
-      },
-      "stalls": 12,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "€0.43/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "€0.60/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-13T02:09:12.610524",
-      "name": "Langon, France",
-      "address": "Boulevard Pierre Lagorce None, 33210 Langon, FR",
-      "gps": {
-        "lat": 44.543278,
-        "lon": -0.25271
-      },
-      "stalls": 10,
-      "maxPowerKw": 150,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,26/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,26/kWh"
-            },
-            {
-              "label": "08:00 - 22:00",
-              "rate": "€ 0,31/kWh"
-            },
-            {
-              "label": "22:00 - 00:00",
-              "rate": "€ 0,26/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,37/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,37/kWh"
-            },
-            {
-              "label": "08:00 - 22:00",
-              "rate": "€ 0,43/kWh"
-            },
-            {
-              "label": "22:00 - 00:00",
-              "rate": "€ 0,37/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-13T02:36:21.639959",
-      "name": "Parndorf, Austria - Frunpark",
-      "address": "Shoppingstraße 1, 7111 Parndorf, AT",
-      "gps": {
-        "lat": 47.9792651,
-        "lon": 16.84395884
-      },
-      "stalls": 20,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "0-60 kW",
-              "rate": "€ 0,28/min"
-            },
-            {
-              "label": "60-100 kW",
-              "rate": "€ 0,57/min"
-            },
-            {
-              "label": "100-180 kW",
-              "rate": "€ 0,88/min"
-            },
-            {
-              "label": "180+ kW",
-              "rate": "€ 1,49/min"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "0-60 kW",
-              "rate": "€ 0,39/min"
-            },
-            {
-              "label": "60-100 kW",
-              "rate": "€ 0,80/min"
-            },
-            {
-              "label": "100-180 kW",
-              "rate": "€ 1,24/min"
-            },
-            {
-              "label": "180+ kW",
-              "rate": "€ 2,09/min"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-13T03:03:45.898124",
-      "name": "Wildau, Germany",
-      "address": "Chausseestraße 1, 15745 Wildau, DE",
-      "gps": {
-        "lat": 52.31363,
-        "lon": 13.60493
-      },
-      "stalls": 8,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,37/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,37/kWh"
-            },
-            {
-              "label": "09:00 - 22:00",
-              "rate": "€ 0,43/kWh"
-            },
-            {
-              "label": "22:00 - 00:00",
-              "rate": "€ 0,37/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,53/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,53/kWh"
-            },
-            {
-              "label": "09:00 - 22:00",
-              "rate": "€ 0,60/kWh"
-            },
-            {
-              "label": "22:00 - 00:00",
-              "rate": "€ 0,53/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-13T03:30:41.893367",
-      "name": "Tinqueux, France",
-      "address": "Route de Soissons None, 51430 Tinqueux, FR",
-      "gps": {
-        "lat": 49.253048,
-        "lon": 3.976892
-      },
-      "stalls": 16,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,30/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,34/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,30/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,42/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,47/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,42/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-13T03:58:38.890160",
-      "name": "Aix-en-Provence, France",
-      "address": "Avenue Arc de Meyran None, 13100 Aix-en-Provence, FR",
-      "gps": {
-        "lat": 43.511775,
-        "lon": 5.456869
-      },
-      "stalls": 4,
-      "maxPowerKw": 130,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,15/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,15/kWh"
-            },
-            {
-              "label": "08:00 - 20:00",
-              "rate": "€ 0,36/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,29/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,21/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,21/kWh"
-            },
-            {
-              "label": "08:00 - 20:00",
-              "rate": "€ 0,50/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,41/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-13T04:26:55.123286",
-      "name": "St. Georgen, Austria",
-      "address": "Seeringstrasse 2, 4880 St. Georgen im Attergau, AT",
-      "gps": {
-        "lat": 47.929386,
-        "lon": 13.501235
-      },
-      "stalls": 16,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "0-60 kW",
-              "rate": "€ 0,28/min"
-            },
-            {
-              "label": "60-100 kW",
-              "rate": "€ 0,57/min"
-            },
-            {
-              "label": "100-180 kW",
-              "rate": "€ 0,88/min"
-            },
-            {
-              "label": "180+ kW",
-              "rate": "€ 1,49/min"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "0-60 kW",
-              "rate": "€ 0,39/min"
-            },
-            {
-              "label": "60-100 kW",
-              "rate": "€ 0,80/min"
-            },
-            {
-              "label": "100-180 kW",
-              "rate": "€ 1,24/min"
-            },
-            {
-              "label": "180+ kW",
-              "rate": "€ 2,09/min"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-13T04:54:29.796426",
-      "name": "Les Pennes-Mirabeau, France",
-      "address": "Allée de la Broquette 55, 13170 Les Pennes-Mirabeau, FR",
-      "gps": {
-        "lat": 43.414915,
-        "lon": 5.275134
-      },
-      "stalls": 24,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,16/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,16/kWh"
-            },
-            {
-              "label": "09:00 - 20:00",
-              "rate": "€ 0,37/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,27/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,23/kWh"
-            },
-            {
-              "label": "09:00 - 20:00",
-              "rate": "€ 0,51/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,38/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-13T05:21:43.586384",
-      "name": "Niederndorf, Austria",
-      "address": "Audorfer Str. 40, 6342 Niederndorf, AT",
-      "gps": {
-        "lat": 47.649185,
-        "lon": 12.197224
-      },
-      "stalls": 15,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "0-60 kW",
-              "rate": "€ 0,28/min"
-            },
-            {
-              "label": "60-100 kW",
-              "rate": "€ 0,57/min"
-            },
-            {
-              "label": "100-180 kW",
-              "rate": "€ 0,88/min"
-            },
-            {
-              "label": "180+ kW",
-              "rate": "€ 1,49/min"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "0-60 kW",
-              "rate": "€ 0,39/min"
-            },
-            {
-              "label": "60-100 kW",
-              "rate": "€ 0,80/min"
-            },
-            {
-              "label": "100-180 kW",
-              "rate": "€ 1,24/min"
-            },
-            {
-              "label": "180+ kW",
-              "rate": "€ 2,09/min"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-13T05:49:11.033934",
-      "name": "Saint-Pierre-d'Irube, France",
-      "address": "Avenue du Portou 2-4, 64100 Saint-Pierre-d'Irube, FR",
-      "gps": {
-        "lat": 43.481932,
-        "lon": -1.445779
-      },
-      "stalls": 20,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,20/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,20/kWh"
-            },
-            {
-              "label": "09:00 - 20:00",
-              "rate": "€ 0,25/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,20/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,29/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,29/kWh"
-            },
-            {
-              "label": "09:00 - 20:00",
-              "rate": "€ 0,35/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,29/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-13T06:15:46.332339",
-      "name": "Périgueux, France",
-      "address": "ZA Grand Font None, 24330 Boulazac Isle Manoire, FR",
-      "gps": {
-        "lat": 45.152098,
-        "lon": 0.790084
-      },
-      "stalls": 8,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,30/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,33/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,30/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,42/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,46/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,42/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-13T07:04:06.434617",
-      "name": "Monte Ceneri, Switzerland",
-      "address": "via Monte Ceneri 8, 6802 Rivera, CH",
-      "gps": {
-        "lat": 46.139014,
-        "lon": 8.907423
-      },
-      "stalls": 6,
-      "maxPowerKw": 125,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "CHF 1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "CHF 0,40/kWh"
-            },
-            {
-              "label": "04:00 - 10:00",
-              "rate": "CHF 0,40/kWh"
-            },
-            {
-              "label": "10:00 - 20:00",
-              "rate": "CHF 0,46/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "CHF 0,40/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "CHF 1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "CHF 0,56/kWh"
-            },
-            {
-              "label": "04:00 - 10:00",
-              "rate": "CHF 0,56/kWh"
-            },
-            {
-              "label": "10:00 - 20:00",
-              "rate": "CHF 0,65/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "CHF 0,56/kWh"
-            }
-          ]
-        }
-      ]
-    },
     {
       "filedate": "2025-08-13T07:31:32.878594",
       "name": "Biguglia, France",
@@ -68493,9 +65470,6 @@
       ]
     },
     {
-      "filedate": "2025-09-11T07:00:01.594452"
-    },
-    {
       "filedate": "2025-09-11T07:00:09.844845",
       "name": "Le Mans, France",
       "address": "ZAC du Moulin aux Moines, Route d'Alencon None, 72650 La Chapelle St Aubin, FR",
@@ -69476,157 +66450,1439 @@
       ]
     },
     {
-      "filedate": "2025-09-11T07:03:12.271642"
+      "filedate": "2025-09-11T23:54:24.209821",
+      "name": "Hartberg, Austria",
+      "address": "Im Hatric 12, 8230 Hartberg, AT",
+      "gps": {
+        "lat": 47.281709,
+        "lon": 15.99346
+      },
+      "stalls": 7,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "0-60 kW",
+              "rate": "€ 0,29/min"
+            },
+            {
+              "label": "60-100 kW",
+              "rate": "€ 0,57/min"
+            },
+            {
+              "label": "100-180 kW",
+              "rate": "€ 0,89/min"
+            },
+            {
+              "label": "180+ kW",
+              "rate": "€ 1,50/min"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "0-60 kW",
+              "rate": "€ 0,40/min"
+            },
+            {
+              "label": "60-100 kW",
+              "rate": "€ 0,80/min"
+            },
+            {
+              "label": "100-180 kW",
+              "rate": "€ 1,25/min"
+            },
+            {
+              "label": "180+ kW",
+              "rate": "€ 2,10/min"
+            }
+          ]
+        }
+      ]
     },
     {
-      "filedate": "2025-09-11T07:03:24.403142"
+      "filedate": "2025-09-11T23:54:34.902896",
+      "name": "Reinfeld, Germany",
+      "address": "Im Weddern 1, 23858 Reinfeld, DE",
+      "gps": {
+        "lat": 53.823207,
+        "lon": 10.50407
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,44/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,48/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,44/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,62/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,68/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,62/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
-      "filedate": "2025-09-11T07:03:36.614859"
+      "filedate": "2025-09-11T23:54:42.985319",
+      "name": "Englos, France",
+      "address": "Route Nationale 352, 59320 Haubourdin, FR",
+      "gps": {
+        "lat": 50.629871,
+        "lon": 2.970873
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,20/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,20/kWh"
+            },
+            {
+              "label": "09:00 - 21:00",
+              "rate": "€ 0,31/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "€ 0,20/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "09:00 - 21:00",
+              "rate": "€ 0,43/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
-      "filedate": "2025-09-11T07:03:48.778905"
+      "filedate": "2025-09-11T23:54:51.335109",
+      "name": "Zweibrücken, Germany",
+      "address": "Londoner Bogen 10-90, 66482 Zweibrücken, DE",
+      "gps": {
+        "lat": 49.230727,
+        "lon": 7.40817
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,38/kWh"
+            },
+            {
+              "label": "04:00 - 22:00",
+              "rate": "€ 0,44/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,38/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,54/kWh"
+            },
+            {
+              "label": "04:00 - 22:00",
+              "rate": "€ 0,61/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,54/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
-      "filedate": "2025-09-11T07:04:00.975404"
+      "filedate": "2025-09-12T07:00:01.987045"
     },
     {
-      "filedate": "2025-09-11T07:04:13.156451"
+      "filedate": "2025-09-12T07:00:10.198073",
+      "name": "Les Pennes-Mirabeau, France",
+      "address": "Allée de la Broquette 55, 13170 Les Pennes-Mirabeau, FR",
+      "gps": {
+        "lat": 43.414915,
+        "lon": 5.275134
+      },
+      "stalls": 24,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,17/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,17/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "€ 0,36/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,26/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,24/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,24/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "€ 0,50/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,37/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
-      "filedate": "2025-09-11T07:04:25.367662"
+      "filedate": "2025-09-12T07:00:22.825130",
+      "name": "Wildau, Germany",
+      "address": "Chausseestraße 1, 15745 Wildau, DE",
+      "gps": {
+        "lat": 52.31363,
+        "lon": 13.60493
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,32/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,32/kWh"
+            },
+            {
+              "label": "09:00 - 22:00",
+              "rate": "€ 0,44/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,32/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,45/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,45/kWh"
+            },
+            {
+              "label": "09:00 - 22:00",
+              "rate": "€ 0,62/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,45/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
-      "filedate": "2025-09-11T07:04:37.615593"
+      "filedate": "2025-09-12T07:00:32.041593",
+      "name": "Winsen (Luhe), Germany",
+      "address": "Scharmbecker Dorfstraße 2A, 21423 Winsen, DE",
+      "gps": {
+        "lat": 53.350053,
+        "lon": 10.14686
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.44/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.61/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
-      "filedate": "2025-09-11T07:04:49.812589"
+      "filedate": "2025-09-12T07:00:41.051805",
+      "name": "Neuchâtel, Switzerland",
+      "address": "Av. des Champs-Montants 2, 2074 Neuchâtel, CH",
+      "gps": {
+        "lat": 47.011918,
+        "lon": 6.99668
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "CHF 0.42/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "CHF 0.59/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
-      "filedate": "2025-09-11T07:05:02.025666"
+      "filedate": "2025-09-12T07:00:49.246918",
+      "name": "Aurillac, France",
+      "address": "Avenue Charles-de-Gaulle 87, 15000 Aurillac, FR",
+      "gps": {
+        "lat": 44.908948,
+        "lon": 2.425638
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.20/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.27/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
-      "filedate": "2025-09-11T07:05:14.224128"
+      "filedate": "2025-09-12T07:00:59.564275",
+      "name": "Manosque, France",
+      "address": "Allée Nicéphore Niépce None, 04100 Manosque, FR",
+      "gps": {
+        "lat": 43.81886548,
+        "lon": 5.79689581
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,18/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,18/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,18/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,25/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,25/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,25/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
-      "filedate": "2025-09-11T07:05:26.402935"
+      "filedate": "2025-09-12T07:01:08.543113",
+      "name": "Varneville-Bretteville, France",
+      "address": "Vallée Carburants None, 76890 Varneville-Bretteville, FR",
+      "gps": {
+        "lat": 49.645036,
+        "lon": 1.046589
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,22/kWh"
+            },
+            {
+              "label": "04:00 - 21:00",
+              "rate": "€ 0,25/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "€ 0,22/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,31/kWh"
+            },
+            {
+              "label": "04:00 - 21:00",
+              "rate": "€ 0,35/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "€ 0,31/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
-      "filedate": "2025-09-11T07:05:38.566557"
+      "filedate": "2025-09-12T07:01:16.196780",
+      "name": "Magnant, France",
+      "address": "D443 5CJM+9R, 10110 Magnant, FR",
+      "gps": {
+        "lat": 48.1807546,
+        "lon": 4.4357279
+      },
+      "stalls": 56,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,34/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,48/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
-      "filedate": "2025-09-11T07:05:50.695300"
+      "filedate": "2025-09-12T07:01:24.258531",
+      "name": "Le Touquet, France",
+      "address": "Avenue de l'Hippodrome None, 62520 Le Touquet-Paris-Plage, FR",
+      "gps": {
+        "lat": 50.521625,
+        "lon": 1.598625
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,25/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "€ 0,25/kWh"
+            },
+            {
+              "label": "10:00 - 20:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,25/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,35/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "€ 0,35/kWh"
+            },
+            {
+              "label": "10:00 - 20:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,35/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
-      "filedate": "2025-09-11T07:06:02.810509"
+      "filedate": "2025-09-12T07:01:33.041897",
+      "name": "Bern, Switzerland - Westside",
+      "address": "Riedbachstrasse 104, 3027 Bern, CH",
+      "gps": {
+        "lat": 46.943446,
+        "lon": 7.37062
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,30/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "CHF 0,30/kWh"
+            },
+            {
+              "label": "08:00 - 00:00",
+              "rate": "CHF 0,54/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "CHF 1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "CHF 0,42/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "CHF 0,42/kWh"
+            },
+            {
+              "label": "08:00 - 00:00",
+              "rate": "CHF 0,76/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
-      "filedate": "2025-09-11T07:06:15.005191"
+      "filedate": "2025-09-12T07:01:43.628760",
+      "name": "Saint-Pierre-d'Irube, France",
+      "address": "Avenue du Portou 2-4, 64100 Saint-Pierre-d'Irube, FR",
+      "gps": {
+        "lat": 43.481932,
+        "lon": -1.445779
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,18/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,18/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,18/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,25/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,25/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,25/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
-      "filedate": "2025-09-11T07:06:27.154045"
+      "filedate": "2025-09-12T07:01:54.647623",
+      "name": "Saint-Dié-des-Vosges, France",
+      "address": "Zac D'Hellieule II 16 Rue Emile Durkheim, 88100 Saint-Dié-des-Vosges, FR",
+      "gps": {
+        "lat": 48.29337153,
+        "lon": 6.93653259
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,32/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,37/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,32/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,44/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,51/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,44/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
-      "filedate": "2025-09-11T07:06:39.300005"
+      "filedate": "2025-09-12T07:02:08.463339",
+      "name": "Bourg-de-Péage, France",
+      "address": "Bd Alpes Provence None, 26300 Bourg-de-Péage, FR",
+      "gps": {
+        "lat": 45.033274,
+        "lon": 5.051818
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.26/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.36/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
-      "filedate": "2025-09-11T07:06:51.480169"
+      "filedate": "2025-09-12T07:02:16.855125",
+      "name": "Wels, Austria",
+      "address": "Salzburger Str. 223, 4600 Wels, AT",
+      "gps": {
+        "lat": 48.145939,
+        "lon": 13.975097
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "0-60 kW",
+              "rate": "€ 0,28/min"
+            },
+            {
+              "label": "60-100 kW",
+              "rate": "€ 0,57/min"
+            },
+            {
+              "label": "100-180 kW",
+              "rate": "€ 0,89/min"
+            },
+            {
+              "label": "180+ kW",
+              "rate": "€ 1,50/min"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "0-60 kW",
+              "rate": "€ 0,40/min"
+            },
+            {
+              "label": "60-100 kW",
+              "rate": "€ 0,80/min"
+            },
+            {
+              "label": "100-180 kW",
+              "rate": "€ 1,25/min"
+            },
+            {
+              "label": "180+ kW",
+              "rate": "€ 2,09/min"
+            }
+          ]
+        }
+      ]
     },
     {
-      "filedate": "2025-09-11T07:07:03.692875"
+      "filedate": "2025-09-12T07:02:25.005419",
+      "name": "Wien, Austria",
+      "address": "Hackinger Straße 20, 1140 Vienna, AT",
+      "gps": {
+        "lat": 48.193088,
+        "lon": 16.277066
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "0-60 kW",
+              "rate": "€ 0,29/min"
+            },
+            {
+              "label": "60-100 kW",
+              "rate": "€ 0,57/min"
+            },
+            {
+              "label": "100-180 kW",
+              "rate": "€ 0,89/min"
+            },
+            {
+              "label": "180+ kW",
+              "rate": "€ 1,50/min"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "0-60 kW",
+              "rate": "€ 0,40/min"
+            },
+            {
+              "label": "60-100 kW",
+              "rate": "€ 0,80/min"
+            },
+            {
+              "label": "100-180 kW",
+              "rate": "€ 1,25/min"
+            },
+            {
+              "label": "180+ kW",
+              "rate": "€ 2,10/min"
+            }
+          ]
+        }
+      ]
     },
     {
-      "filedate": "2025-09-11T07:07:15.889915"
+      "filedate": "2025-09-12T07:02:33.806152",
+      "name": "Auch, France",
+      "address": "Rue Francois Mauriac 1248, 32000 Auch, FR",
+      "gps": {
+        "lat": 43.66446075,
+        "lon": 0.59093379
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.24/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.33/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
-      "filedate": "2025-09-11T07:07:28.120611"
+      "filedate": "2025-09-12T07:02:44.133600",
+      "name": "Saint-André-de-Cubzac, France",
+      "address": "Av. de l'Europe 1040, 33240 Saint-André-de-Cubzac, FR",
+      "gps": {
+        "lat": 45.011961,
+        "lon": -0.425018
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,32/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,36/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,32/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,44/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,50/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,44/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
-      "filedate": "2025-09-11T07:07:40.315250"
+      "filedate": "2025-09-12T07:02:53.612882",
+      "name": "Chauray, France",
+      "address": "Route de Paris None, 79180 Chauray, FR",
+      "gps": {
+        "lat": 46.340231,
+        "lon": -0.384126
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,27/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,27/kWh"
+            },
+            {
+              "label": "08:00 - 00:00",
+              "rate": "€ 0,34/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,38/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,38/kWh"
+            },
+            {
+              "label": "08:00 - 00:00",
+              "rate": "€ 0,47/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
-      "filedate": "2025-09-11T07:07:52.529605"
+      "filedate": "2025-09-12T07:03:02.690359",
+      "name": "Aime-la-Plagne, France",
+      "address": "Rue Val Plagne None, 73210 Aime-la-Plagne, FR",
+      "gps": {
+        "lat": 45.553106,
+        "lon": 6.645588
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,32/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,35/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,32/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,44/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,49/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,44/kWh"
+            }
+          ]
+        }
+      ]
     },
     {
-      "filedate": "2025-09-11T07:08:04.693324"
+      "filedate": "2025-09-12T07:03:14.855082"
     },
     {
-      "filedate": "2025-09-11T07:08:16.908028"
+      "filedate": "2025-09-12T07:03:27.084992"
     },
     {
-      "filedate": "2025-09-11T07:08:29.104260"
+      "filedate": "2025-09-12T07:03:39.264015"
     },
     {
-      "filedate": "2025-09-11T07:08:41.248860"
+      "filedate": "2025-09-12T07:03:51.412638"
     },
     {
-      "filedate": "2025-09-11T07:08:53.412119"
+      "filedate": "2025-09-12T07:04:03.593047"
     },
     {
-      "filedate": "2025-09-11T07:09:05.542286"
+      "filedate": "2025-09-12T07:04:15.821890"
     },
     {
-      "filedate": "2025-09-11T07:09:17.688995"
+      "filedate": "2025-09-12T07:04:28.001190"
     },
     {
-      "filedate": "2025-09-11T07:09:29.820190"
+      "filedate": "2025-09-12T07:04:40.164371"
     },
     {
-      "filedate": "2025-09-11T07:09:41.951552"
+      "filedate": "2025-09-12T07:04:52.295160"
     },
     {
-      "filedate": "2025-09-11T07:09:54.115182"
+      "filedate": "2025-09-12T07:05:04.442851"
     },
     {
-      "filedate": "2025-09-11T07:10:06.244516"
+      "filedate": "2025-09-12T07:05:16.605595"
     },
     {
-      "filedate": "2025-09-11T07:10:18.341465"
+      "filedate": "2025-09-12T07:05:28.751690"
     },
     {
-      "filedate": "2025-09-11T07:10:30.471625"
+      "filedate": "2025-09-12T07:05:40.915960"
     },
     {
-      "filedate": "2025-09-11T07:10:42.600510"
+      "filedate": "2025-09-12T07:05:53.112285"
     },
     {
-      "filedate": "2025-09-11T07:10:54.730696"
+      "filedate": "2025-09-12T07:06:05.293344"
     },
     {
-      "filedate": "2025-09-11T07:11:06.845911"
+      "filedate": "2025-09-12T07:06:17.422769"
     },
     {
-      "filedate": "2025-09-11T07:11:18.975120"
+      "filedate": "2025-09-12T07:06:29.569424"
     },
     {
-      "filedate": "2025-09-11T07:11:31.121255"
+      "filedate": "2025-09-12T07:06:41.767614"
     },
     {
-      "filedate": "2025-09-11T07:11:43.285699"
+      "filedate": "2025-09-12T07:06:53.895925"
     },
     {
-      "filedate": "2025-09-11T07:11:55.464456"
+      "filedate": "2025-09-12T07:07:06.042940"
     },
     {
-      "filedate": "2025-09-11T07:12:07.644416"
+      "filedate": "2025-09-12T07:07:18.205185"
     },
     {
-      "filedate": "2025-09-11T07:12:19.791082"
+      "filedate": "2025-09-12T07:07:30.351765"
     },
     {
-      "filedate": "2025-09-11T07:12:31.954718"
+      "filedate": "2025-09-12T07:07:42.600462"
     },
     {
-      "filedate": "2025-09-11T07:12:44.119131"
+      "filedate": "2025-09-12T07:07:54.745429"
     },
     {
-      "filedate": "2025-09-11T07:12:56.248559"
+      "filedate": "2025-09-12T07:08:06.876245"
     },
     {
-      "filedate": "2025-09-11T07:13:08.411277"
+      "filedate": "2025-09-12T07:08:19.037821"
     },
     {
-      "filedate": "2025-09-11T07:13:20.676527"
+      "filedate": "2025-09-12T07:08:31.186694"
+    },
+    {
+      "filedate": "2025-09-12T07:08:43.349837"
+    },
+    {
+      "filedate": "2025-09-12T07:08:55.578784"
+    },
+    {
+      "filedate": "2025-09-12T07:09:07.775992"
+    },
+    {
+      "filedate": "2025-09-12T07:09:19.889987"
+    },
+    {
+      "filedate": "2025-09-12T07:09:32.054632"
+    },
+    {
+      "filedate": "2025-09-12T07:09:44.215969"
+    },
+    {
+      "filedate": "2025-09-12T07:09:56.412664"
+    },
+    {
+      "filedate": "2025-09-12T07:10:08.594857"
+    },
+    {
+      "filedate": "2025-09-12T07:10:20.822993"
+    },
+    {
+      "filedate": "2025-09-12T07:10:33.054017"
+    },
+    {
+      "filedate": "2025-09-12T07:10:45.250448"
+    },
+    {
+      "filedate": "2025-09-12T07:10:57.445345"
+    },
+    {
+      "filedate": "2025-09-12T07:11:09.611882"
+    },
+    {
+      "filedate": "2025-09-12T07:11:21.774027"
+    },
+    {
+      "filedate": "2025-09-12T07:11:33.903789"
+    },
+    {
+      "filedate": "2025-09-12T07:11:46.052041"
+    },
+    {
+      "filedate": "2025-09-12T07:11:58.163924"
+    },
+    {
+      "filedate": "2025-09-12T07:12:10.310654"
+    },
+    {
+      "filedate": "2025-09-12T07:12:22.589631"
+    },
+    {
+      "filedate": "2025-09-12T07:12:34.753933"
+    },
+    {
+      "filedate": "2025-09-12T07:12:46.918094"
+    },
+    {
+      "filedate": "2025-09-12T07:12:59.130291"
+    },
+    {
+      "filedate": "2025-09-12T07:13:11.294657"
+    },
+    {
+      "filedate": "2025-09-12T07:13:23.473448"
+    },
+    {
+      "filedate": "2025-09-12T07:13:35.719138"
+    },
+    {
+      "filedate": "2025-09-12T07:13:47.884487"
+    },
+    {
+      "filedate": "2025-09-12T07:14:00.031646"
+    },
+    {
+      "filedate": "2025-09-12T07:14:12.193373"
+    },
+    {
+      "filedate": "2025-09-12T07:14:24.408320"
+    },
+    {
+      "filedate": "2025-09-12T07:14:36.572824"
+    },
+    {
+      "filedate": "2025-09-12T07:14:48.751619"
+    },
+    {
+      "filedate": "2025-09-12T07:15:00.899253"
+    },
+    {
+      "filedate": "2025-09-12T07:15:13.094484"
+    },
+    {
+      "filedate": "2025-09-12T07:15:25.224838"
+    },
+    {
+      "filedate": "2025-09-12T07:15:37.340830"
+    },
+    {
+      "filedate": "2025-09-12T07:15:49.554179"
+    },
+    {
+      "filedate": "2025-09-12T07:16:01.849825"
+    },
+    {
+      "filedate": "2025-09-12T07:16:14.094447"
+    },
+    {
+      "filedate": "2025-09-12T07:16:26.242049"
+    },
+    {
+      "filedate": "2025-09-12T07:16:38.438792"
+    },
+    {
+      "filedate": "2025-09-12T07:16:50.617872"
+    },
+    {
+      "filedate": "2025-09-12T07:17:02.797530"
+    },
+    {
+      "filedate": "2025-09-12T07:17:14.930357"
+    },
+    {
+      "filedate": "2025-09-12T07:17:27.075431"
+    },
+    {
+      "filedate": "2025-09-12T07:17:39.205222"
+    },
+    {
+      "filedate": "2025-09-12T07:17:51.352551"
+    },
+    {
+      "filedate": "2025-09-12T07:18:03.582628"
+    },
+    {
+      "filedate": "2025-09-12T07:18:15.745884"
+    },
+    {
+      "filedate": "2025-09-12T07:18:27.876232"
+    },
+    {
+      "filedate": "2025-09-12T07:18:40.055120"
+    },
+    {
+      "filedate": "2025-09-12T07:18:52.318584"
+    },
+    {
+      "filedate": "2025-09-12T07:19:04.465396"
+    },
+    {
+      "filedate": "2025-09-12T07:19:16.645147"
+    },
+    {
+      "filedate": "2025-09-12T07:19:28.792909"
+    },
+    {
+      "filedate": "2025-09-12T07:19:40.906500"
+    },
+    {
+      "filedate": "2025-09-12T07:19:53.037169"
+    },
+    {
+      "filedate": "2025-09-12T07:20:05.183592"
+    },
+    {
+      "filedate": "2025-09-12T07:20:17.328778"
+    },
+    {
+      "filedate": "2025-09-12T07:20:29.543530"
+    },
+    {
+      "filedate": "2025-09-12T07:20:41.673434"
+    },
+    {
+      "filedate": "2025-09-12T07:20:53.820265"
+    },
+    {
+      "filedate": "2025-09-12T07:21:05.965471"
     }
   ]
 }
