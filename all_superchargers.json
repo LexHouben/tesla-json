@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2025-09-23T11:07:20.899616",
+    "jsonfiledate": "2025-09-23T16:08:43.103410",
     "chargerCount": 1514,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -7066,41 +7066,6 @@
             {
               "label": "Base Rate",
               "rate": "£0.37/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-24T07:38:43.275154",
-      "name": "Södertälje, Sweden",
-      "address": "Genetaleden 9, 151 59 Södertälje, SE",
-      "gps": {
-        "lat": 59.18721,
-        "lon": 17.581131
-      },
-      "stalls": 20,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "SEK 10.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "SEK 2.80/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "SEK 10.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "SEK 4.00/kWh"
             }
           ]
         }
@@ -72011,6 +71976,41 @@
             {
               "label": "20:00 - 00:00",
               "rate": "SEK 5,60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-23T16:05:26.666798",
+      "name": "Södertälje, Sweden",
+      "address": "Genetaleden 9, 151 59 Södertälje, SE",
+      "gps": {
+        "lat": 59.18721,
+        "lon": 17.581131
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "SEK 3.00/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "SEK 4.20/kWh"
             }
           ]
         }
