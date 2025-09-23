@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2025-09-23T08:05:27.264473",
+    "jsonfiledate": "2025-09-23T11:07:20.899616",
     "chargerCount": 1514,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -71966,7 +71966,7 @@
       ]
     },
     {
-      "filedate": "2025-09-23T07:08:45.965816",
+      "filedate": "2025-09-23T11:03:49.018166",
       "name": "Oskarshamn, Sweden",
       "address": "Hyvelgatan 10, 572 36 Oskarshamn, SE",
       "gps": {
