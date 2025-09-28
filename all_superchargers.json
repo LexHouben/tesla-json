@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2025-09-28T19:15:35.135224",
+    "jsonfiledate": "2025-09-28T19:22:50.572368",
     "chargerCount": 1514,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -71176,65 +71176,6 @@
       ]
     },
     {
-      "filedate": "2025-09-27T17:18:45.525462",
-      "name": "Modena, Italy",
-      "address": "Strada Vignolese 1684, 41126 Modena, IT",
-      "gps": {
-        "lat": 44.574725,
-        "lon": 10.982353
-      },
-      "stalls": 12,
-      "maxPowerKw": 150,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,32/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,39/kWh"
-            },
-            {
-              "label": "08:00 - 23:00",
-              "rate": "€ 0,44/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,32/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,44/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,55/kWh"
-            },
-            {
-              "label": "08:00 - 23:00",
-              "rate": "€ 0,62/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,44/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "filedate": "2025-09-28T07:01:39.361230",
       "name": "Malung, Sweden",
       "address": "Lisaringen None, 78231 Malung, SE",
@@ -72163,6 +72104,65 @@
             {
               "label": "09:00 - 00:00",
               "rate": "£ 0,52/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-28T19:19:48.961885",
+      "name": "Modena, Italy",
+      "address": "Strada Vignolese 1684, 41126 Modena, IT",
+      "gps": {
+        "lat": 44.574725,
+        "lon": 10.982353
+      },
+      "stalls": 12,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,32/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,39/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,44/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,32/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,44/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,55/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,62/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,44/kWh"
             }
           ]
         }
