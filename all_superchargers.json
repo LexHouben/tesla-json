@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2025-09-29T08:05:22.772733",
+    "jsonfiledate": "2025-09-30T08:05:26.674287",
     "chargerCount": 1514,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -447,30 +447,6 @@
       ]
     },
     {
-      "filedate": "2025-08-20T08:07:32.297200",
-      "name": "Aire de Manissieux, France",
-      "address": "A43 - Aire de Manissieux None, 69800 Saint-Priest, FR",
-      "gps": {
-        "lat": 45.69848,
-        "lon": 4.977541
-      },
-      "stalls": 6,
-      "maxPowerKw": 150,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "€0.24/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "filedate": "2025-08-20T10:20:25.741356",
       "name": "Occhiobello, Italy",
       "address": "Via Eridania 36, 45030 Occhiobello, IT",
@@ -658,57 +634,6 @@
             {
               "label": "22:00 - 00:00",
               "rate": "£ 0,26/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-20T16:19:33.652928",
-      "name": "Aosta, Italy - A5 dir. Torino",
-      "address": "Localita Autoporto 33, 11020 Pollein, IT",
-      "gps": {
-        "lat": 45.73745,
-        "lon": 7.371416
-      },
-      "stalls": 4,
-      "maxPowerKw": 150,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,47/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,52/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,47/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,66/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,73/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,66/kWh"
             }
           ]
         }
@@ -1046,114 +971,12 @@
       ]
     },
     {
-      "filedate": "2025-08-21T19:14:12.970934",
-      "name": "Newport Pagnell, UK - Northbound",
-      "address": "M1 14/15, MK16 8DS Newport Pagnell, GB",
-      "gps": {
-        "lat": 52.082281,
-        "lon": -0.747408
-      },
-      "stalls": 12,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "£1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "£ 0,32/kWh"
-            },
-            {
-              "label": "04:00 - 22:00",
-              "rate": "£ 0,37/kWh"
-            },
-            {
-              "label": "22:00 - 00:00",
-              "rate": "£ 0,32/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "filedate": "2025-08-21T21:28:47.457146",
       "name": "(EV OTM) - Barnstaple, UK",
       "address": "Roundswell Roundabout None, EX31 Barnstaple, GB",
       "gps": {
         "lat": 51.061753,
         "lon": -4.081036
-      },
-      "stalls": 8,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "£0.69/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "£0.69/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-21T22:57:33.901611",
-      "name": "(EV OTM) - Calder Park, UK",
-      "address": "CALDER CLOSE 17, WF2 7UA WAKEFIELD, GB",
-      "gps": {
-        "lat": 53.65214672,
-        "lon": -1.5235566
-      },
-      "stalls": 10,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "£0.69/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "£0.69/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-22T01:10:19.865462",
-      "name": "(EV OTM) - Colne, UK",
-      "address": "Whitewalls Dr Silk Way Business Park, BB8 9FJ Colne, GB",
-      "gps": {
-        "lat": 53.8537927,
-        "lon": -2.1919601
       },
       "stalls": 8,
       "maxPowerKw": 250,
@@ -1452,92 +1275,6 @@
       ]
     },
     {
-      "filedate": "2025-08-22T14:08:50.696293",
-      "name": "(EV OTM) - Larkhill, UK",
-      "address": "Queens Dr 203, L13 0AR Liverpool, GB",
-      "gps": {
-        "lat": 53.428922,
-        "lon": -2.9203608
-      },
-      "stalls": 4,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "£0.65/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "£0.65/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-22T14:32:46.397824",
-      "name": "Liphook, UK",
-      "address": "Griggs Green None, GU30 7PE Liphook, GB",
-      "gps": {
-        "lat": 51.076435,
-        "lon": -0.831497
-      },
-      "stalls": 8,
-      "maxPowerKw": 150,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "£1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "£ 0,26/kWh"
-            },
-            {
-              "label": "04:00 - 22:00",
-              "rate": "£ 0,37/kWh"
-            },
-            {
-              "label": "22:00 - 00:00",
-              "rate": "£ 0,26/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": "£1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "£ 0,36/kWh"
-            },
-            {
-              "label": "04:00 - 22:00",
-              "rate": "£ 0,52/kWh"
-            },
-            {
-              "label": "22:00 - 00:00",
-              "rate": "£ 0,36/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "filedate": "2025-08-22T16:02:31.215307",
       "name": "Asten, Austria",
       "address": "Handelsring 8-10, 4481 Asten, AT",
@@ -1674,30 +1411,6 @@
             {
               "label": "Base Rate",
               "rate": "£0.37/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-22T22:23:09.487987",
-      "name": "Dorno EST, Italy",
-      "address": "A7 Milano - Genova km 33, 27020 Dorno, IT",
-      "gps": {
-        "lat": 45.146666,
-        "lon": 8.990818
-      },
-      "stalls": 6,
-      "maxPowerKw": 150,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "€1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "€0.46/kWh"
             }
           ]
         }
@@ -3268,30 +2981,6 @@
             {
               "label": "20:00 - 00:00",
               "rate": "SEK 5,30/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-08-30T00:03:03.646936",
-      "name": "Rotherham, UK",
-      "address": "Orchard Road None, S60 4EQ Rotherham, GB",
-      "gps": {
-        "lat": 53.399421,
-        "lon": -1.350947
-      },
-      "stalls": 20,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": "£1.00/min",
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "Base Rate",
-              "rate": "£0.37/kWh"
             }
           ]
         }
@@ -72179,6 +71868,333 @@
             {
               "label": "20:00 - 00:00",
               "rate": "£ 0,49/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-29T17:01:30.455798",
+      "name": "Rotherham, UK",
+      "address": "Orchard Road None, S60 4EQ Rotherham, GB",
+      "gps": {
+        "lat": 53.399421,
+        "lon": -1.350947
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "£ 0,35/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "£ 0,35/kWh"
+            },
+            {
+              "label": "08:00 - 21:00",
+              "rate": "£ 0,39/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "£ 0,35/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-29T17:02:46.230973",
+      "name": "Aosta, Italy - A5 dir. Torino",
+      "address": "Localita Autoporto 33, 11020 Pollein, IT",
+      "gps": {
+        "lat": 45.73745,
+        "lon": 7.371416
+      },
+      "stalls": 4,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,46/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,51/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,46/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,65/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,71/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,65/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-29T17:04:30.974846",
+      "name": "(EV OTM) - Calder Park, UK",
+      "address": "CALDER CLOSE 17, WF2 7UA WAKEFIELD, GB",
+      "gps": {
+        "lat": 53.65214672,
+        "lon": -1.5235566
+      },
+      "stalls": 10,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "£0.69/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "£0.69/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-29T17:05:24.741522",
+      "name": "(EV OTM) - Larkhill, UK",
+      "address": "Queens Dr 203, L13 0AR Liverpool, GB",
+      "gps": {
+        "lat": 53.428922,
+        "lon": -2.9203608
+      },
+      "stalls": 4,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "£0.65/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "£0.65/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-29T17:07:46.854757",
+      "name": "Dorno EST, Italy",
+      "address": "A7 Milano - Genova km 33, 27020 Dorno, IT",
+      "gps": {
+        "lat": 45.146666,
+        "lon": 8.990818
+      },
+      "stalls": 6,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.46/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-29T17:08:17.050077",
+      "name": "Aire de Manissieux, France",
+      "address": "A43 - Aire de Manissieux None, 69800 Saint-Priest, FR",
+      "gps": {
+        "lat": 45.69848,
+        "lon": 4.977541
+      },
+      "stalls": 6,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "€0.25/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-29T17:10:20.013008",
+      "name": "(EV OTM) - Colne, UK",
+      "address": "Whitewalls Dr Silk Way Business Park, BB8 9FJ Colne, GB",
+      "gps": {
+        "lat": 53.8537927,
+        "lon": -2.1919601
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "£0.69/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "Base Rate",
+              "rate": "£0.69/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-29T17:11:58.641357",
+      "name": "Liphook, UK",
+      "address": "Griggs Green None, GU30 7PE Liphook, GB",
+      "gps": {
+        "lat": 51.076435,
+        "lon": -0.831497
+      },
+      "stalls": 8,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "£ 0,26/kWh"
+            },
+            {
+              "label": "04:00 - 22:00",
+              "rate": "£ 0,39/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "£ 0,26/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "£ 0,36/kWh"
+            },
+            {
+              "label": "04:00 - 22:00",
+              "rate": "£ 0,55/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "£ 0,36/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-09-29T17:15:10.717391",
+      "name": "Newport Pagnell, UK - Northbound",
+      "address": "M1 14/15, MK16 8DS Newport Pagnell, GB",
+      "gps": {
+        "lat": 52.082281,
+        "lon": -0.747408
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "£ 0,28/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "£ 0,34/kWh"
+            },
+            {
+              "label": "08:00 - 22:00",
+              "rate": "£ 0,39/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "£ 0,28/kWh"
             }
           ]
         }
