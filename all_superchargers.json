@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2025-09-30T08:05:26.674287",
+    "jsonfiledate": "2025-10-02T00:30:48.896979",
     "chargerCount": 1514,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -72165,7 +72165,7 @@
       ]
     },
     {
-      "filedate": "2025-09-29T17:15:10.717391",
+      "filedate": "2025-10-02T00:25:08.228037",
       "name": "Newport Pagnell, UK - Northbound",
       "address": "M1 14/15, MK16 8DS Newport Pagnell, GB",
       "gps": {
