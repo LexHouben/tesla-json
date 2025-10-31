@@ -1,12 +1,12 @@
 {
   "meta": {
-    "jsonfiledate": "2025-10-31T08:03:53.689434",
-    "chargerCount": 976,
+    "jsonfiledate": "2025-10-31T09:02:08.719260",
+    "chargerCount": 1007,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.2",
-    "successCount": 976,
-    "errorCount": 10
+    "successCount": 1007,
+    "errorCount": 0
   },
   "locations": [
     {
@@ -46977,6 +46977,203 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,47/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-10-31T08:02:47.338006",
+      "name": "Eikelandsosen, Norway",
+      "address": "Leiro 43, 5640 Eikelandsosen, NO",
+      "gps": {
+        "lat": 60.239288,
+        "lon": 5.749795
+      },
+      "stalls": 4,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "NOK 2,60/kWh"
+            },
+            {
+              "label": "04:00 - 13:00",
+              "rate": "NOK 2,60/kWh"
+            },
+            {
+              "label": "13:00 - 22:00",
+              "rate": "NOK 3,20/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "NOK 2,60/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "NOK 3,70/kWh"
+            },
+            {
+              "label": "04:00 - 13:00",
+              "rate": "NOK 3,70/kWh"
+            },
+            {
+              "label": "13:00 - 22:00",
+              "rate": "NOK 4,40/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "NOK 3,70/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-10-31T08:03:05.797246"
+    },
+    {
+      "filedate": "2025-10-31T08:03:24.210219"
+    },
+    {
+      "filedate": "2025-10-31T08:03:42.532441"
+    },
+    {
+      "filedate": "2025-10-31T08:04:00.313407"
+    },
+    {
+      "filedate": "2025-10-31T08:04:17.876962"
+    },
+    {
+      "filedate": "2025-10-31T08:04:35.712811"
+    },
+    {
+      "filedate": "2025-10-31T08:04:53.058645"
+    },
+    {
+      "filedate": "2025-10-31T08:05:11.149961"
+    },
+    {
+      "filedate": "2025-10-31T08:05:28.686154"
+    },
+    {
+      "filedate": "2025-10-31T08:05:47.019451"
+    },
+    {
+      "filedate": "2025-10-31T08:06:04.598842"
+    },
+    {
+      "filedate": "2025-10-31T08:06:23.076013"
+    },
+    {
+      "filedate": "2025-10-31T08:06:40.392669"
+    },
+    {
+      "filedate": "2025-10-31T08:06:57.710525"
+    },
+    {
+      "filedate": "2025-10-31T08:07:15.052735"
+    },
+    {
+      "filedate": "2025-10-31T08:07:33.382560"
+    },
+    {
+      "filedate": "2025-10-31T08:07:50.745334"
+    },
+    {
+      "filedate": "2025-10-31T08:08:08.880183"
+    },
+    {
+      "filedate": "2025-10-31T08:08:26.492669"
+    },
+    {
+      "filedate": "2025-10-31T08:08:44.104795"
+    },
+    {
+      "filedate": "2025-10-31T08:09:01.416277"
+    },
+    {
+      "filedate": "2025-10-31T08:09:19.830893"
+    },
+    {
+      "filedate": "2025-10-31T08:09:38.079625"
+    },
+    {
+      "filedate": "2025-10-31T08:09:55.656268"
+    },
+    {
+      "filedate": "2025-10-31T08:10:13.235446"
+    },
+    {
+      "filedate": "2025-10-31T08:10:31.658666"
+    },
+    {
+      "filedate": "2025-10-31T08:10:49.526914"
+    },
+    {
+      "filedate": "2025-10-31T08:11:06.872404"
+    },
+    {
+      "filedate": "2025-10-31T08:11:24.492936"
+    },
+    {
+      "filedate": "2025-10-31T08:58:26.005096",
+      "name": "Heusden-Zolder, Belgium",
+      "address": "Industrieweg 15, 3550 Heusden-Zolder, BE",
+      "gps": {
+        "lat": 50.993345,
+        "lon": 5.242127
+      },
+      "stalls": 14,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,22/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,22/kWh"
+            },
+            {
+              "label": "09:00 - 00:00",
+              "rate": "€ 0,44/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,31/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,31/kWh"
+            },
+            {
+              "label": "09:00 - 00:00",
+              "rate": "€ 0,62/kWh"
             }
           ]
         }
