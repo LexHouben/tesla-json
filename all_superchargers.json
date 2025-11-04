@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-11-04T08:05:54.901903",
-    "chargerCount": 1529,
+    "jsonfiledate": "2025-11-04T20:57:59.169407",
+    "chargerCount": 1528,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.2",
-    "successCount": 1529,
+    "successCount": 1528,
     "errorCount": 0
   },
   "locations": [
@@ -40,65 +40,6 @@
             {
               "label": "22:00 - 00:00",
               "rate": "£ 0,28/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-10-30T00:06:12.883411",
-      "name": "Maastricht, Netherlands",
-      "address": "Slakweg 5 5, 6228 NB Maastricht, NL",
-      "gps": {
-        "lat": 50.816049,
-        "lon": 5.725648
-      },
-      "stalls": 24,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,26/kWh"
-            },
-            {
-              "label": "04:00 - 10:00",
-              "rate": "€ 0,26/kWh"
-            },
-            {
-              "label": "10:00 - 20:00",
-              "rate": "€ 0,36/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,26/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,37/kWh"
-            },
-            {
-              "label": "04:00 - 10:00",
-              "rate": "€ 0,37/kWh"
-            },
-            {
-              "label": "10:00 - 20:00",
-              "rate": "€ 0,50/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,37/kWh"
             }
           ]
         }
@@ -69467,65 +69408,6 @@
       ]
     },
     {
-      "filedate": "2025-11-02T19:31:09.483436",
-      "name": "Maastricht, Netherlands",
-      "address": "Slakweg 5 5, 6228 NB Maastricht, NL",
-      "gps": {
-        "lat": 50.816049,
-        "lon": 5.725648
-      },
-      "stalls": 24,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,26/kWh"
-            },
-            {
-              "label": "04:00 - 10:00",
-              "rate": "€ 0,26/kWh"
-            },
-            {
-              "label": "10:00 - 20:00",
-              "rate": "€ 0,36/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,26/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,37/kWh"
-            },
-            {
-              "label": "04:00 - 10:00",
-              "rate": "€ 0,37/kWh"
-            },
-            {
-              "label": "10:00 - 20:00",
-              "rate": "€ 0,50/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,37/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "filedate": "2025-11-02T19:31:15.992498",
       "name": "Grandate, Italy",
       "address": "Via Leopardi 2, 22070 Grandate, IT",
@@ -73967,13 +73849,72 @@
       ]
     },
     {
-      "filedate": "2025-11-04T07:50:55.648678"
+      "filedate": "2025-11-04T20:49:50.572960"
     },
     {
-      "filedate": "2025-11-04T07:51:15.585764"
+      "filedate": "2025-11-04T20:50:13.169157"
     },
     {
-      "filedate": "2025-11-04T07:51:35.950963"
+      "filedate": "2025-11-04T20:50:34.152122"
+    },
+    {
+      "filedate": "2025-11-04T20:51:44.613492",
+      "name": "Maastricht, Netherlands",
+      "address": "Slakweg 5 5, 6228 NB Maastricht, NL",
+      "gps": {
+        "lat": 50.816049,
+        "lon": 5.725648
+      },
+      "stalls": 24,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,26/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "€ 0,26/kWh"
+            },
+            {
+              "label": "10:00 - 20:00",
+              "rate": "€ 0,36/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,26/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,37/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "€ 0,37/kWh"
+            },
+            {
+              "label": "10:00 - 20:00",
+              "rate": "€ 0,50/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,37/kWh"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
