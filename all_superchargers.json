@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2025-11-04T20:57:59.169407",
+    "jsonfiledate": "2025-11-05T08:04:10.705371",
     "chargerCount": 1528,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -73849,15 +73849,6 @@
       ]
     },
     {
-      "filedate": "2025-11-04T20:49:50.572960"
-    },
-    {
-      "filedate": "2025-11-04T20:50:13.169157"
-    },
-    {
-      "filedate": "2025-11-04T20:50:34.152122"
-    },
-    {
       "filedate": "2025-11-04T20:51:44.613492",
       "name": "Maastricht, Netherlands",
       "address": "Slakweg 5 5, 6228 NB Maastricht, NL",
@@ -73915,6 +73906,15 @@
           ]
         }
       ]
+    },
+    {
+      "filedate": "2025-11-05T06:40:00.533612"
+    },
+    {
+      "filedate": "2025-11-05T06:40:19.457524"
+    },
+    {
+      "filedate": "2025-11-05T06:40:40.367038"
     }
   ]
 }
