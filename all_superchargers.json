@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2025-12-01T20:25:12.728555",
+    "jsonfiledate": "2025-12-01T20:27:00.780627",
     "chargerCount": 259,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -11183,7 +11183,7 @@
       ]
     },
     {
-      "filedate": "2025-12-01T20:24:55.708681",
+      "filedate": "2025-12-01T20:26:43.363489",
       "name": "Tordesillas, Spain",
       "address": "Ctra. Burgos Salamanca Km 147, 47100 Tordesillas, ES",
       "gps": {
