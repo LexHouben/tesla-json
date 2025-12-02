@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2025-12-02T11:32:24.576899",
+    "jsonfiledate": "2025-12-02T11:34:50.236524",
     "chargerCount": 898,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -11166,73 +11166,6 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,47/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-10-31T09:40:47.092908",
-      "name": "Badhoevedorp, Netherlands",
-      "address": "Schipholweg 275, 1171 PK Badhoevedorp, NL",
-      "gps": {
-        "lat": 52.329672,
-        "lon": 4.785265
-      },
-      "stalls": 32,
-      "maxPowerKw": 150,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,26/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,26/kWh"
-            },
-            {
-              "label": "09:00 - 16:00",
-              "rate": "€ 0,42/kWh"
-            },
-            {
-              "label": "16:00 - 23:00",
-              "rate": "€ 0,46/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,26/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,37/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,37/kWh"
-            },
-            {
-              "label": "09:00 - 16:00",
-              "rate": "€ 0,59/kWh"
-            },
-            {
-              "label": "16:00 - 23:00",
-              "rate": "€ 0,65/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,37/kWh"
             }
           ]
         }
@@ -43241,6 +43174,73 @@
             {
               "label": "23:00 - 00:00",
               "rate": "£ 0,37/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-12-02T11:33:46.941432",
+      "name": "Badhoevedorp, Netherlands",
+      "address": "Schipholweg 275, 1171 PK Badhoevedorp, NL",
+      "gps": {
+        "lat": 52.329672,
+        "lon": 4.785265
+      },
+      "stalls": 32,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,26/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,26/kWh"
+            },
+            {
+              "label": "09:00 - 16:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "16:00 - 23:00",
+              "rate": "€ 0,46/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,26/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,37/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,37/kWh"
+            },
+            {
+              "label": "09:00 - 16:00",
+              "rate": "€ 0,59/kWh"
+            },
+            {
+              "label": "16:00 - 23:00",
+              "rate": "€ 0,65/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,37/kWh"
             }
           ]
         }
