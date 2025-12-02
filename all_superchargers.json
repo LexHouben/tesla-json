@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-12-02T14:52:45.198791",
-    "chargerCount": 906,
+    "jsonfiledate": "2025-12-02T15:09:08.883252",
+    "chargerCount": 908,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.2",
-    "successCount": 906,
+    "successCount": 908,
     "errorCount": 0
   },
   "locations": [
@@ -43633,6 +43633,54 @@
             {
               "label": "20:00 - 00:00",
               "rate": "CHF 0,53/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-12-02T14:55:00.592031",
+      "name": "Paimio, Finland",
+      "address": "Länsiportti 1, 21530 Paimio, FI",
+      "gps": {
+        "lat": 60.443595,
+        "lon": 22.606025
+      },
+      "stalls": 8,
+      "maxPowerKw": 120,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 23:59",
+              "rate": "€0.35/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-12-02T15:08:05.954329",
+      "name": "Castlebellingham, Ireland - Northbound",
+      "address": "M1 None, A91 A3PH Whiterath, IE",
+      "gps": {
+        "lat": 53.932311,
+        "lon": -6.416787
+      },
+      "stalls": 8,
+      "maxPowerKw": 130,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": "€1.00/min",
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 23:59",
+              "rate": "€0.47/kWh"
             }
           ]
         }
