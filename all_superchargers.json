@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-12-02T10:31:56.159081",
-    "chargerCount": 897,
+    "jsonfiledate": "2025-12-02T11:21:02.194763",
+    "chargerCount": 898,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.2",
-    "successCount": 897,
+    "successCount": 898,
     "errorCount": 0
   },
   "locations": [
@@ -13759,57 +13759,6 @@
             {
               "label": "20:00 - 00:00",
               "rate": "NOK 5,10/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-10-31T22:45:10.645722",
-      "name": "Mora, Sweden",
-      "address": "Strandgatan 8, 79230 Mora, SE",
-      "gps": {
-        "lat": 61.005597,
-        "lon": 14.543402
-      },
-      "stalls": 20,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "SEK 4,20/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "SEK 4,60/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "SEK 4,20/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "SEK 5,90/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "SEK 6,50/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "SEK 5,90/kWh"
             }
           ]
         }
@@ -43182,6 +43131,116 @@
             {
               "label": "20:00 - 00:00",
               "rate": "£ 0,40/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-12-02T11:17:21.927461",
+      "name": "Mora, Sweden",
+      "address": "Strandgatan 8, 79230 Mora, SE",
+      "gps": {
+        "lat": 61.005597,
+        "lon": 14.543402
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "SEK 4,00/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "SEK 4,40/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "SEK 4,00/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "SEK 5,70/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "SEK 6,20/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "SEK 5,70/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-12-02T11:19:36.059862",
+      "name": "Urmond, Netherlands",
+      "address": "Mauritslaan 65, 6129 EL Urmond, NL",
+      "gps": {
+        "lat": 50.989309,
+        "lon": 5.781483
+      },
+      "stalls": 20,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "10:00 - 20:00",
+              "rate": "€ 0,36/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,40/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "€ 0,40/kWh"
+            },
+            {
+              "label": "10:00 - 20:00",
+              "rate": "€ 0,51/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,40/kWh"
             }
           ]
         }
