@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2025-12-02T11:21:02.194763",
+    "jsonfiledate": "2025-12-02T11:32:24.576899",
     "chargerCount": 898,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -13246,65 +13246,6 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,47/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-10-31T18:46:54.280117",
-      "name": "Uxbridge, UK",
-      "address": "Chippendale Waye None, UB8 1QJ Uxbridge, GB",
-      "gps": {
-        "lat": 51.546259,
-        "lon": -0.475128
-      },
-      "stalls": 12,
-      "maxPowerKw": 150,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "£ 0,26/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "£ 0,26/kWh"
-            },
-            {
-              "label": "09:00 - 23:00",
-              "rate": "£ 0,39/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "£ 0,26/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "£ 0,37/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "£ 0,37/kWh"
-            },
-            {
-              "label": "09:00 - 23:00",
-              "rate": "£ 0,54/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "£ 0,37/kWh"
             }
           ]
         }
@@ -43241,6 +43182,65 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,40/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-12-02T11:31:19.364793",
+      "name": "Uxbridge, UK",
+      "address": "Chippendale Waye None, UB8 1QJ Uxbridge, GB",
+      "gps": {
+        "lat": 51.546259,
+        "lon": -0.475128
+      },
+      "stalls": 12,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "£ 0,26/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "£ 0,26/kWh"
+            },
+            {
+              "label": "09:00 - 23:00",
+              "rate": "£ 0,39/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "£ 0,26/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "£ 0,37/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "£ 0,37/kWh"
+            },
+            {
+              "label": "09:00 - 23:00",
+              "rate": "£ 0,54/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "£ 0,37/kWh"
             }
           ]
         }
