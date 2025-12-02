@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-12-02T00:33:49.137106",
-    "chargerCount": 896,
+    "jsonfiledate": "2025-12-02T07:53:34.906057",
+    "chargerCount": 897,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.2",
-    "successCount": 896,
+    "successCount": 897,
     "errorCount": 0
   },
   "locations": [
@@ -43131,6 +43131,57 @@
             {
               "label": "00:00 - 23:59",
               "rate": "€0.56/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-12-02T07:52:26.403837",
+      "name": "Malsfeld, Germany",
+      "address": "Dr.-Reimer-Straße 2, 34323 Malsfeld, DE",
+      "gps": {
+        "lat": 51.087346,
+        "lon": 9.485802
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,45/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,50/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,45/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,64/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,69/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,64/kWh"
             }
           ]
         }
