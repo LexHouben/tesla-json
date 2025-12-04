@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2025-12-04T16:25:10.972545",
-    "chargerCount": 929,
+    "jsonfiledate": "2025-12-04T16:27:44.274165",
+    "chargerCount": 930,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.2",
-    "successCount": 929,
+    "successCount": 930,
     "errorCount": 0
   },
   "locations": [
@@ -45242,6 +45242,57 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,49/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-12-04T16:25:44.290865",
+      "name": "Heusden-Zolder, Belgium",
+      "address": "Industrieweg 15, 3550 Heusden-Zolder, BE",
+      "gps": {
+        "lat": 50.993345,
+        "lon": 5.242127
+      },
+      "stalls": 14,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,22/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,22/kWh"
+            },
+            {
+              "label": "09:00 - 00:00",
+              "rate": "€ 0,44/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "09:00 - 00:00",
+              "rate": "€ 0,61/kWh"
             }
           ]
         }
