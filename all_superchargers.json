@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2025-12-03T10:42:56.436562",
+    "jsonfiledate": "2025-12-04T12:23:16.844519",
     "chargerCount": 922,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -18030,57 +18030,6 @@
             {
               "label": "00:00 - 23:59",
               "rate": "€0.59/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-11-01T20:13:16.977302",
-      "name": "Auxerre, France",
-      "address": "Rue du Fossé du Bois None, 89380 Appoigny, FR",
-      "gps": {
-        "lat": 47.85334,
-        "lon": 3.542968
-      },
-      "stalls": 36,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,29/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,31/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,29/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,41/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,44/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,41/kWh"
             }
           ]
         }
@@ -44885,6 +44834,57 @@
             {
               "label": "00:00 - 23:59",
               "rate": "£0.72/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2025-12-04T12:21:43.371387",
+      "name": "Auxerre, France",
+      "address": "Rue du Fossé du Bois None, 89380 Appoigny, FR",
+      "gps": {
+        "lat": 47.85334,
+        "lon": 3.542968
+      },
+      "stalls": 36,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,31/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,40/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,43/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,40/kWh"
             }
           ]
         }
