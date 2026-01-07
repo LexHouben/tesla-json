@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2026-01-07T13:23:55.431300",
+    "jsonfiledate": "2026-01-07T14:48:56.619465",
     "chargerCount": 1086,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -1830,41 +1830,6 @@
             {
               "label": "00:00 - 23:59",
               "rate": "€0.63/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-11-30T20:24:14.691854",
-      "name": "Hartberg, Austria",
-      "address": "Im Hatric 12, 8230 Hartberg, AT",
-      "gps": {
-        "lat": 47.281709,
-        "lon": 15.99346
-      },
-      "stalls": 7,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 23:59",
-              "rate": "€0.49/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 23:59",
-              "rate": "€0.69/kWh"
             }
           ]
         }
@@ -52930,6 +52895,41 @@
             {
               "label": "00:00 - 23:59",
               "rate": "€0.60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-01-07T14:47:20.070947",
+      "name": "Hartberg, Austria",
+      "address": "Im Hatric 12, 8230 Hartberg, AT",
+      "gps": {
+        "lat": 47.281709,
+        "lon": 15.99346
+      },
+      "stalls": 7,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 23:59",
+              "rate": "€0.49/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 23:59",
+              "rate": "€0.69/kWh"
             }
           ]
         }
