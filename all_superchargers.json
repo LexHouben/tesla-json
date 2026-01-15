@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2026-01-15T13:58:43.785369",
+    "jsonfiledate": "2026-01-15T14:31:04.879348",
     "chargerCount": 1057,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -11569,57 +11569,6 @@
             {
               "label": "22:00 - 00:00",
               "rate": "€ 0,41/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2025-12-15T16:55:16.846322",
-      "name": "Töcksfors - Handelspark, Sweden",
-      "address": "Linudden 1, 670 10 Töcksfors, SE",
-      "gps": {
-        "lat": 59.509638,
-        "lon": 11.82115
-      },
-      "stalls": 20,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "SEK 4,30/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "SEK 4,70/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "SEK 4,30/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "SEK 6,00/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "SEK 6,60/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "SEK 6,00/kWh"
             }
           ]
         }
@@ -51532,6 +51481,57 @@
       },
       "stalls": 8,
       "maxPowerKw": 250
+    },
+    {
+      "filedate": "2026-01-15T14:24:03.248751",
+      "name": "Töcksfors - Handelspark, Sweden",
+      "address": "Linudden 1, 670 10 Töcksfors, SE",
+      "gps": {
+        "lat": 59.509638,
+        "lon": 11.82115
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "SEK 4,30/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "SEK 4,70/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "SEK 4,30/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "SEK 6,00/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "SEK 6,60/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "SEK 6,00/kWh"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
