@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2026-04-30T19:29:54.872248",
-    "chargerCount": 836,
+    "jsonfiledate": "2026-04-30T21:09:55.732860",
+    "chargerCount": 839,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.2",
-    "successCount": 836,
+    "successCount": 839,
     "errorCount": 0
   },
   "locations": [
@@ -39143,6 +39143,191 @@
             {
               "label": "22:00 - 00:00",
               "rate": "€ 0,59/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-04-30T19:57:44.671221",
+      "name": "La Chapelle-sur-Erdre, France",
+      "address": "rue de la Vrière 34, 44240 La Chapelle-sur-Erdre, FR",
+      "gps": {
+        "lat": 47.282833,
+        "lon": -1.55044
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,20/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,20/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "€ 0,40/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,26/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,25/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,25/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "€ 0,52/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,37/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-04-30T20:28:21.423565",
+      "name": "Odense, Denmark",
+      "address": "Ørbækvej 75, 5220 Odense, DK",
+      "gps": {
+        "lat": 55.384464,
+        "lon": 10.427848
+      },
+      "stalls": 28,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "DKK 1,60/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "DKK 1,60/kWh"
+            },
+            {
+              "label": "08:00 - 19:00",
+              "rate": "DKK 3,40/kWh"
+            },
+            {
+              "label": "19:00 - 23:00",
+              "rate": "DKK 2,20/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "DKK 1,60/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "DKK 2,20/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "DKK 2,20/kWh"
+            },
+            {
+              "label": "08:00 - 19:00",
+              "rate": "DKK 4,70/kWh"
+            },
+            {
+              "label": "19:00 - 23:00",
+              "rate": "DKK 3,10/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "DKK 2,20/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-04-30T20:57:43.856288",
+      "name": "Koblenz, Germany - Bubenheim",
+      "address": "Jakob-Caspers-Straße 2, 56070 Koblenz, DE",
+      "gps": {
+        "lat": 50.385858,
+        "lon": 7.553471
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,54/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,76/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,41/kWh"
             }
           ]
         }
