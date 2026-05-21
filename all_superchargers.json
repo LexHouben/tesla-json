@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2026-05-17T20:36:41.334726",
-    "chargerCount": 844,
+    "jsonfiledate": "2026-05-21T15:10:10.697404",
+    "chargerCount": 846,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.2",
-    "successCount": 844,
+    "successCount": 846,
     "errorCount": 0
   },
   "locations": [
@@ -39560,6 +39560,132 @@
             {
               "label": "00:00 - 23:59",
               "rate": "€0.61/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-05-17T21:04:17.277248",
+      "name": "Zusmarshausen, Germany",
+      "address": "Am Innovationspark 2, 86441 Zusmarshausen, DE",
+      "gps": {
+        "lat": 48.407702,
+        "lon": 10.599293
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "08:00 - 19:00",
+              "rate": "€ 0,55/kWh"
+            },
+            {
+              "label": "19:00 - 00:00",
+              "rate": "€ 0,42/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,54/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,54/kWh"
+            },
+            {
+              "label": "08:00 - 19:00",
+              "rate": "€ 0,70/kWh"
+            },
+            {
+              "label": "19:00 - 00:00",
+              "rate": "€ 0,54/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-05-21T15:00:38.071457",
+      "name": "Vélizy, France",
+      "address": "Avenue de l'Europe 2, 78140 Vélizy-Villacoublay, FR",
+      "gps": {
+        "lat": 48.783822,
+        "lon": 2.220996
+      },
+      "stalls": 30,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,23/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "€ 0,23/kWh"
+            },
+            {
+              "label": "10:00 - 19:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "19:00 - 23:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,23/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,33/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "€ 0,33/kWh"
+            },
+            {
+              "label": "10:00 - 19:00",
+              "rate": "€ 0,59/kWh"
+            },
+            {
+              "label": "19:00 - 23:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,33/kWh"
             }
           ]
         }
