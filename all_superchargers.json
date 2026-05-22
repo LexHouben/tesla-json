@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2026-05-22T13:38:48.741585",
-    "chargerCount": 851,
+    "jsonfiledate": "2026-05-22T15:05:16.771475",
+    "chargerCount": 853,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.2",
-    "successCount": 851,
+    "successCount": 853,
     "errorCount": 0
   },
   "locations": [
@@ -22378,65 +22378,6 @@
       ]
     },
     {
-      "filedate": "2026-03-04T00:55:26.262498",
-      "name": "Ljubljana, Slovenia",
-      "address": "Pot za Brdom 4, 1000 Ljubljana, SI",
-      "gps": {
-        "lat": 46.052865,
-        "lon": 14.453264
-      },
-      "stalls": 16,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,26/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,26/kWh"
-            },
-            {
-              "label": "08:00 - 22:00",
-              "rate": "€ 0,35/kWh"
-            },
-            {
-              "label": "22:00 - 00:00",
-              "rate": "€ 0,26/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,36/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,36/kWh"
-            },
-            {
-              "label": "08:00 - 22:00",
-              "rate": "€ 0,49/kWh"
-            },
-            {
-              "label": "22:00 - 00:00",
-              "rate": "€ 0,36/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "filedate": "2026-03-04T01:28:16.882106",
       "name": "Bernau am Chiemsee, Germany - Hochfellnstraße",
       "address": "Hochfellnstraße 45, 83233 Bernau am Chiemsee, DE",
@@ -39883,6 +39824,160 @@
             {
               "label": "23:00 - 00:00",
               "rate": "ISK 42/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-05-22T13:42:38.828450",
+      "name": "Flachau, Austria",
+      "address": "Unterberggasse 172, 5542 Flachau, AT",
+      "gps": {
+        "lat": 47.354869,
+        "lon": 13.386281
+      },
+      "stalls": 18,
+      "maxPowerKw": 125,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "0-60 kW",
+              "rate": "€ 0,23/min"
+            },
+            {
+              "label": "60-100 kW",
+              "rate": "€ 0,46/min"
+            },
+            {
+              "label": "100-180 kW",
+              "rate": "€ 0,71/min"
+            },
+            {
+              "label": "180+ kW",
+              "rate": "€ 1,19/min"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-05-22T14:12:08.407475",
+      "name": "Serravalle Scrivia, Italy",
+      "address": "Via della Moda 1, 15069 Serravalle Scrivia, IT",
+      "gps": {
+        "lat": 44.735104,
+        "lon": 8.84029
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "09:00 - 21:00",
+              "rate": "€ 0,53/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "09:00 - 21:00",
+              "rate": "€ 0,75/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "€ 0,41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-05-22T14:41:36.869028",
+      "name": "Ljubljana, Slovenia",
+      "address": "Pot za Brdom 4, 1000 Ljubljana, SI",
+      "gps": {
+        "lat": 46.052865,
+        "lon": 14.453264
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,18/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,18/kWh"
+            },
+            {
+              "label": "08:00 - 22:00",
+              "rate": "€ 0,36/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,18/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,25/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,25/kWh"
+            },
+            {
+              "label": "08:00 - 22:00",
+              "rate": "€ 0,51/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,25/kWh"
             }
           ]
         }
