@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2026-05-22T12:00:28.643021",
-    "chargerCount": 849,
+    "jsonfiledate": "2026-05-22T12:45:12.133128",
+    "chargerCount": 851,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.2",
-    "successCount": 849,
+    "successCount": 851,
     "errorCount": 0
   },
   "locations": [
@@ -39820,6 +39820,77 @@
             {
               "label": "23:00 - 00:00",
               "rate": "€ 0,40/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-05-22T12:14:03.780301",
+      "name": "Søndervig, Denmark",
+      "address": "2 Vestkystvej, 6950 Søndervig, DK",
+      "gps": {
+        "lat": 56.119893,
+        "lon": 8.123135
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 23:59",
+              "rate": "DKK 2.60/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 23:59",
+              "rate": "DKK 3.60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-05-22T12:43:32.811834",
+      "name": "Maribor, Slovenia",
+      "address": "Na polju 24, 2000 Maribor, SI",
+      "gps": {
+        "lat": 46.532984,
+        "lon": 15.69924
+      },
+      "stalls": 6,
+      "maxPowerKw": 130,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,20/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,20/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,36/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,20/kWh"
             }
           ]
         }
