@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2026-05-22T11:03:58.826667",
-    "chargerCount": 848,
+    "jsonfiledate": "2026-05-22T12:00:28.643021",
+    "chargerCount": 849,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.2",
-    "successCount": 848,
+    "successCount": 849,
     "errorCount": 0
   },
   "locations": [
@@ -11084,65 +11084,6 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,45/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2026-02-22T21:58:03.472031",
-      "name": "Ludwigshafen, Germany - Oggersheim",
-      "address": "Flomersheimer Str. 17, 67071 Ludwigshafen am Rhein, DE",
-      "gps": {
-        "lat": 49.49064,
-        "lon": 8.352316
-      },
-      "stalls": 8,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,26/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,26/kWh"
-            },
-            {
-              "label": "08:00 - 23:00",
-              "rate": "€ 0,46/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,26/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,36/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,36/kWh"
-            },
-            {
-              "label": "08:00 - 23:00",
-              "rate": "€ 0,64/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,36/kWh"
             }
           ]
         }
@@ -33901,41 +33842,6 @@
       ]
     },
     {
-      "filedate": "2026-03-11T20:17:14.679358",
-      "name": "Montbéliard, France",
-      "address": "ZAC du Pied des Gouttes None, 25200 Montbéliard, FR",
-      "gps": {
-        "lat": 47.50058121,
-        "lon": 6.81234321
-      },
-      "stalls": 28,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 23:59",
-              "rate": "€0.32/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 23:59",
-              "rate": "€0.45/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "filedate": "2026-03-11T20:49:47.421383",
       "name": "Ronneby, Sweden",
       "address": "Sörbydalsvägen 14, 372 91 Ronneby, SE",
@@ -39785,6 +39691,135 @@
             {
               "label": "22:00 - 00:00",
               "rate": "£ 0,20/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-05-22T11:09:50.023878",
+      "name": "Verniolle, France",
+      "address": "Parc commercial de Graussette Verniolle None, 09340 Verniolle, FR",
+      "gps": {
+        "lat": 43.074792,
+        "lon": 1.640626
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 23:59",
+              "rate": "€0.27/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 23:59",
+              "rate": "€0.38/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-05-22T11:15:04.712896",
+      "name": "Montbéliard, France",
+      "address": "ZAC du Pied des Gouttes None, 25200 Montbéliard, FR",
+      "gps": {
+        "lat": 47.50058121,
+        "lon": 6.81234321
+      },
+      "stalls": 28,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 23:59",
+              "rate": "€0.37/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 23:59",
+              "rate": "€0.52/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-05-22T11:44:34.759884",
+      "name": "Ludwigshafen, Germany - Oggersheim",
+      "address": "Flomersheimer Str. 17, 67071 Ludwigshafen am Rhein, DE",
+      "gps": {
+        "lat": 49.49064,
+        "lon": 8.352316
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,28/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,28/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,45/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,28/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,40/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,40/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,63/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,40/kWh"
             }
           ]
         }
