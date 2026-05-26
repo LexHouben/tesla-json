@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2026-05-26T10:16:04.699063",
+    "jsonfiledate": "2026-05-26T10:47:35.600233",
     "chargerCount": 869,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -40830,7 +40830,7 @@
       ]
     },
     {
-      "filedate": "2026-05-26T07:49:43.628178",
+      "filedate": "2026-05-26T10:46:31.566482",
       "name": "Auxerre, France",
       "address": "Rue du Fossé du Bois None, 89380 Appoigny, FR",
       "gps": {
