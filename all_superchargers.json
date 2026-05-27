@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2026-05-27T09:54:43.268468",
-    "chargerCount": 871,
+    "jsonfiledate": "2026-05-27T10:21:10.992497",
+    "chargerCount": 872,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.2",
-    "successCount": 871,
+    "successCount": 872,
     "errorCount": 0
   },
   "locations": [
@@ -40921,6 +40921,65 @@
             },
             {
               "label": "20:00 - 00:00",
+              "rate": "€ 0,39/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-05-27T10:20:13.925421",
+      "name": "Heerlen, Netherlands",
+      "address": "Terworm 10, 6411 RV Heerlen, NL",
+      "gps": {
+        "lat": 50.892974,
+        "lon": 5.955635
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,28/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,28/kWh"
+            },
+            {
+              "label": "09:00 - 22:00",
+              "rate": "€ 0,47/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,28/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,39/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,39/kWh"
+            },
+            {
+              "label": "09:00 - 22:00",
+              "rate": "€ 0,66/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
               "rate": "€ 0,39/kWh"
             }
           ]
