@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2026-05-27T10:21:10.992497",
-    "chargerCount": 872,
+    "jsonfiledate": "2026-05-28T10:55:08.520654",
+    "chargerCount": 873,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.2",
-    "successCount": 872,
+    "successCount": 873,
     "errorCount": 0
   },
   "locations": [
@@ -40928,7 +40928,7 @@
       ]
     },
     {
-      "filedate": "2026-05-27T10:20:13.925421",
+      "filedate": "2026-05-28T10:53:35.591296",
       "name": "Heerlen, Netherlands",
       "address": "Terworm 10, 6411 RV Heerlen, NL",
       "gps": {
@@ -40981,6 +40981,65 @@
             {
               "label": "22:00 - 00:00",
               "rate": "€ 0,39/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-05-28T10:54:12.086559",
+      "name": "Sassenheim, Netherlands",
+      "address": "Warmonderweg 8, 2171 AH Sassenheim, NL",
+      "gps": {
+        "lat": 52.213329,
+        "lon": 4.503769
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,30/kWh"
+            },
+            {
+              "label": "09:00 - 22:00",
+              "rate": "€ 0,47/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,30/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "09:00 - 22:00",
+              "rate": "€ 0,66/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,42/kWh"
             }
           ]
         }
