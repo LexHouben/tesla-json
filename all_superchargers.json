@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2026-06-08T16:19:59.963285",
+    "jsonfiledate": "2026-06-08T16:23:21.038605",
     "chargerCount": 902,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -34631,41 +34631,6 @@
       ]
     },
     {
-      "filedate": "2026-03-14T20:41:40.187982",
-      "name": "Champfleury, France",
-      "address": "Route Nationale 51, 51500 Champfleury, FR",
-      "gps": {
-        "lat": 49.204353,
-        "lon": 4.012874
-      },
-      "stalls": 26,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 23:59",
-              "rate": "€0.32/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 23:59",
-              "rate": "€0.45/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "filedate": "2026-03-14T21:27:01.769485",
       "name": "Beitostølen, Norway",
       "address": "Beitestølsvegen 241, 2953 Beitostølen, NO",
@@ -42527,6 +42492,65 @@
             {
               "label": "20:00 - 00:00",
               "rate": "NOK 5,25/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-06-08T16:22:05.827364",
+      "name": "Champfleury, France",
+      "address": "Route Nationale 51, 51500 Champfleury, FR",
+      "gps": {
+        "lat": 49.204353,
+        "lon": 4.012874
+      },
+      "stalls": 26,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,24/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,24/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "€ 0,43/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,24/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,34/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,34/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "€ 0,60/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,34/kWh"
             }
           ]
         }
