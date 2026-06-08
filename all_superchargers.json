@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2026-06-08T10:54:14.417648",
-    "chargerCount": 900,
+    "jsonfiledate": "2026-06-08T16:19:59.963285",
+    "chargerCount": 902,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.2",
-    "successCount": 900,
+    "successCount": 902,
     "errorCount": 0
   },
   "locations": [
@@ -17199,57 +17199,6 @@
             {
               "label": "00:00 - 23:59",
               "rate": "€0.69/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2026-03-01T08:24:45.283140",
-      "name": "Setermoen, Norway",
-      "address": "Altevannsveien, Bardu 7, 9360 Setermoen, NO",
-      "gps": {
-        "lat": 68.859766,
-        "lon": 18.345376
-      },
-      "stalls": 12,
-      "maxPowerKw": 150,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "NOK 4,00/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "NOK 4,10/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "NOK 4,00/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "NOK 5,60/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "NOK 5,70/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "NOK 5,60/kWh"
             }
           ]
         }
@@ -42441,6 +42390,143 @@
             {
               "label": "22:00 - 00:00",
               "rate": "€ 0,49/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-06-08T10:55:15.456558",
+      "name": "Giessen, Germany",
+      "address": "Grünberger Str. 152, 35394 Giessen, DE",
+      "gps": {
+        "lat": 50.588151,
+        "lon": 8.707613
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,28/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,28/kWh"
+            },
+            {
+              "label": "08:00 - 00:00",
+              "rate": "€ 0,44/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,38/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,38/kWh"
+            },
+            {
+              "label": "08:00 - 00:00",
+              "rate": "€ 0,59/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-06-08T11:25:07.546243",
+      "name": "Vesoul, France",
+      "address": "Rue du Dr Noël Courvoisier 16, 70000 Vesoul, FR",
+      "gps": {
+        "lat": 47.631605,
+        "lon": 6.140522
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 23:59",
+              "rate": "€0.32/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 23:59",
+              "rate": "€0.44/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-06-08T15:52:16.506090",
+      "name": "Setermoen, Norway",
+      "address": "Altevannsveien, Bardu 7, 9360 Setermoen, NO",
+      "gps": {
+        "lat": 68.859766,
+        "lon": 18.345376
+      },
+      "stalls": 11,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "NOK 4,20/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "NOK 4,30/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "NOK 4,20/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "NOK 5,25/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "NOK 5,38/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "NOK 5,25/kWh"
             }
           ]
         }
