@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2026-06-18T08:01:04.710509",
-    "chargerCount": 958,
+    "jsonfiledate": "2026-06-18T12:31:06.344333",
+    "chargerCount": 959,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.2",
-    "successCount": 958,
+    "successCount": 959,
     "errorCount": 0
   },
   "locations": [
@@ -3262,65 +3262,6 @@
             {
               "label": "23:00 - 00:00",
               "rate": "€ 0,47/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2026-01-16T22:33:35.081901",
-      "name": "Northampton, UK",
-      "address": "Ferris Row 1, NN3 9HX Northampton, GB",
-      "gps": {
-        "lat": 52.24229771,
-        "lon": -0.83411982
-      },
-      "stalls": 8,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "£ 0,23/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "£ 0,23/kWh"
-            },
-            {
-              "label": "08:00 - 23:00",
-              "rate": "£ 0,40/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "£ 0,23/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "£ 0,33/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "£ 0,33/kWh"
-            },
-            {
-              "label": "08:00 - 23:00",
-              "rate": "£ 0,56/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "£ 0,33/kWh"
             }
           ]
         }
@@ -11226,41 +11167,6 @@
             {
               "label": "20:00 - 00:00",
               "rate": "NOK 5,60/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2026-02-24T22:22:20.894722",
-      "name": "Occhiobello, Italy",
-      "address": "Via Eridania 36, 45030 Occhiobello, IT",
-      "gps": {
-        "lat": 44.918834,
-        "lon": 11.595009
-      },
-      "stalls": 16,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 23:59",
-              "rate": "€0.50/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 23:59",
-              "rate": "€0.69/kWh"
             }
           ]
         }
@@ -23499,38 +23405,6 @@
       ]
     },
     {
-      "filedate": "2026-03-07T04:28:27.013789",
-      "name": "Swansea, UK",
-      "address": "M4 Junction 47 Moto Swansea Services, SA4 9GT Penllergaer, GB",
-      "gps": {
-        "lat": 51.678371,
-        "lon": -3.996227
-      },
-      "stalls": 12,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "£ 0,28/kWh"
-            },
-            {
-              "label": "04:00 - 21:00",
-              "rate": "£ 0,40/kWh"
-            },
-            {
-              "label": "21:00 - 00:00",
-              "rate": "£ 0,28/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "filedate": "2026-03-07T05:33:39.319914",
       "name": "Ebersdorf bei Coburg, Germany",
       "address": "Frankenring 13, 96237 Ebersdorf bei Coburg, DE",
@@ -27743,57 +27617,6 @@
             {
               "label": "22:00 - 00:00",
               "rate": "€ 0,50/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2026-03-11T09:57:11.853369",
-      "name": "Porto Sant'Elpidio, Italy",
-      "address": "Via dell'Economia 9, 63821 Porto Sant'Elpidio, IT",
-      "gps": {
-        "lat": 43.23227,
-        "lon": 13.74974
-      },
-      "stalls": 12,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,50/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,55/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,50/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "€ 0,69/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "€ 0,77/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,69/kWh"
             }
           ]
         }
@@ -32211,65 +32034,6 @@
             {
               "label": "00:00 - 23:59",
               "rate": "€0.62/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2026-04-30T19:24:49.397243",
-      "name": "Les Pennes-Mirabeau, France",
-      "address": "Allée de la Broquette 55, 13170 Les Pennes-Mirabeau, FR",
-      "gps": {
-        "lat": 43.414915,
-        "lon": 5.275134
-      },
-      "stalls": 24,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,21/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,21/kWh"
-            },
-            {
-              "label": "09:00 - 20:00",
-              "rate": "€ 0,42/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,21/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,30/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,30/kWh"
-            },
-            {
-              "label": "09:00 - 20:00",
-              "rate": "€ 0,59/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "€ 0,30/kWh"
             }
           ]
         }
@@ -45433,6 +45197,290 @@
             {
               "label": "00:00 - 23:59",
               "rate": "€0.56/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-06-18T10:53:27.341073",
+      "name": "Les Pennes-Mirabeau, France",
+      "address": "Allée de la Broquette 55, 13170 Les Pennes-Mirabeau, FR",
+      "gps": {
+        "lat": 43.414915,
+        "lon": 5.275134
+      },
+      "stalls": 24,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,18/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,22/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "€ 0,43/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,22/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,25/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,31/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "€ 0,60/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,31/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-06-18T11:15:58.080364",
+      "name": "Swansea, UK",
+      "address": "M4 Junction 47 Moto Swansea Services, SA4 9GT Penllergaer, GB",
+      "gps": {
+        "lat": 51.678371,
+        "lon": -3.996227
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "£ 0,27/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "£ 0,36/kWh"
+            },
+            {
+              "label": "09:00 - 21:00",
+              "rate": "£ 0,45/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "£ 0,27/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-06-18T11:23:24.919170",
+      "name": "Northampton, UK",
+      "address": "Ferris Row 1, NN3 9HX Northampton, GB",
+      "gps": {
+        "lat": 52.24229771,
+        "lon": -0.83411982
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "£ 0,23/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "£ 0,28/kWh"
+            },
+            {
+              "label": "08:00 - 19:00",
+              "rate": "£ 0,45/kWh"
+            },
+            {
+              "label": "19:00 - 23:00",
+              "rate": "£ 0,38/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "£ 0,23/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "£ 0,32/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "£ 0,39/kWh"
+            },
+            {
+              "label": "08:00 - 19:00",
+              "rate": "£ 0,63/kWh"
+            },
+            {
+              "label": "19:00 - 23:00",
+              "rate": "£ 0,53/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "£ 0,32/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-06-18T11:45:55.484967",
+      "name": "Occhiobello, Italy",
+      "address": "Via Eridania 36, 45030 Occhiobello, IT",
+      "gps": {
+        "lat": 44.918834,
+        "lon": 11.595009
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 23:59",
+              "rate": "€0.52/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 23:59",
+              "rate": "€0.72/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-06-18T11:53:22.496895",
+      "name": "Porto Sant'Elpidio, Italy",
+      "address": "Via dell'Economia 9, 63821 Porto Sant'Elpidio, IT",
+      "gps": {
+        "lat": 43.23227,
+        "lon": 13.74974
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,52/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,58/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,52/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,73/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,81/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,73/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-06-18T12:23:20.170257",
+      "name": "Thurrock, UK",
+      "address": "Arterial Road 31135, RM16 3BG Thurrock, GB",
+      "gps": {
+        "lat": 51.492427,
+        "lon": 0.271248
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "£ 0,26/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "£ 0,35/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "£ 0,44/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "£ 0,26/kWh"
             }
           ]
         }
