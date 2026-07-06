@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2026-07-06T12:45:19.024330",
-    "chargerCount": 1348,
+    "jsonfiledate": "2026-07-06T14:37:13.281721",
+    "chargerCount": 1350,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.2",
-    "successCount": 1348,
+    "successCount": 1350,
     "errorCount": 0
   },
   "locations": [
@@ -5617,42 +5617,6 @@
             {
               "label": "23:00 - 00:00",
               "rate": "£ 0,33/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2026-03-03T08:58:18.183758",
-      "name": "Bologna, Italy",
-      "address": "Via Aldo Moro 64, 40033 Casalecchio di Reno, IT",
-      "gps": {
-        "lat": 44.48463041,
-        "lon": 11.26863863
-      },
-      "stalls": 16,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,37/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,37/kWh"
-            },
-            {
-              "label": "09:00 - 22:00",
-              "rate": "€ 0,47/kWh"
-            },
-            {
-              "label": "22:00 - 00:00",
-              "rate": "€ 0,37/kWh"
             }
           ]
         }
@@ -64852,6 +64816,136 @@
             {
               "label": "21:00 - 00:00",
               "rate": "£ 0,21/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-07-06T13:10:26.186369",
+      "name": "Mansfield, UK",
+      "address": "Mansfield Road None, DE55 2JW Alfreton, GB",
+      "gps": {
+        "lat": 53.10912,
+        "lon": -1.31227
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "£ 0,21/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "£ 0,21/kWh"
+            },
+            {
+              "label": "08:00 - 20:00",
+              "rate": "£ 0,46/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "£ 0,26/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "£ 0,31/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "£ 0,31/kWh"
+            },
+            {
+              "label": "08:00 - 20:00",
+              "rate": "£ 0,67/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "£ 0,38/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-07-06T13:40:21.639462",
+      "name": "Bourges, France",
+      "address": "Rue Joseph Aristide Auxenfans 3, 18000 Bourges, FR",
+      "gps": {
+        "lat": 47.048516,
+        "lon": 2.345394
+      },
+      "stalls": 10,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 23:59",
+              "rate": "€0.35/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 23:59",
+              "rate": "€0.49/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-07-06T14:10:17.114522",
+      "name": "Bologna, Italy",
+      "address": "Via Aldo Moro 64, 40033 Casalecchio di Reno, IT",
+      "gps": {
+        "lat": 44.48463041,
+        "lon": 11.26863863
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "09:00 - 22:00",
+              "rate": "€ 0,50/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,29/kWh"
             }
           ]
         }
