@@ -1,11 +1,11 @@
 {
   "meta": {
-    "jsonfiledate": "2026-07-12T14:13:31.409903",
-    "chargerCount": 1453,
+    "jsonfiledate": "2026-07-12T19:43:06.549984",
+    "chargerCount": 1460,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
     "version": "1.2",
-    "successCount": 1453,
+    "successCount": 1460,
     "errorCount": 0
   },
   "locations": [
@@ -168,57 +168,6 @@
             {
               "label": "00:00 - 23:59",
               "rate": "€0.68/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2026-01-11T08:59:19.763241",
-      "name": "Hattersheim, Germany",
-      "address": "Heddingheimer Straße 2-4, 65795 Hattersheim am Main, DE",
-      "gps": {
-        "lat": 50.071045,
-        "lon": 8.475464
-      },
-      "stalls": 8,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,25/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,25/kWh"
-            },
-            {
-              "label": "08:00 - 00:00",
-              "rate": "€ 0,47/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,35/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,35/kWh"
-            },
-            {
-              "label": "08:00 - 00:00",
-              "rate": "€ 0,66/kWh"
             }
           ]
         }
@@ -439,65 +388,6 @@
             {
               "label": "23:00 - 00:00",
               "rate": "£ 0,33/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2026-01-19T02:57:23.410987",
-      "name": "Sortland, Norway",
-      "address": "Strandgata 12 12, 8400 Sortland, NO",
-      "gps": {
-        "lat": 68.69688,
-        "lon": 15.417851
-      },
-      "stalls": 12,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "NOK 2,70/kWh"
-            },
-            {
-              "label": "04:00 - 10:00",
-              "rate": "NOK 2,70/kWh"
-            },
-            {
-              "label": "10:00 - 20:00",
-              "rate": "NOK 3,40/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "NOK 2,70/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "NOK 3,80/kWh"
-            },
-            {
-              "label": "04:00 - 10:00",
-              "rate": "NOK 3,80/kWh"
-            },
-            {
-              "label": "10:00 - 20:00",
-              "rate": "NOK 4,70/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "NOK 3,80/kWh"
             }
           ]
         }
@@ -1258,65 +1148,6 @@
       ]
     },
     {
-      "filedate": "2026-02-24T15:53:36.979730",
-      "name": "Reading, UK",
-      "address": "S Oak Way 250, RG2 6UG Reading, GB",
-      "gps": {
-        "lat": 51.420596,
-        "lon": -0.988024
-      },
-      "stalls": 4,
-      "maxPowerKw": 130,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "£ 0,22/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "£ 0,22/kWh"
-            },
-            {
-              "label": "08:00 - 23:00",
-              "rate": "£ 0,40/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "£ 0,22/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "£ 0,30/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "£ 0,30/kWh"
-            },
-            {
-              "label": "08:00 - 23:00",
-              "rate": "£ 0,56/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "£ 0,30/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "filedate": "2026-02-24T21:17:35.759630",
       "name": "Esbjerg, Denmark",
       "address": "Havnegade 62, 6700 Esbjerg, DK",
@@ -1472,38 +1303,6 @@
             {
               "label": "20:00 - 00:00",
               "rate": "€ 0,47/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2026-02-25T18:20:56.389973",
-      "name": "Lućmierz, Poland",
-      "address": "Sadowa 4, 95 Lućmierz, PL",
-      "gps": {
-        "lat": 51.8875,
-        "lon": 19.383935
-      },
-      "stalls": 8,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 16:00",
-              "rate": "PLN 1,70/kWh"
-            },
-            {
-              "label": "16:00 - 20:00",
-              "rate": "PLN 2,00/kWh"
-            },
-            {
-              "label": "20:00 - 00:00",
-              "rate": "PLN 1,70/kWh"
             }
           ]
         }
@@ -2444,41 +2243,6 @@
       ]
     },
     {
-      "filedate": "2026-03-04T03:06:42.107911",
-      "name": "Colombe, France",
-      "address": "Rte de Rives 250, 38690 Colombe, FR",
-      "gps": {
-        "lat": 45.39615,
-        "lon": 5.46684
-      },
-      "stalls": 12,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 23:59",
-              "rate": "€0.29/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 23:59",
-              "rate": "€0.41/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "filedate": "2026-03-04T04:13:19.590821",
       "name": "Sprucefield, UK",
       "address": "Sprucefield Park 1, BT27 5UJ Lisburn, GB",
@@ -2798,41 +2562,6 @@
             {
               "label": "00:00 - 23:59",
               "rate": "€0.65/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2026-03-04T19:02:19.361941",
-      "name": "Le Bosc, France",
-      "address": "Zae la Méridienne Sortie 54, A75 None, 34700 Le Bosc, FR",
-      "gps": {
-        "lat": 43.68814,
-        "lon": 3.355094
-      },
-      "stalls": 24,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 23:59",
-              "rate": "€0.32/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 23:59",
-              "rate": "€0.45/kWh"
             }
           ]
         }
@@ -3813,17 +3542,6 @@
       ]
     },
     {
-      "filedate": "2026-03-09T12:42:28.140639",
-      "name": "Almaty, Kazakhstan",
-      "address": "Al-Farabi Avenue 77/8, 050040 Almaty, KZ",
-      "gps": {
-        "lat": 43.218804,
-        "lon": 76.927083
-      },
-      "stalls": 4,
-      "maxPowerKw": 125
-    },
-    {
       "filedate": "2026-03-09T17:03:35.168833",
       "name": "Ringsheim, Germany",
       "address": "Herbolzheimer Str. 2, 77975 Ringsheim, DE",
@@ -4495,124 +4213,6 @@
             {
               "label": "22:00 - 00:00",
               "rate": "€ 0,25/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2026-05-22T15:11:07.922601",
-      "name": "Västerås, Sweden",
-      "address": "Stockholmsvägen 134, 72134 Västerås, SE",
-      "gps": {
-        "lat": 59.608723,
-        "lon": 16.622328
-      },
-      "stalls": 16,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "SEK 2,70/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "SEK 2,70/kWh"
-            },
-            {
-              "label": "09:00 - 21:00",
-              "rate": "SEK 4,80/kWh"
-            },
-            {
-              "label": "21:00 - 00:00",
-              "rate": "SEK 2,70/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "SEK 3,90/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "SEK 3,90/kWh"
-            },
-            {
-              "label": "09:00 - 21:00",
-              "rate": "SEK 6,70/kWh"
-            },
-            {
-              "label": "21:00 - 00:00",
-              "rate": "SEK 3,90/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2026-05-26T00:10:12.640434",
-      "name": "Alessandria, Italy",
-      "address": "Via Vecchia Torino 20, 15121 Alessandria, IT",
-      "gps": {
-        "lat": 44.91635655,
-        "lon": 8.59953817
-      },
-      "stalls": 12,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,34/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,34/kWh"
-            },
-            {
-              "label": "08:00 - 21:00",
-              "rate": "€ 0,53/kWh"
-            },
-            {
-              "label": "21:00 - 00:00",
-              "rate": "€ 0,34/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,48/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,48/kWh"
-            },
-            {
-              "label": "08:00 - 21:00",
-              "rate": "€ 0,75/kWh"
-            },
-            {
-              "label": "21:00 - 00:00",
-              "rate": "€ 0,48/kWh"
             }
           ]
         }
@@ -5511,57 +5111,6 @@
       ]
     },
     {
-      "filedate": "2026-06-08T10:55:15.456558",
-      "name": "Giessen, Germany",
-      "address": "Grünberger Str. 152, 35394 Giessen, DE",
-      "gps": {
-        "lat": 50.588151,
-        "lon": 8.707613
-      },
-      "stalls": 8,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,28/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,28/kWh"
-            },
-            {
-              "label": "08:00 - 00:00",
-              "rate": "€ 0,44/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,38/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,38/kWh"
-            },
-            {
-              "label": "08:00 - 00:00",
-              "rate": "€ 0,59/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "filedate": "2026-06-08T11:25:07.546243",
       "name": "Vesoul, France",
       "address": "Rue du Dr Noël Courvoisier 16, 70000 Vesoul, FR",
@@ -5782,57 +5331,6 @@
       ]
     },
     {
-      "filedate": "2026-06-08T19:51:24.762515",
-      "name": "Södertälje, Sweden",
-      "address": "Genetaleden 9, 151 59 Södertälje, SE",
-      "gps": {
-        "lat": 59.18721,
-        "lon": 17.581131
-      },
-      "stalls": 20,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "SEK 2,50/kWh"
-            },
-            {
-              "label": "04:00 - 21:00",
-              "rate": "SEK 4,20/kWh"
-            },
-            {
-              "label": "21:00 - 00:00",
-              "rate": "SEK 2,50/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "SEK 3,12/kWh"
-            },
-            {
-              "label": "04:00 - 21:00",
-              "rate": "SEK 5,25/kWh"
-            },
-            {
-              "label": "21:00 - 00:00",
-              "rate": "SEK 3,12/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "filedate": "2026-06-08T20:51:14.700097",
       "name": "Carsoli Oricola, Italy",
       "address": "Via Tiburtina Valeria km 68,300, 67063 Oricola, IT",
@@ -5894,65 +5392,6 @@
             {
               "label": "09:00 - 00:00",
               "rate": "£ 0,44/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2026-06-08T21:51:04.790178",
-      "name": "Bernin, France",
-      "address": "Chemin des Fontaines 134, 38190 Bernin, FR",
-      "gps": {
-        "lat": 45.266076,
-        "lon": 5.87643
-      },
-      "stalls": 16,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,18/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,18/kWh"
-            },
-            {
-              "label": "09:00 - 22:00",
-              "rate": "€ 0,34/kWh"
-            },
-            {
-              "label": "22:00 - 00:00",
-              "rate": "€ 0,18/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,22/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,22/kWh"
-            },
-            {
-              "label": "09:00 - 22:00",
-              "rate": "€ 0,43/kWh"
-            },
-            {
-              "label": "22:00 - 00:00",
-              "rate": "€ 0,22/kWh"
             }
           ]
         }
@@ -6098,57 +5537,6 @@
             {
               "label": "23:00 - 00:00",
               "rate": "€ 0,36/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2026-06-09T02:50:14.918977",
-      "name": "Oberhausen, Germany - Neue Mitte",
-      "address": "Brammenring 30, 46047 Oberhausen, DE",
-      "gps": {
-        "lat": 51.485456,
-        "lon": 6.886987
-      },
-      "stalls": 11,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,45/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,29/kWh"
-            },
-            {
-              "label": "09:00 - 00:00",
-              "rate": "€ 0,45/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,63/kWh"
-            },
-            {
-              "label": "04:00 - 09:00",
-              "rate": "€ 0,41/kWh"
-            },
-            {
-              "label": "09:00 - 00:00",
-              "rate": "€ 0,63/kWh"
             }
           ]
         }
@@ -70162,6 +69550,1013 @@
             {
               "label": "20:00 - 00:00",
               "rate": "NOK 5,30/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-07-12T14:25:14.049915",
+      "name": "Innhavet, Norway",
+      "address": "E6 None, 8260 Innhavet, NO",
+      "gps": {
+        "lat": 67.962727,
+        "lon": 15.928245
+      },
+      "stalls": 10,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "NOK 3,80/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "NOK 4,10/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "NOK 3,80/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "NOK 4,80/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "NOK 5,10/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "NOK 4,80/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-07-12T14:40:44.401459",
+      "name": "Västerås, Sweden",
+      "address": "Stockholmsvägen 134, 72134 Västerås, SE",
+      "gps": {
+        "lat": 59.608723,
+        "lon": 16.622328
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "SEK 2,70/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "SEK 2,70/kWh"
+            },
+            {
+              "label": "09:00 - 21:00",
+              "rate": "SEK 4,10/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "SEK 2,70/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "SEK 3,80/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "SEK 3,80/kWh"
+            },
+            {
+              "label": "09:00 - 21:00",
+              "rate": "SEK 5,80/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "SEK 3,80/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-07-12T14:50:57.279604",
+      "name": "Bernin, France",
+      "address": "Chemin des Fontaines 134, 38190 Bernin, FR",
+      "gps": {
+        "lat": 45.266076,
+        "lon": 5.87643
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,17/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,17/kWh"
+            },
+            {
+              "label": "09:00 - 22:00",
+              "rate": "€ 0,36/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,17/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,21/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,21/kWh"
+            },
+            {
+              "label": "09:00 - 22:00",
+              "rate": "€ 0,45/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,21/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-07-12T15:10:36.410878",
+      "name": "Le Bosc, France",
+      "address": "Zae la Méridienne Sortie 54, A75 None, 34700 Le Bosc, FR",
+      "gps": {
+        "lat": 43.68814,
+        "lon": 3.355094
+      },
+      "stalls": 24,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,33/kWh"
+            },
+            {
+              "label": "09:00 - 22:00",
+              "rate": "€ 0,37/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,36/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,41/kWh"
+            },
+            {
+              "label": "09:00 - 22:00",
+              "rate": "€ 0,46/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "€ 0,36/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-07-12T15:20:51.013728",
+      "name": "Giessen, Germany",
+      "address": "Grünberger Str. 152, 35394 Giessen, DE",
+      "gps": {
+        "lat": 50.588151,
+        "lon": 8.707613
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,28/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,28/kWh"
+            },
+            {
+              "label": "08:00 - 00:00",
+              "rate": "€ 0,43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,38/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,38/kWh"
+            },
+            {
+              "label": "08:00 - 00:00",
+              "rate": "€ 0,58/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-07-12T15:40:31.463817",
+      "name": "Colombe, France",
+      "address": "Rte de Rives 250, 38690 Colombe, FR",
+      "gps": {
+        "lat": 45.39615,
+        "lon": 5.46684
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,21/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,21/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,21/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,27/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,27/kWh"
+            },
+            {
+              "label": "09:00 - 20:00",
+              "rate": "€ 0,55/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,27/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-07-12T15:50:48.021031",
+      "name": "Mikkeli, Finland",
+      "address": "Tullikatu 2, 50100 Mikkeli, FI",
+      "gps": {
+        "lat": 61.68877,
+        "lon": 27.280969
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,28/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,32/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,28/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "€ 0,35/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "€ 0,40/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "€ 0,35/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-07-12T16:10:23.543556",
+      "name": "Halmstad, Sweden",
+      "address": "Prästvägen 1, 30263 Halmstad, SE",
+      "gps": {
+        "lat": 56.657274,
+        "lon": 12.9076
+      },
+      "stalls": 40,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "SEK 3,90/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "SEK 4,10/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "SEK 3,90/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 16:00",
+              "rate": "SEK 5,40/kWh"
+            },
+            {
+              "label": "16:00 - 20:00",
+              "rate": "SEK 5,80/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "SEK 5,40/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-07-12T16:35:54.150010",
+      "name": "Alessandria, Italy",
+      "address": "Via Vecchia Torino 20, 15121 Alessandria, IT",
+      "gps": {
+        "lat": 44.91635655,
+        "lon": 8.59953817
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,31/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,31/kWh"
+            },
+            {
+              "label": "08:00 - 21:00",
+              "rate": "€ 0,50/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "€ 0,31/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,39/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,39/kWh"
+            },
+            {
+              "label": "08:00 - 21:00",
+              "rate": "€ 0,64/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "€ 0,39/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-07-12T16:40:16.965517",
+      "name": "Winchester - Easton Ln, UK",
+      "address": "Easton Lane None, SO23 7RR Winchester, GB",
+      "gps": {
+        "lat": 51.067845,
+        "lon": -1.300032
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "£ 0,23/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "£ 0,23/kWh"
+            },
+            {
+              "label": "08:00 - 22:00",
+              "rate": "£ 0,46/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "£ 0,23/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-07-12T17:05:45.126153",
+      "name": "Sortland, Norway",
+      "address": "Strandgata 12 12, 8400 Sortland, NO",
+      "gps": {
+        "lat": 68.69688,
+        "lon": 15.417851
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "NOK 2,20/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "NOK 2,20/kWh"
+            },
+            {
+              "label": "10:00 - 20:00",
+              "rate": "NOK 4,60/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "NOK 2,60/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "NOK 3,10/kWh"
+            },
+            {
+              "label": "04:00 - 10:00",
+              "rate": "NOK 3,10/kWh"
+            },
+            {
+              "label": "10:00 - 20:00",
+              "rate": "NOK 6,40/kWh"
+            },
+            {
+              "label": "20:00 - 00:00",
+              "rate": "NOK 3,70/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-07-12T17:10:07.525581",
+      "name": "Białystok, Poland",
+      "address": "Świętojańska 15, 15-277 Białystok, PL",
+      "gps": {
+        "lat": 53.125881,
+        "lon": 23.170635
+      },
+      "stalls": 6,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "PLN 1,10/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "PLN 1,10/kWh"
+            },
+            {
+              "label": "09:00 - 22:00",
+              "rate": "PLN 1,70/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "PLN 1,10/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-07-12T17:35:37.964891",
+      "name": "Hattersheim, Germany",
+      "address": "Heddingheimer Straße 2-4, 65795 Hattersheim am Main, DE",
+      "gps": {
+        "lat": 50.071045,
+        "lon": 8.475464
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,25/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,25/kWh"
+            },
+            {
+              "label": "08:00 - 00:00",
+              "rate": "€ 0,43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,33/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,33/kWh"
+            },
+            {
+              "label": "08:00 - 00:00",
+              "rate": "€ 0,56/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-07-12T17:40:00.225231",
+      "name": "Reading, UK",
+      "address": "S Oak Way 250, RG2 6UG Reading, GB",
+      "gps": {
+        "lat": 51.420596,
+        "lon": -0.988024
+      },
+      "stalls": 4,
+      "maxPowerKw": 130,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "£ 0,24/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "£ 0,24/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "£ 0,45/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "£ 0,24/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "£ 0,33/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "£ 0,33/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "£ 0,62/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "£ 0,33/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-07-12T18:05:30.484105",
+      "name": "Hovden, Norway",
+      "address": "Fjellgardstun None, 4756 Hovden, NO",
+      "gps": {
+        "lat": 59.560504,
+        "lon": 7.355925
+      },
+      "stalls": 12,
+      "maxPowerKw": 150,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "NOK 3,30/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "NOK 3,30/kWh"
+            },
+            {
+              "label": "09:00 - 21:00",
+              "rate": "NOK 4,60/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "NOK 3,30/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "NOK 4,10/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "NOK 4,10/kWh"
+            },
+            {
+              "label": "09:00 - 21:00",
+              "rate": "NOK 5,80/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "NOK 4,10/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-07-12T18:09:52.952179",
+      "name": "Almaty, Kazakhstan",
+      "address": "Al-Farabi Avenue 77/8, 050040 Almaty, KZ",
+      "gps": {
+        "lat": 43.218804,
+        "lon": 76.927083
+      },
+      "stalls": 4,
+      "maxPowerKw": 125
+    },
+    {
+      "filedate": "2026-07-12T18:35:23.257875",
+      "name": "Lućmierz, Poland",
+      "address": "Sadowa 4, 95 Lućmierz, PL",
+      "gps": {
+        "lat": 51.8875,
+        "lon": 19.383935
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "PLN 1,40/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "PLN 1,40/kWh"
+            },
+            {
+              "label": "09:00 - 22:00",
+              "rate": "PLN 1,60/kWh"
+            },
+            {
+              "label": "22:00 - 00:00",
+              "rate": "PLN 1,40/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-07-12T18:39:45.562117",
+      "name": "Artix, France",
+      "address": "Rue des Écureuils 51, 64170 Artix, FR",
+      "gps": {
+        "lat": 43.393007,
+        "lon": -0.555093
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,23/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,23/kWh"
+            },
+            {
+              "label": "08:00 - 21:00",
+              "rate": "€ 0,32/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "€ 0,23/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,29/kWh"
+            },
+            {
+              "label": "08:00 - 21:00",
+              "rate": "€ 0,40/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "€ 0,29/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-07-12T19:09:37.992377",
+      "name": "Södertälje, Sweden",
+      "address": "Genetaleden 9, 151 59 Södertälje, SE",
+      "gps": {
+        "lat": 59.18721,
+        "lon": 17.581131
+      },
+      "stalls": 20,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "SEK 2,50/kWh"
+            },
+            {
+              "label": "04:00 - 21:00",
+              "rate": "SEK 4,10/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "SEK 2,50/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "SEK 3,10/kWh"
+            },
+            {
+              "label": "04:00 - 21:00",
+              "rate": "SEK 5,10/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "SEK 3,10/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-07-12T19:39:30.992255",
+      "name": "Oberhausen, Germany - Neue Mitte",
+      "address": "Brammenring 30, 46047 Oberhausen, DE",
+      "gps": {
+        "lat": 51.485456,
+        "lon": 6.886987
+      },
+      "stalls": 11,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,43/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,28/kWh"
+            },
+            {
+              "label": "09:00 - 00:00",
+              "rate": "€ 0,43/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,60/kWh"
+            },
+            {
+              "label": "04:00 - 09:00",
+              "rate": "€ 0,39/kWh"
+            },
+            {
+              "label": "09:00 - 00:00",
+              "rate": "€ 0,60/kWh"
             }
           ]
         }
