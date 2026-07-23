@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2026-07-23T08:52:19.181200",
+    "jsonfiledate": "2026-07-23T13:57:16.786154",
     "chargerCount": 1520,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -832,41 +832,6 @@
       ]
     },
     {
-      "filedate": "2026-06-20T14:53:38.140936",
-      "name": "Birmingham Airport Services, UK",
-      "address": "Coventry Rd Birmingham Airport, B26 3QS Birmingham, GB",
-      "gps": {
-        "lat": 52.4453097,
-        "lon": -1.7485046
-      },
-      "stalls": 8,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 23:59",
-              "rate": "£0.77/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 23:59",
-              "rate": "£0.77/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "filedate": "2026-06-20T19:41:59.637755",
       "name": "Karlsruhe, Germany - Grünwinkel",
       "address": "Carl-Metz-Straße 7, 76185 Karlsruhe, DE",
@@ -1291,73 +1256,6 @@
       ]
     },
     {
-      "filedate": "2026-06-21T02:47:21.854152",
-      "name": "Harderwijk, Netherlands",
-      "address": "Boekhorstlaan 4, 3847 LP Harderwijk, NL",
-      "gps": {
-        "lat": 52.335916,
-        "lon": 5.643857
-      },
-      "stalls": 16,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,26/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,26/kWh"
-            },
-            {
-              "label": "08:00 - 19:00",
-              "rate": "€ 0,47/kWh"
-            },
-            {
-              "label": "19:00 - 23:00",
-              "rate": "€ 0,42/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,26/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "€ 0,35/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "€ 0,35/kWh"
-            },
-            {
-              "label": "08:00 - 19:00",
-              "rate": "€ 0,63/kWh"
-            },
-            {
-              "label": "19:00 - 23:00",
-              "rate": "€ 0,56/kWh"
-            },
-            {
-              "label": "23:00 - 00:00",
-              "rate": "€ 0,35/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "filedate": "2026-06-21T03:05:34.548971",
       "name": "Reocín, Spain",
       "address": "Autovía del Cantábrico Km 234, 39538 Reocín, ES",
@@ -1525,30 +1423,6 @@
             {
               "label": "22:00 - 00:00",
               "rate": "€ 0,52/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2026-06-21T06:17:04.697620",
-      "name": "Völkermarkt, Austria",
-      "address": "IGP Süd Völkermarkt 21, 9100 Völkermarkt, AT",
-      "gps": {
-        "lat": 46.682006,
-        "lon": 14.677734
-      },
-      "stalls": 16,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 23:59",
-              "rate": "€0.48/kWh"
             }
           ]
         }
@@ -1848,41 +1722,6 @@
             {
               "label": "22:00 - 00:00",
               "rate": "€ 0,35/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2026-06-21T13:42:43.935256",
-      "name": "Kirke Såby, Denmark",
-      "address": "Landevejen 51, 4060 Kirke såby, DK",
-      "gps": {
-        "lat": 55.640211,
-        "lon": 11.831977
-      },
-      "stalls": 16,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 23:59",
-              "rate": "DKK 2.60/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 23:59",
-              "rate": "DKK 3.60/kWh"
             }
           ]
         }
@@ -2374,41 +2213,6 @@
             {
               "label": "20:00 - 00:00",
               "rate": "£ 0,36/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2026-06-21T23:57:42.640095",
-      "name": "Odense, Denmark",
-      "address": "Ørbækvej 75, 5220 Odense, DK",
-      "gps": {
-        "lat": 55.384464,
-        "lon": 10.427848
-      },
-      "stalls": 28,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 23:59",
-              "rate": "DKK 2.60/kWh"
-            }
-          ]
-        },
-        {
-          "chargingLabel": "Charging Fees for Other EVs",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 23:59",
-              "rate": "DKK 3.60/kWh"
             }
           ]
         }
@@ -73443,6 +73247,194 @@
             {
               "label": "23:00 - 00:00",
               "rate": "€ 0,33/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-07-23T09:32:36.590832",
+      "name": "Birmingham Airport Services, UK",
+      "address": "Coventry Rd Birmingham Airport, B26 3QS Birmingham, GB",
+      "gps": {
+        "lat": 52.4453097,
+        "lon": -1.7485046
+      },
+      "stalls": 8,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 23:59",
+              "rate": "£0.77/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 23:59",
+              "rate": "£0.77/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-07-23T10:14:02.845039",
+      "name": "Kirke Såby, Denmark",
+      "address": "Landevejen 51, 4060 Kirke såby, DK",
+      "gps": {
+        "lat": 55.640211,
+        "lon": 11.831977
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 23:59",
+              "rate": "DKK 2.60/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 23:59",
+              "rate": "DKK 3.60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-07-23T12:16:38.365203",
+      "name": "Odense, Denmark",
+      "address": "Ørbækvej 75, 5220 Odense, DK",
+      "gps": {
+        "lat": 55.384464,
+        "lon": 10.427848
+      },
+      "stalls": 28,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 23:59",
+              "rate": "DKK 2.60/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 23:59",
+              "rate": "DKK 3.60/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-07-23T13:04:05.255069",
+      "name": "Harderwijk, Netherlands",
+      "address": "Boekhorstlaan 4, 3847 LP Harderwijk, NL",
+      "gps": {
+        "lat": 52.335929,
+        "lon": 5.643556
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,26/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,26/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,42/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,26/kWh"
+            }
+          ]
+        },
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "€ 0,35/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "€ 0,35/kWh"
+            },
+            {
+              "label": "08:00 - 23:00",
+              "rate": "€ 0,56/kWh"
+            },
+            {
+              "label": "23:00 - 00:00",
+              "rate": "€ 0,35/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-07-23T13:51:27.286716",
+      "name": "Völkermarkt, Austria",
+      "address": "IGP Süd Völkermarkt 21, 9100 Völkermarkt, AT",
+      "gps": {
+        "lat": 46.682006,
+        "lon": 14.677734
+      },
+      "stalls": 16,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Other EVs",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 23:59",
+              "rate": "€0.41/kWh"
             }
           ]
         }
