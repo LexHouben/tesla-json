@@ -1,6 +1,6 @@
 {
   "meta": {
-    "jsonfiledate": "2026-07-23T13:57:16.786154",
+    "jsonfiledate": "2026-07-23T15:34:42.802988",
     "chargerCount": 1520,
     "sourceDir": "html",
     "generator": "parse_all_superchargers",
@@ -1592,42 +1592,6 @@
             {
               "label": "20:00 - 00:00",
               "rate": "SEK 5,55/kWh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "filedate": "2026-06-21T09:34:26.232100",
-      "name": "Birch, UK - Westbound",
-      "address": "M6 Westbound M62, OL10 2QH Heywood, GB",
-      "gps": {
-        "lat": 53.567491,
-        "lon": -2.229448
-      },
-      "stalls": 12,
-      "maxPowerKw": 250,
-      "pricing": [
-        {
-          "chargingLabel": "Charging Fees for Tesla Owner",
-          "idleFee": null,
-          "idleLabel": "Idle fees (tot)",
-          "pricingDetails": [
-            {
-              "label": "00:00 - 04:00",
-              "rate": "£ 0,36/kWh"
-            },
-            {
-              "label": "04:00 - 08:00",
-              "rate": "£ 0,36/kWh"
-            },
-            {
-              "label": "08:00 - 21:00",
-              "rate": "£ 0,45/kWh"
-            },
-            {
-              "label": "21:00 - 00:00",
-              "rate": "£ 0,36/kWh"
             }
           ]
         }
@@ -73435,6 +73399,42 @@
             {
               "label": "00:00 - 23:59",
               "rate": "€0.41/kWh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filedate": "2026-07-23T15:31:22.356699",
+      "name": "Birch, UK - Westbound",
+      "address": "M6 Westbound M62, OL10 2QH Heywood, GB",
+      "gps": {
+        "lat": 53.567491,
+        "lon": -2.229448
+      },
+      "stalls": 12,
+      "maxPowerKw": 250,
+      "pricing": [
+        {
+          "chargingLabel": "Charging Fees for Tesla Owner",
+          "idleFee": null,
+          "idleLabel": "Idle fees (tot)",
+          "pricingDetails": [
+            {
+              "label": "00:00 - 04:00",
+              "rate": "£ 0,34/kWh"
+            },
+            {
+              "label": "04:00 - 08:00",
+              "rate": "£ 0,34/kWh"
+            },
+            {
+              "label": "08:00 - 21:00",
+              "rate": "£ 0,46/kWh"
+            },
+            {
+              "label": "21:00 - 00:00",
+              "rate": "£ 0,34/kWh"
             }
           ]
         }
